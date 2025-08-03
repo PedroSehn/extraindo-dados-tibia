@@ -1,0 +1,578 @@
+[
+    {
+        "Nome": "Battle Stone",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/10/Battle_Stone.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.50",
+        "Dropa_de": "Armadile , Behemoth , Ogre Brute ."
+    },
+    {
+        "Nome": "Blazing Bone",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/01/Blazing_Bone.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.20",
+        "Dropa_de": "Hellhound , Lava Golem , Magma Crawler , Vulcongra , Weeper ."
+    },
+    {
+        "Nome": "Bloody Pincers",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1d/Bloody_Pincers.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.20",
+        "Dropa_de": "Blood Crab , Deepsea Blood Crab , Thanatursus ."
+    },
+    {
+        "Nome": "Brimstone Fangs",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/7a/Brimstone_Fangs.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.12",
+        "Dropa_de": "Brimstone Bug , Sulphur Scuttler ."
+    },
+    {
+        "Nome": "Brimstone Shell",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/d9/Brimstone_Shell.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.12",
+        "Dropa_de": "Brimstone Bug , Sulphur Scuttler ."
+    },
+    {
+        "Nome": "Broken Shamanic Staff",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/29/Broken_Shamanic_Staff.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.28",
+        "Dropa_de": "Ogre Sage , Ogre Shaman , Orc Cult Priest , Orc Shaman , Scar Tribe Shaman ."
+    },
+    {
+        "Nome": "Compass",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1c/Compass.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.80",
+        "Dropa_de": "Pirate Marauder , Pirate Cutthroat , Pirate Buccaneer , Pirate Corsair ."
+    },
+    {
+        "Nome": "Crawler Head Plating",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/be/Crawler_Head_Plating.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.65",
+        "Dropa_de": "Crawler , Shadowstalker ."
+    },
+    {
+        "Nome": "Crystallized Anger",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f8/Crystallized_Anger.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "12.00",
+        "Dropa_de": "Breach Brood , Burster , Realityquake , The Last Lore Keeper , The Source Of Corruption , World Devourer ."
+    },
+    {
+        "Nome": "Cultish Mask",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/4c/Cultish_Mask.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.65",
+        "Dropa_de": "Enlightened of the Cult ."
+    },
+    {
+        "Nome": "Cultish Robe",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/38/Cultish_Robe.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Acolyte of the Cult , Adept of the Cult , Cult Believer , Cult Scholar , Minotaur Cult Follower , Minotaur Cult Prophet , Minotaur Cult Zealot , Novice of the Cult , Orc Cult Fanatic , Orc Cult Inquisitor , Orc Cult Minion , Orc Cult Priest , Orc Cultist , Priestess ."
+    },
+    {
+        "Nome": "Cyclops Toe",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/bd/Cyclops_Toe.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.11",
+        "Dropa_de": "Cyclops , Cyclops Drone , Cyclops Smith , Juvenile Cyclops , The Old Whopper ."
+    },
+    {
+        "Nome": "Damselfly Wing",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/84/Damselfly_Wing.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.20",
+        "Dropa_de": "Dawnfly , Emerald Damselfly ."
+    },
+    {
+        "Nome": "Deepling Warts",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/54/Deepling_Warts.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.40",
+        "Dropa_de": "Deathling Scout , Deathling Spellsinger , Deepling Elite , Deepling Warrior ."
+    },
+    {
+        "Nome": "Demon Horn",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b8/Demon_Horn.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "10.00",
+        "Dropa_de": "Angry Demon , Annihilon , Demon , Ghulosh , Gorzindel , Hellgorak , Horadron , Lokathmor , Madareth , Mazzinor , Prince Drazzak , Terofar , Zavarash , Zugurosh , Ushuriel ."
+    },
+    {
+        "Nome": "Demonic Skeletal Hand",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8f/Demonic_Skeletal_Hand.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.32",
+        "Dropa_de": "Demon Skeleton ."
+    },
+    {
+        "Nome": "Draken Sulphur",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/51/Draken_Sulphur.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.68",
+        "Dropa_de": "Draken Elite , Draken Spellweaver , Paiz the Pauperizer ."
+    },
+    {
+        "Nome": "Elven Hoof",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/ca/Elven_Hoof.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.30",
+        "Dropa_de": "Elder Forest Fury , Forest Fury ."
+    },
+    {
+        "Nome": "Elven Scouting Glass",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/cf/Elven_Scouting_Glass.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.80",
+        "Dropa_de": "Elf Scout ."
+    },
+    {
+        "Nome": "Elvish Talisman",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a4/Elvish_Talisman.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.10",
+        "Dropa_de": "Crazed Summer Rearguard , Elf , Elf Arcanist , Elf Overseer , Elf Scout , Firestarter , Soul-Broken Harbinger ."
+    },
+    {
+        "Nome": "Energy Vein",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/dc/Energy_Vein.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Dreadful Disruptor , Realityquake , Reality Reaver , The Last Lore Keeper , Tunnel Tyrant , World Devourer ."
+    },
+    {
+        "Nome": "Fairy Wings",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1d/Fairy_Wings.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Boogy , Dark Faun , Enfeebled Silencer , Kroazur , Raxias , Twisted Pooka , Weakened Frazzlemaw ."
+    },
+    {
+        "Nome": "Fiery Heart",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/7d/Fiery_Heart.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.15",
+        "Dropa_de": "Blazing Fire Elemental , Blistering Fire Elemental , Hellfire Fighter , Hellhound , Fire Overlord , Lava Golem , Magma Crawler , Thornfire Wolf , Vulcongra , Weeper ."
+    },
+    {
+        "Nome": "Flask of Embalming Fluid",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/c2/Flask_of_Embalming_Fluid.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.75",
+        "Dropa_de": "Elder Mummy , Mahatheb , Mummy ."
+    },
+    {
+        "Nome": "Frazzle Skin",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/d6/Frazzle_Skin.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.90",
+        "Dropa_de": "Animated Guzzlemaw , Frazzlemaw , Guzzlemaw , Nibblemaw , Weakened Frazzlemaw ."
+    },
+    {
+        "Nome": "Frosty Heart",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/83/Frosty_Heart.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.86",
+        "Dropa_de": "Frost Dragon Hatchling , Hirintror , Icecold Book , Ice Golem , Melting Frozen Horror , Shardhead , Squid Warden ."
+    },
+    {
+        "Nome": "Ghostly Tissue",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/c9/Ghostly_Tissue.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.50",
+        "Dropa_de": "Enraged Soul , Ghost , Tarnished Spirit ."
+    },
+    {
+        "Nome": "Gloom Wolf Fur",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/ff/Gloom_Wolf_Fur.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.20",
+        "Dropa_de": "Gloom Wolf ."
+    },
+    {
+        "Nome": "Gold-Brocaded Cloth",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/79/Gold-Brocaded_Cloth.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.10",
+        "Dropa_de": "Ahau , Iks Ahpututu , Iks Aucar , Iks Chuka , Iks Pututu ."
+    },
+    {
+        "Nome": "Goosebump Leather",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/06/Goosebump_Leather.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.80",
+        "Dropa_de": "Retching Horror , Shock Head ."
+    },
+    {
+        "Nome": "Green Dragon Leather",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/d9/Green_Dragon_Leather.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.60",
+        "Dropa_de": "Dragon ."
+    },
+    {
+        "Nome": "Green Dragon Scale",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/ac/Green_Dragon_Scale.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.80",
+        "Dropa_de": "Dragon ."
+    },
+    {
+        "Nome": "Hellspawn Tail",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a3/Hellspawn_Tail.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.25",
+        "Dropa_de": "Hellspawn , Flameborn ."
+    },
+    {
+        "Nome": "Lion's Mane",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/04/Lion%27s_Mane.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Lion , Noble Lion , Roaring Lion , Werelion , Werelioness ."
+    },
+    {
+        "Nome": "Little Bowl of Myrrh",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/38/Little_Bowl_of_Myrrh.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.60",
+        "Dropa_de": "Putrid Mummy ."
+    },
+    {
+        "Nome": "Mantassin Tail",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/37/Mantassin_Tail.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.15",
+        "Dropa_de": "Renegade Quara Mantassin , Quara Mantassin , Quara Mantassin Scout ."
+    },
+    {
+        "Nome": "Metal Spike",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/cf/Metal_Spike.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.50",
+        "Dropa_de": "Destroyer , Bretzecutioner ."
+    },
+    {
+        "Nome": "Mooh'tah Shell",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b2/Mooh%27tah_Shell.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Moohtant Wallbreaker , Mooh'Tah Warrior ."
+    },
+    {
+        "Nome": "Moohtant Horn",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/0f/Moohtant_Horn.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "3.50",
+        "Dropa_de": "Animated Moohtant , Bullwark , Glooth Bomb , Moohtant , Moohtant Wallbreaker ."
+    },
+    {
+        "Nome": "Mystical Hourglass",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/08/Mystical_Hourglass.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.96",
+        "Dropa_de": "Grim Reaper , The Last Lore Keeper ."
+    },
+    {
+        "Nome": "Ogre Nose Ring",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/9b/Ogre_Nose_Ring.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "21.00",
+        "Dropa_de": "Animated Ogre Brute , Animated Ogre Shaman , Ogre Brute , Ogre Rowdy , Ogre Ruffian , Ogre Sage , Ogre Savage , Ogre Shaman , Shaper Matriarch ."
+    },
+    {
+        "Nome": "Orc Tooth",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/70/Orc_Tooth.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.00",
+        "Dropa_de": "Orc , Orc Berserker , Orc Cult Fanatic , Orc Cult Inquisitor , Orc Cult Priest , Orc Leader , Orc Marauder , Orc Rider , Orc Shaman , Orc Spearman , Orc Warlord , Orc Warrior , Renegade Orc , Scar Tribe Shaman ."
+    },
+    {
+        "Nome": "Peacock Feather Fan",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fc/Peacock_Feather_Fan.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Dawnfire Asura , Kusuma , Midnight Asura , The Blazing Rose , The Diamond Blossom , The Flaming Orchid , The Lily Of Night , True Midnight Asura ."
+    },
+    {
+        "Nome": "Petrified Scream",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/0f/Petrified_Scream.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.50",
+        "Dropa_de": "Banshee ."
+    },
+    {
+        "Nome": "Piece of Dead Brain",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/85/Piece_of_Dead_Brain.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.32",
+        "Dropa_de": "Braindeath , Rage Squid , Squid Warden ."
+    },
+    {
+        "Nome": "Piece of Scarab Shell",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/45/Piece_of_Scarab_Shell.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.42",
+        "Dropa_de": "Scarab ."
+    },
+    {
+        "Nome": "Piece of Swampling Wood",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f6/Piece_of_Swampling_Wood.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "3.50",
+        "Dropa_de": "Swampling , Woodling ."
+    },
+    {
+        "Nome": "Pile of Grave Earth",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/65/Pile_of_Grave_Earth.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.98",
+        "Dropa_de": "Ghoul , Gravedigger ."
+    },
+    {
+        "Nome": "Poisonous Slime",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b9/Poisonous_Slime.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.80",
+        "Dropa_de": "Blood Beast , Brimstone Bug , Diremaw , Filth Toad , Ink Blob , Ink Splash , Lancer Beetle , Stonerefiner , Sulphur Scuttler , Toad ."
+    },
+    {
+        "Nome": "Polar Bear Paw",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/3e/Polar_Bear_Paw.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.50",
+        "Dropa_de": "Polar Bear ."
+    },
+    {
+        "Nome": "Protective Charm",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fb/Protective_Charm.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.20",
+        "Dropa_de": "Amazon , Valkyrie ."
+    },
+    {
+        "Nome": "Quill",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fd/Quill.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.90",
+        "Dropa_de": "Animated Feather , Icecold Book , Knowledge Elemental ."
+    },
+    {
+        "Nome": "Rope Belt",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/69/Rope_Belt.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.97",
+        "Dropa_de": "Acolyte of the Cult , Adept of the Cult , Crypt Defiler , Dark Monk , Grave Robber , Monk , Novice of the Cult , Nomad , Nomad (Blue) ."
+    },
+    {
+        "Nome": "Rorc Feather",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b8/Rorc_Feather.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Rorc ."
+    },
+    {
+        "Nome": "Sabretooth (Item)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f7/Sabretooth_%28Item%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.28",
+        "Dropa_de": "Mutated Tiger ."
+    },
+    {
+        "Nome": "Seacrest Hair",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/6e/Seacrest_Hair.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Seacrest Serpent ."
+    },
+    {
+        "Nome": "Silencer Claws",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/d6/Silencer_Claws.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "4.20",
+        "Dropa_de": "Enfeebled Silencer , Silencer ."
+    },
+    {
+        "Nome": "Slime Heart",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/65/Slime_Heart.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Blood Beast , Cave Devourer , Rage Squid , Squid Warden ."
+    },
+    {
+        "Nome": "Snake Skin",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/3e/Snake_Skin.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.00",
+        "Dropa_de": "Serpent Spawn , Srezz Yellow Eyes , The Noxious Spawn ."
+    },
+    {
+        "Nome": "Some Grimeleech Wings",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8c/Some_Grimeleech_Wings.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "8.50",
+        "Dropa_de": "Grimeleech ."
+    },
+    {
+        "Nome": "Strand of Medusa Hair",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/57/Strand_of_Medusa_Hair.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.30",
+        "Dropa_de": "Medusa , Gorgo ."
+    },
+    {
+        "Nome": "Swamp Grass",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/6f/Swamp_Grass.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.94",
+        "Dropa_de": "Swamp Troll ."
+    },
+    {
+        "Nome": "Thick Fur",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fc/Thick_Fur.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.25",
+        "Dropa_de": "Animated Clomp , Clomp , Mammoth ."
+    },
+    {
+        "Nome": "Vampire Teeth",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f1/Vampire_Teeth.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.50",
+        "Dropa_de": "Nightfiend , Vampire , Vampire Bride , Vampire Viscount ."
+    },
+    {
+        "Nome": "Vexclaw Talon",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f7/Vexclaw_Talon.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "9.00",
+        "Dropa_de": "Vexclaw ."
+    },
+    {
+        "Nome": "War Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/41/War_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.45",
+        "Dropa_de": "Control Tower , Ironblight , War Golem ."
+    },
+    {
+        "Nome": "Warmaster's Wristguards",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/48/Warmaster%27s_Wristguards.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.20",
+        "Dropa_de": "Draken Warmaster ."
+    },
+    {
+        "Nome": "Waspoid Wing",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/69/Waspoid_Wing.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.90",
+        "Dropa_de": "Chopper , Waspoid ."
+    },
+    {
+        "Nome": "Wereboar Hooves",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/0d/Wereboar_Hooves.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Bloodback , Wereboar ."
+    },
+    {
+        "Nome": "Winter Wolf Fur",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fa/Winter_Wolf_Fur.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.10",
+        "Dropa_de": "Winter Wolf ."
+    },
+    {
+        "Nome": "Wyrm Scale",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/de/Wyrm_Scale.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Elder Wyrm , Wyrm ."
+    },
+    {
+        "Nome": "Wyvern Talisman",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a3/Wyvern_Talisman.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.25",
+        "Dropa_de": "Wyvern ."
+    }
+]

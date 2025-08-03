@@ -1,0 +1,610 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Nome</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Lvl</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Voc</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Def</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Bônus</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Proteção</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Slots</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dropa de</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Alchemist%27s_Notepad" title="Alchemist's Notepad">Alchemist's Notepad</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Alchemist%27s_Notepad.gif" class="image fancybox"><img alt="Alchemist's Notepad.gif" src="/images/2/2d/Alchemist%27s_Notepad.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2, <a href="/wiki/Fire_Magic_Level" class="mw-redirect" title="Fire Magic Level">Fire Magic Level</a> +3, <a href="/wiki/Energy_Magic_Level" class="mw-redirect" title="Energy Magic Level">Energy Magic Level</a> +3</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +5%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>13.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/The_Monster" title="The Monster">The Monster</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Arboreal_Tome" title="Arboreal Tome">Arboreal Tome</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Arboreal_Tome.gif" class="image fancybox"><img alt="Arboreal Tome.gif" src="/images/c/cc/Arboreal_Tome.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>22</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +5, <a href="/wiki/Ice_Magic_Level" class="mw-redirect" title="Ice Magic Level">Ice Magic Level</a> +1, <a href="/wiki/Healing_Magic_Level" class="mw-redirect" title="Healing Magic Level">Healing Magic Level</a> +1</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +4%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +6%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>23.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Magma_Bubble" title="Magma Bubble">Magma Bubble</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Arcanomancer_Folio" title="Arcanomancer Folio">Arcanomancer Folio</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Arcanomancer_Folio.gif" class="image fancybox"><img alt="Arcanomancer Folio.gif" src="/images/5/5b/Arcanomancer_Folio.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>22</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +5, <a href="/wiki/Fire_Magic_Level" class="mw-redirect" title="Fire Magic Level">Fire Magic Level</a> +1, <a href="/wiki/Energy_Magic_Level" class="mw-redirect" title="Energy Magic Level">Energy Magic Level</a> +1</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +3%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +8%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>26.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Magma_Bubble" title="Magma Bubble">Magma Bubble</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Book_of_Lies" title="Book of Lies">Book of Lies</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Book_of_Lies.gif" class="image fancybox"><img alt="Book of Lies.gif" src="/images/0/00/Book_of_Lies.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>150</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="17.5%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>24.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Lady_Tenebris" title="Lady Tenebris">Lady Tenebris</a>, <a href="/wiki/Zamulosh" title="Zamulosh">Zamulosh</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Brain_in_a_Jar" title="Brain in a Jar">Brain in a Jar</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Brain_in_a_Jar.gif" class="image fancybox"><img alt="Brain in a Jar.gif" src="/images/a/a9/Brain_in_a_Jar.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>19</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +7%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>27.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Maxxenius" title="Maxxenius">Maxxenius</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cocoa_Grimoire" title="Cocoa Grimoire">Cocoa Grimoire</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cocoa_Grimoire.gif" class="image fancybox"><img alt="Cocoa Grimoire.gif" src="/images/8/87/Cocoa_Grimoire.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>19</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3, <a href="/wiki/Fire_Magic_Level" class="mw-redirect" title="Fire Magic Level">Fire Magic Level</a> +1, <a href="/wiki/Magic_Shield_Capacity" title="Magic Shield Capacity">Magic Shield Capacity</a> +150 e +3%</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +2%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +5%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>15.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Sugar_Daddy" title="Sugar Daddy">Sugar Daddy</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Creamy_Grimoire" title="Creamy Grimoire">Creamy Grimoire</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Creamy_Grimoire.gif" class="image fancybox"><img alt="Creamy Grimoire.gif" src="/images/6/62/Creamy_Grimoire.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>19</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3, <a href="/wiki/Healing_Magic_Level" class="mw-redirect" title="Healing Magic Level">Healing Magic Level</a> +1, <a href="/wiki/Magic_Shield_Capacity" title="Magic Shield Capacity">Magic Shield Capacity</a> +150 e +3%</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +2%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +5%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>17.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Sugar_Daddy" title="Sugar Daddy">Sugar Daddy</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crude_Umbral_Spellbook" title="Crude Umbral Spellbook">Crude Umbral Spellbook</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Crude_Umbral_Spellbook.gif" class="image fancybox"><img alt="Crude Umbral Spellbook.gif" src="/images/5/50/Crude_Umbral_Spellbook.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>14</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +2%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +2%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +2%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +2%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>40.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Lady_Tenebris" title="Lady Tenebris">Lady Tenebris</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Depth_Scutum" title="Depth Scutum">Depth Scutum</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Depth_Scutum.gif" class="image fancybox"><img alt="Depth Scutum.gif" src="/images/f/f4/Depth_Scutum.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>120</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>25</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="17.5%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>30.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ancient_Spawn_of_Morgathla" title="Ancient Spawn of Morgathla">Ancient Spawn of Morgathla</a>, <a href="/wiki/Obujos" title="Obujos">Obujos</a>, <a href="/wiki/Reflection_Of_Obujos" title="Reflection Of Obujos">Reflection Of Obujos</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Eldritch_Folio" title="Eldritch Folio">Eldritch Folio</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Eldritch_Folio.gif" class="image fancybox"><img alt="Eldritch Folio.gif" src="/images/7/75/Eldritch_Folio.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>21</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4, <a href="/wiki/Death_Magic_Level" class="mw-redirect" title="Death Magic Level">Death Magic Level</a> +1</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +6%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>28.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/The_Brainstealer" title="The Brainstealer">The Brainstealer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Eldritch_Tome" title="Eldritch Tome">Eldritch Tome</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Eldritch_Tome.gif" class="image fancybox"><img alt="Eldritch Tome.gif" src="/images/f/f8/Eldritch_Tome.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>21</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4, <a href="/wiki/Earth_Magic_Level" class="mw-redirect" title="Earth Magic Level">Earth Magic Level</a> +1</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +6%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>26.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/The_Brainstealer" title="The Brainstealer">The Brainstealer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lion_Spellbook" title="Lion Spellbook">Lion Spellbook</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Lion_Spellbook.gif" class="image fancybox"><img alt="Lion Spellbook.gif" src="/images/e/eb/Lion_Spellbook.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>220</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +3%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +7%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>25.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ancient_Lion_Knight" title="Ancient Lion Knight">Ancient Lion Knight</a>, <a href="/wiki/Drume" title="Drume">Drume</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Shoulder_Plate" title="Shoulder Plate">Shoulder Plate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Shoulder_Plate.gif" class="image fancybox"><img alt="Shoulder Plate.gif" src="/images/3/32/Shoulder_Plate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>26</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +6%, <a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +2%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>35.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Malofur_Mangrinder" title="Malofur Mangrinder">Malofur Mangrinder</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Snake_God%27s_Wristguard" title="Snake God's Wristguard">Snake God's Wristguard</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Snake_God%27s_Wristguard.gif" class="image fancybox"><img alt="Snake God's Wristguard.gif" src="/images/6/62/Snake_God%27s_Wristguard.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>14</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3</small>
+</td>
+<td width="17.5%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>28.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Draken_Abomination" title="Draken Abomination">Draken Abomination</a>, <a href="/wiki/Draken_Elite" title="Draken Elite">Draken Elite</a>, <a href="/wiki/Hatebreeder" title="Hatebreeder">Hatebreeder</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spellbook" title="Spellbook">Spellbook</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spellbook.gif" class="image fancybox"><img alt="Spellbook.gif" src="/images/7/7e/Spellbook.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>14</small>
+</td>
+<td width="17.5%"><small>Nenhum.</small>
+</td>
+<td width="17.5%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>18.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Banshee" title="Banshee">Banshee</a>, <a href="/wiki/Bonelord" title="Bonelord">Bonelord</a>, <a href="/wiki/Braindeath" title="Braindeath">Braindeath</a>, <a href="/wiki/Dark_Carnisylvan" title="Dark Carnisylvan">Dark Carnisylvan</a>, <a href="/wiki/Death_Priest" title="Death Priest">Death Priest</a>, <a href="/wiki/Dwarf_Geomancer" title="Dwarf Geomancer">Dwarf Geomancer</a>, <a href="/wiki/Elder_Bonelord" title="Elder Bonelord">Elder Bonelord</a>, <a href="/wiki/Lich" title="Lich">Lich</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spellbook_of_Ancient_Arcana" title="Spellbook of Ancient Arcana">Spellbook of Ancient Arcana</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spellbook_of_Ancient_Arcana.gif" class="image fancybox"><img alt="Spellbook of Ancient Arcana.gif" src="/images/3/3c/Spellbook_of_Ancient_Arcana.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>150</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>19</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>25.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spellbook_of_Dark_Mysteries" title="Spellbook of Dark Mysteries">Spellbook of Dark Mysteries</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spellbook_of_Dark_Mysteries.gif" class="image fancybox"><img alt="Spellbook of Dark Mysteries.gif" src="/images/9/96/Spellbook_of_Dark_Mysteries.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>80</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3</small>
+</td>
+<td width="17.5%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>28.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ferumbras_Mortal_Shell" title="Ferumbras Mortal Shell">Ferumbras Mortal Shell</a>, <a href="/wiki/Hellgorak" title="Hellgorak">Hellgorak</a>, <a href="/wiki/Horadron" title="Horadron">Horadron</a>, <a href="/wiki/Prince_Drazzak" title="Prince Drazzak">Prince Drazzak</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spellbook_of_Enlightenment" title="Spellbook of Enlightenment">Spellbook of Enlightenment</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spellbook_of_Enlightenment.gif" class="image fancybox"><img alt="Spellbook of Enlightenment.gif" src="/images/f/f3/Spellbook_of_Enlightenment.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>30</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="17.5%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>19.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Blood_Hand" title="Blood Hand">Blood Hand</a>, <a href="/wiki/Frost_Dragon_Hatchling" title="Frost Dragon Hatchling">Frost Dragon Hatchling</a>, <a href="/wiki/Golden_Servant" title="Golden Servant">Golden Servant</a>, <a href="/wiki/Golden_Servant_Replica" title="Golden Servant Replica">Golden Servant Replica</a>, <a href="/wiki/Iks_Ahpututu" title="Iks Ahpututu">Iks Ahpututu</a>, <a href="/wiki/Iks_Pututu" title="Iks Pututu">Iks Pututu</a>, <a href="/wiki/Jungle_Moa" title="Jungle Moa">Jungle Moa</a>, <a href="/wiki/Lloyd" title="Lloyd">Lloyd</a>, <a href="/wiki/Mutated_Rat" title="Mutated Rat">Mutated Rat</a>, <a href="/wiki/Omnivora" title="Omnivora">Omnivora</a>, <a href="/wiki/Shadow_Pupil" title="Shadow Pupil">Shadow Pupil</a>, <a href="/wiki/Two-Headed_Turtle" title="Two-Headed Turtle">Two-Headed Turtle</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spellbook_of_Lost_Souls" title="Spellbook of Lost Souls">Spellbook of Lost Souls</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spellbook_of_Lost_Souls.gif" class="image fancybox"><img alt="Spellbook of Lost Souls.gif" src="/images/1/17/Spellbook_of_Lost_Souls.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="17.5%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>25.60</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Eradicator" title="Eradicator">Eradicator</a>, <a href="/wiki/Ferumbras_Mortal_Shell" title="Ferumbras Mortal Shell">Ferumbras Mortal Shell</a>, <a href="/wiki/Hellgorak" title="Hellgorak">Hellgorak</a>, <a href="/wiki/Horadron" title="Horadron">Horadron</a>, <a href="/wiki/Lady_Tenebris" title="Lady Tenebris">Lady Tenebris</a>, <a href="/wiki/The_Souldespoiler" title="The Souldespoiler">The Souldespoiler</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spellbook_of_Mind_Control" title="Spellbook of Mind Control">Spellbook of Mind Control</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spellbook_of_Mind_Control.gif" class="image fancybox"><img alt="Spellbook of Mind Control.gif" src="/images/7/78/Spellbook_of_Mind_Control.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>50</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="17.5%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>24.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Blood_Priest" title="Blood Priest">Blood Priest</a>, <a href="/wiki/Carnivostrich" title="Carnivostrich">Carnivostrich</a>, <a href="/wiki/Choking_Fear" title="Choking Fear">Choking Fear</a>, <a href="/wiki/Dawnfire_Asura" title="Dawnfire Asura">Dawnfire Asura</a>, <a href="/wiki/Ferumbras_Mortal_Shell" title="Ferumbras Mortal Shell">Ferumbras Mortal Shell</a>, <a href="/wiki/Hellflayer" title="Hellflayer">Hellflayer</a>, <a href="/wiki/Hellgorak" title="Hellgorak">Hellgorak</a>, <a href="/wiki/Horadron" title="Horadron">Horadron</a>, <a href="/wiki/Infernalist" title="Infernalist">Infernalist</a>, <a href="/wiki/Lava_Golem" title="Lava Golem">Lava Golem</a>, <a href="/wiki/Midnight_Asura" title="Midnight Asura">Midnight Asura</a>, <a href="/wiki/Nighthunter" title="Nighthunter">Nighthunter</a>, <a href="/wiki/Raging_Mage" title="Raging Mage">Raging Mage</a>, <a href="/wiki/Serpent_Spawn" title="Serpent Spawn">Serpent Spawn</a>, <a href="/wiki/Soul-Broken_Harbinger" title="Soul-Broken Harbinger">Soul-Broken Harbinger</a>, <a href="/wiki/Soul_of_Dragonking_Zyrtarch" title="Soul of Dragonking Zyrtarch">Soul of Dragonking Zyrtarch</a>, <a href="/wiki/The_Noxious_Spawn" title="The Noxious Spawn">The Noxious Spawn</a>, <a href="/wiki/True_Midnight_Asura" title="True Midnight Asura">True Midnight Asura</a>, <a href="/wiki/Yirkas_Blue_Scales" title="Yirkas Blue Scales">Yirkas Blue Scales</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spellbook_of_the_Novice" title="Spellbook of the Novice">Spellbook of the Novice</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spellbook_of_the_Novice.gif" class="image fancybox"><img alt="Spellbook of the Novice.gif" src="/images/b/bb/Spellbook_of_the_Novice.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>8</small>
+</td>
+<td width="17.5%"><small>Nenhum.</small>
+</td>
+<td width="17.5%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>14.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spellbook_of_Vigilance" title="Spellbook of Vigilance">Spellbook of Vigilance</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spellbook_of_Vigilance.gif" class="image fancybox"><img alt="Spellbook of Vigilance.gif" src="/images/2/2c/Spellbook_of_Vigilance.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>130</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +3%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -3%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>27.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spellbook_of_Warding" title="Spellbook of Warding">Spellbook of Warding</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spellbook_of_Warding.gif" class="image fancybox"><img alt="Spellbook of Warding.gif" src="/images/d/df/Spellbook_of_Warding.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>40</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>22</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="17.5%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>21.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Anomaly" title="Anomaly">Anomaly</a>, <a href="/wiki/Blood_Priest" title="Blood Priest">Blood Priest</a>, <a href="/wiki/Dark_Carnisylvan" title="Dark Carnisylvan">Dark Carnisylvan</a>, <a href="/wiki/Energuardian_Of_Tales" title="Energuardian Of Tales">Energuardian Of Tales</a>, <a href="/wiki/Eradicator" title="Eradicator">Eradicator</a>, <a href="/wiki/Gorzindel" title="Gorzindel">Gorzindel</a>, <a href="/wiki/Guardian_Of_Tales" title="Guardian Of Tales">Guardian Of Tales</a>, <a href="/wiki/Hellgorak" title="Hellgorak">Hellgorak</a>, <a href="/wiki/High_Voltage_Elemental" title="High Voltage Elemental">High Voltage Elemental</a>, <a href="/wiki/Horadron" title="Horadron">Horadron</a>, <a href="/wiki/Lloyd" title="Lloyd">Lloyd</a>, <a href="/wiki/Lady_Tenebris" title="Lady Tenebris">Lady Tenebris</a>, <a href="/wiki/Mad_Mage" title="Mad Mage">Mad Mage</a>, <a href="/wiki/Massive_Energy_Elemental" title="Massive Energy Elemental">Massive Energy Elemental</a>, <a href="/wiki/Necromancer" title="Necromancer">Necromancer</a>, <a href="/wiki/Plagirath" title="Plagirath">Plagirath</a>, <a href="/wiki/Tremendous_Tyrant" title="Tremendous Tyrant">Tremendous Tyrant</a>, <a href="/wiki/Usurper_Commander" title="Usurper Commander">Usurper Commander</a>, <a href="/wiki/Varnished_Diremaw" title="Varnished Diremaw">Varnished Diremaw</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spellscroll_of_Prophecies" title="Spellscroll of Prophecies">Spellscroll of Prophecies</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spellscroll_of_Prophecies.gif" class="image fancybox"><img alt="Spellscroll of Prophecies.gif" src="/images/6/61/Spellscroll_of_Prophecies.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>70</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3</small>
+</td>
+<td width="17.5%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>26.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ferumbras_Mortal_Shell" title="Ferumbras Mortal Shell">Ferumbras Mortal Shell</a>, <a href="/wiki/Hellgorak" title="Hellgorak">Hellgorak</a>, <a href="/wiki/Horadron" title="Horadron">Horadron</a>, <a href="/wiki/Prince_Drazzak" title="Prince Drazzak">Prince Drazzak</a>, <a href="/wiki/The_Time_Guardian" title="The Time Guardian">The Time Guardian</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spirit_Guide" title="Spirit Guide">Spirit Guide</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spirit_Guide.gif" class="image fancybox"><img alt="Spirit Guide.gif" src="/images/4/42/Spirit_Guide.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>17</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +6%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>18.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Faceless_Bane" title="Faceless Bane">Faceless Bane</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Umbral_Master_Spellbook" title="Umbral Master Spellbook">Umbral Master Spellbook</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Umbral_Master_Spellbook.gif" class="image fancybox"><img alt="Umbral Master Spellbook.gif" src="/images/9/9c/Umbral_Master_Spellbook.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +5%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +5%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +5%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +5%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>30.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Umbral_Spellbook" title="Umbral Spellbook">Umbral Spellbook</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Umbral_Spellbook.gif" class="image fancybox"><img alt="Umbral Spellbook.gif" src="/images/e/e3/Umbral_Spellbook.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>150</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +3%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +3%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +3%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +3%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>35.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Lady_Tenebris" title="Lady Tenebris">Lady Tenebris</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wooden_Spellbook" title="Wooden Spellbook">Wooden Spellbook</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Wooden_Spellbook.gif" class="image fancybox"><img alt="Wooden Spellbook.gif" src="/images/0/07/Wooden_Spellbook.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>80</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="17.5%"><small><a href="/wiki/Earth" class="mw-redirect" title="Earth">Earth</a> +5%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>12.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Arctic_Faun" title="Arctic Faun">Arctic Faun</a>, <a href="/wiki/Boogy" title="Boogy">Boogy</a>, <a href="/wiki/Dark_Faun" title="Dark Faun">Dark Faun</a>, <a href="/wiki/Noxious_Ripptor" title="Noxious Ripptor">Noxious Ripptor</a>, <a href="/wiki/Pixie" title="Pixie">Pixie</a>, <a href="/wiki/Raxias" title="Raxias">Raxias</a>, <a href="/wiki/Ravenous_Hunger" title="Ravenous Hunger">Ravenous Hunger</a>, <a href="/wiki/Young_Goanna" title="Young Goanna">Young Goanna</a>.</small>
+</td></tr></tbody><tfoot></tfoot></table>

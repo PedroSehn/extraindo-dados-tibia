@@ -1,0 +1,3750 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Nome</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Lvl</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Voc</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Arm</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Bônus</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Proteção</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Slots</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Tier</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dropa de</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Albino_Plate" title="Albino Plate">Albino Plate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Albino_Plate.gif" class="image fancybox"><img alt="Albino Plate.gif" src="/images/9/98/Albino_Plate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>84.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Amazon_Armor" title="Amazon Armor">Amazon Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Amazon_Armor.gif" class="image fancybox"><img alt="Amazon Armor.gif" src="/images/8/8c/Amazon_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>13</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>45.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Arcane_Dragon_Robe" title="Arcane Dragon Robe">Arcane Dragon Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Arcane_Dragon_Robe.gif" class="image fancybox"><img alt="Arcane Dragon Robe.gif" src="/images/3/38/Arcane_Dragon_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3, <a href="/wiki/Energy_Magic_Level" class="mw-redirect" title="Energy Magic Level">Energy Magic Level</a> +1</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +12%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -6%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>43.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Dragon_Hoard" class="mw-redirect" title="Dragon Hoard">Dragon Hoard</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ball_Gown" title="Ball Gown">Ball Gown</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ball_Gown.gif" class="image fancybox"><img alt="Ball Gown.gif" src="/images/7/7e/Ball_Gown.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>25.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bear_Skin" title="Bear Skin">Bear Skin</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bear_Skin.gif" class="image fancybox"><img alt="Bear Skin.gif" src="/images/f/fc/Bear_Skin.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>230</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +11%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -2%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>44.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Lord_Azaram" title="Lord Azaram">Lord Azaram</a>, <a href="/wiki/Duke_Krule" title="Duke Krule">Duke Krule</a>, <a href="/wiki/Count_Vlarkorth" title="Count Vlarkorth">Count Vlarkorth</a>, <a href="/wiki/Sir_Baeloc" title="Sir Baeloc">Sir Baeloc</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Belted_Cape" title="Belted Cape">Belted Cape</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Belted_Cape.gif" class="image fancybox"><img alt="Belted Cape.gif" src="/images/e/e1/Belted_Cape.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>10</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>35.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Bog_Raider" title="Bog Raider">Bog Raider</a>, <a href="/wiki/Crazed_Summer_Vanguard" title="Crazed Summer Vanguard">Crazed Summer Vanguard</a>, <a href="/wiki/Gladiator" title="Gladiator">Gladiator</a>, <a href="/wiki/Undead_Elite_Gladiator" title="Undead Elite Gladiator">Undead Elite Gladiator</a>, <a href="/wiki/Undead_Gladiator" title="Undead Gladiator">Undead Gladiator</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Blue_Robe" title="Blue Robe">Blue Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Blue_Robe.gif" class="image fancybox"><img alt="Blue Robe.gif" src="/images/8/8f/Blue_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>22.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Banshee" title="Banshee">Banshee</a>, <a href="/wiki/Enlightened_of_the_Cult" title="Enlightened of the Cult">Enlightened of the Cult</a>, <a href="/wiki/Feversleep" title="Feversleep">Feversleep</a>, <a href="/wiki/Girtablilu_Warrior" title="Girtablilu Warrior">Girtablilu Warrior</a>, <a href="/wiki/Hellgorak" title="Hellgorak">Hellgorak</a>, <a href="/wiki/Horadron" title="Horadron">Horadron</a>, <a href="/wiki/Lich" title="Lich">Lich</a>, <a href="/wiki/Lokathmor" title="Lokathmor">Lokathmor</a>, <a href="/wiki/Lumbering_Carnivor" title="Lumbering Carnivor">Lumbering Carnivor</a>, <a href="/wiki/Midnight_Asura" title="Midnight Asura">Midnight Asura</a>, <a href="/wiki/Quara_Mantassin" title="Quara Mantassin">Quara Mantassin</a>, <a href="/wiki/Renegade_Quara_Mantassin" title="Renegade Quara Mantassin">Renegade Quara Mantassin</a>, <a href="/wiki/Spiky_Carnivor" title="Spiky Carnivor">Spiky Carnivor</a>, <a href="/wiki/Tamru_the_Black" title="Tamru the Black">Tamru the Black</a>, <a href="/wiki/Terrorsleep" title="Terrorsleep">Terrorsleep</a>, <a href="/wiki/True_Midnight_Asura" title="True Midnight Asura">True Midnight Asura</a>, <a href="/wiki/Vashresamun" title="Vashresamun">Vashresamun</a>, <a href="/wiki/Warlock" title="Warlock">Warlock</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Brass_Armor" title="Brass Armor">Brass Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Brass_Armor.gif" class="image fancybox"><img alt="Brass Armor.gif" src="/images/5/5f/Brass_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>8</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>80.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Bandit" title="Bandit">Bandit</a>, <a href="/wiki/Crypt_Defiler" title="Crypt Defiler">Crypt Defiler</a>, <a href="/wiki/Gladiator" title="Gladiator">Gladiator</a>, <a href="/wiki/Grave_Robber" title="Grave Robber">Grave Robber</a>, <a href="/wiki/Hunter" title="Hunter">Hunter</a>, <a href="/wiki/Minotaur_Archer" title="Minotaur Archer">Minotaur Archer</a>, <a href="/wiki/Minotaur_Guard" title="Minotaur Guard">Minotaur Guard</a>, <a href="/wiki/Nomad" title="Nomad">Nomad</a>, <a href="/wiki/Nomad_(Blue)" title="Nomad (Blue)">Nomad (Blue)</a>, <a href="/wiki/Orc_Warlord" title="Orc Warlord">Orc Warlord</a>, <a href="/wiki/Quara_Constrictor" title="Quara Constrictor">Quara Constrictor</a>, <a href="/wiki/Quara_Constrictor_Scout" title="Quara Constrictor Scout">Quara Constrictor Scout</a>, <a href="/wiki/Renegade_Quara_Constrictor" title="Renegade Quara Constrictor">Renegade Quara Constrictor</a>, <a href="/wiki/The_Horned_Fox" title="The Horned Fox">The Horned Fox</a>, <a href="/wiki/Undead_Gladiator" title="Undead Gladiator">Undead Gladiator</a>, <a href="/wiki/Wild_Warrior" title="Wild Warrior">Wild Warrior</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Broken_Iks_Cuirass" title="Broken Iks Cuirass">Broken Iks Cuirass</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Broken_Iks_Cuirass.gif" class="image fancybox"><img alt="Broken Iks Cuirass.gif" src="/images/c/c4/Broken_Iks_Cuirass.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>19.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ahau" title="Ahau">Ahau</a>, <a href="/wiki/Iks_Aucar" title="Iks Aucar">Iks Aucar</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Buckle" title="Buckle">Buckle</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Buckle.gif" class="image fancybox"><img alt="Buckle.gif" src="/images/8/8a/Buckle.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>75.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Lost_Basher" title="Lost Basher">Lost Basher</a>, <a href="/wiki/Lost_Exile" title="Lost Exile">Lost Exile</a>, <a href="/wiki/Lost_Husher" title="Lost Husher">Lost Husher</a>, <a href="/wiki/Lost_Thrower" title="Lost Thrower">Lost Thrower</a>, <a href="/wiki/Spiky_Carnivor" title="Spiky Carnivor">Spiky Carnivor</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Burial_Shroud" title="Burial Shroud">Burial Shroud</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Burial_Shroud.gif" class="image fancybox"><img alt="Burial Shroud.gif" src="/images/1/11/Burial_Shroud.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Calopteryx_Cape" title="Calopteryx Cape">Calopteryx Cape</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Calopteryx_Cape.gif" class="image fancybox"><img alt="Calopteryx Cape.gif" src="/images/f/f2/Calopteryx_Cape.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>80</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>20.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Hive_Overseer" title="Hive Overseer">Hive Overseer</a>, <a href="/wiki/Kollos" title="Kollos">Kollos</a>, <a href="/wiki/Spidris" title="Spidris">Spidris</a>, <a href="/wiki/Spidris_Elite" title="Spidris Elite">Spidris Elite</a>, <a href="/wiki/Spitter" title="Spitter">Spitter</a>, <a href="/wiki/The_Sandking" title="The Sandking">The Sandking</a>, <a href="/wiki/The_Baron_from_Below" title="The Baron from Below">The Baron from Below</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cape" title="Cape">Cape</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cape.gif" class="image fancybox"><img alt="Cape.gif" src="/images/6/64/Cape.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>32.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ekatrix" title="Ekatrix">Ekatrix</a>, <a href="/wiki/Ghost" title="Ghost">Ghost</a>, <a href="/wiki/Lizard_Snakecharmer" title="Lizard Snakecharmer">Lizard Snakecharmer</a>, <a href="/wiki/Quara_Mantassin" title="Quara Mantassin">Quara Mantassin</a>, <a href="/wiki/Renegade_Quara_Mantassin" title="Renegade Quara Mantassin">Renegade Quara Mantassin</a>, <a href="/wiki/Tarnished_Spirit" title="Tarnished Spirit">Tarnished Spirit</a>, <a href="/wiki/Two-Headed_Turtle" title="Two-Headed Turtle">Two-Headed Turtle</a>, <a href="/wiki/Witch" title="Witch">Witch</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Chain_Armor" title="Chain Armor">Chain Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Chain_Armor.gif" class="image fancybox"><img alt="Chain Armor.gif" src="/images/2/29/Chain_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>100.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Barbarian_Bloodwalker" title="Barbarian Bloodwalker">Barbarian Bloodwalker</a>, <a href="/wiki/Barbarian_Brutetamer" title="Barbarian Brutetamer">Barbarian Brutetamer</a>, <a href="/wiki/Blood_Crab" title="Blood Crab">Blood Crab</a>, <a href="/wiki/Deepsea_Blood_Crab" title="Deepsea Blood Crab">Deepsea Blood Crab</a>, <a href="/wiki/Dwarf_Soldier" title="Dwarf Soldier">Dwarf Soldier</a>, <a href="/wiki/Juvenile_Cyclops" title="Juvenile Cyclops">Juvenile Cyclops</a>, <a href="/wiki/Lizard_Sentinel" title="Lizard Sentinel">Lizard Sentinel</a>, <a href="/wiki/Minotaur" title="Minotaur">Minotaur</a>, <a href="/wiki/Minotaur_Bruiser" title="Minotaur Bruiser">Minotaur Bruiser</a>, <a href="/wiki/Minotaur_Guard" title="Minotaur Guard">Minotaur Guard</a>, <a href="/wiki/Minotaur_Poacher" title="Minotaur Poacher">Minotaur Poacher</a>, <a href="/wiki/Orc_Berserker" title="Orc Berserker">Orc Berserker</a>, <a href="/wiki/Orc_Shaman" title="Orc Shaman">Orc Shaman</a>, <a href="/wiki/Orc_Warrior" title="Orc Warrior">Orc Warrior</a>, <a href="/wiki/Pirate_Marauder" title="Pirate Marauder">Pirate Marauder</a>, <a href="/wiki/Quara_Mantassin_Scout" title="Quara Mantassin Scout">Quara Mantassin Scout</a>, <a href="/wiki/Scar_Tribe_Warrior" title="Scar Tribe Warrior">Scar Tribe Warrior</a>, <a href="/wiki/Valkyrie" title="Valkyrie">Valkyrie</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Coat" title="Coat">Coat</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Coat.gif" class="image fancybox"><img alt="Coat.gif" src="/images/c/c2/Coat.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>27.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ekatrix" title="Ekatrix">Ekatrix</a>, <a href="/wiki/Frost_Troll" title="Frost Troll">Frost Troll</a>, <a href="/wiki/Witch" title="Witch">Witch</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crown_Armor" title="Crown Armor">Crown Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Crown_Armor.gif" class="image fancybox"><img alt="Crown Armor.gif" src="/images/7/7c/Crown_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>13</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>99.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ashmunrah" title="Ashmunrah">Ashmunrah</a>, <a href="/wiki/Cliff_Strider" title="Cliff Strider">Cliff Strider</a>, <a href="/wiki/Demon_Outcast" title="Demon Outcast">Demon Outcast</a>, <a href="/wiki/Execowtioner" title="Execowtioner">Execowtioner</a>, <a href="/wiki/Gorzindel" title="Gorzindel">Gorzindel</a>, <a href="/wiki/Hand_of_Cursed_Fate" title="Hand of Cursed Fate">Hand of Cursed Fate</a>, <a href="/wiki/Hellgorak" title="Hellgorak">Hellgorak</a>, <a href="/wiki/Hero" title="Hero">Hero</a>, <a href="/wiki/Horadron" title="Horadron">Horadron</a>, <a href="/wiki/Orewalker" title="Orewalker">Orewalker</a>, <a href="/wiki/Phantasm" title="Phantasm">Phantasm</a>, <a href="/wiki/Prince_Drazzak" title="Prince Drazzak">Prince Drazzak</a>, <a href="/wiki/Quara_Pincher" title="Quara Pincher">Quara Pincher</a>, <a href="/wiki/Renegade_Knight" title="Renegade Knight">Renegade Knight</a>, <a href="/wiki/Renegade_Quara_Pincher" title="Renegade Quara Pincher">Renegade Quara Pincher</a>, <a href="/wiki/Serpent_Spawn" title="Serpent Spawn">Serpent Spawn</a>, <a href="/wiki/The_Noxious_Spawn" title="The Noxious Spawn">The Noxious Spawn</a>, <a href="/wiki/Thul" title="Thul">Thul</a>, <a href="/wiki/Vile_Grandmaster" title="Vile Grandmaster">Vile Grandmaster</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crystalline_Armor" title="Crystalline Armor">Crystalline Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Crystalline_Armor.gif" class="image fancybox"><img alt="Crystalline Armor.gif" src="/images/f/ff/Crystalline_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>13</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +3%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -3%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>84.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Armadile" title="Armadile">Armadile</a>, <a href="/wiki/Crystal_Wolf" title="Crystal Wolf">Crystal Wolf</a>, <a href="/wiki/Diamond_Servant" title="Diamond Servant">Diamond Servant</a>, <a href="/wiki/Diamond_Servant_Replica" title="Diamond Servant Replica">Diamond Servant Replica</a>, <a href="/wiki/Eradicator" title="Eradicator">Eradicator</a>, <a href="/wiki/Icecold_Book" title="Icecold Book">Icecold Book</a>, <a href="/wiki/Ice_Overlord" title="Ice Overlord">Ice Overlord</a>, <a href="/wiki/Mazzinor" title="Mazzinor">Mazzinor</a>, <a href="/wiki/Melting_Frozen_Horror" title="Melting Frozen Horror">Melting Frozen Horror</a>, <a href="/wiki/Orewalker" title="Orewalker">Orewalker</a>, <a href="/wiki/Prince_Drazzak" title="Prince Drazzak">Prince Drazzak</a>, <a href="/wiki/Realityquake" title="Realityquake">Realityquake</a>, <a href="/wiki/Ravenous_Hunger" title="Ravenous Hunger">Ravenous Hunger</a>, <a href="/wiki/Sea_Serpent" title="Sea Serpent">Sea Serpent</a>, <a href="/wiki/Squid_Warden" title="Squid Warden">Squid Warden</a>, <a href="/wiki/The_Count_Of_The_Core" title="The Count Of The Core">The Count Of The Core</a>, <a href="/wiki/Tunnel_Tyrant" title="Tunnel Tyrant">Tunnel Tyrant</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dark_Armor" title="Dark Armor">Dark Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Dark_Armor.gif" class="image fancybox"><img alt="Dark Armor.gif" src="/images/8/85/Dark_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>10</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>120.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ancient_Lion_Knight" title="Ancient Lion Knight">Ancient Lion Knight</a>, <a href="/wiki/Behemoth" title="Behemoth">Behemoth</a>, <a href="/wiki/Bibby_Bloodbath" title="Bibby Bloodbath">Bibby Bloodbath</a>, <a href="/wiki/Black_Knight" title="Black Knight">Black Knight</a>, <a href="/wiki/Bretzecutioner" title="Bretzecutioner">Bretzecutioner</a>, <a href="/wiki/Destroyer" title="Destroyer">Destroyer</a>, <a href="/wiki/Gargoyle" title="Gargoyle">Gargoyle</a>, <a href="/wiki/Ghastly_Dragon" title="Ghastly Dragon">Ghastly Dragon</a>, <a href="/wiki/Pirate_Corsair" title="Pirate Corsair">Pirate Corsair</a>, <a href="/wiki/Spiky_Carnivor" title="Spiky Carnivor">Spiky Carnivor</a>, <a href="/wiki/Werelion" title="Werelion">Werelion</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dark_Lord%27s_Cape" title="Dark Lord's Cape">Dark Lord's Cape</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Dark_Lord%27s_Cape.gif" class="image fancybox"><img alt="Dark Lord's Cape.gif" src="/images/2/24/Dark_Lord%27s_Cape.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>65</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +8%, <a href="/wiki/Holy_Damage" title="Holy Damage">Holy</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>29.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dauntless_Dragon_Scale_Armor" title="Dauntless Dragon Scale Armor">Dauntless Dragon Scale Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Dauntless_Dragon_Scale_Armor.gif" class="image fancybox"><img alt="Dauntless Dragon Scale Armor.gif" src="/images/5/5e/Dauntless_Dragon_Scale_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Sword_Fighting" title="Sword Fighting">Sword Fighting</a> +3, <a href="/wiki/Club_Fighting" title="Club Fighting">Club Fighting</a> +3, <a href="/wiki/Axe_Fighting" title="Axe Fighting">Axe Fighting</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +8%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>152.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Dragon_Hoard" class="mw-redirect" title="Dragon Hoard">Dragon Hoard</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dawnfire_Sherwani" title="Dawnfire Sherwani">Dawnfire Sherwani</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Dawnfire_Sherwani.gif" class="image fancybox"><img alt="Dawnfire Sherwani.gif" src="/images/5/5d/Dawnfire_Sherwani.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>270</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +10%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -2%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>28.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Timira_the_Many-Headed" title="Timira the Many-Headed">Timira the Many-Headed</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Death_Oyoroi" title="Death Oyoroi">Death Oyoroi</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Death_Oyoroi.gif" class="image fancybox"><img alt="Death Oyoroi.gif" src="/images/6/6a/Death_Oyoroi.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>230</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +5%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>105.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Sir_Nictros" title="Sir Nictros">Sir Nictros</a>, <a href="/wiki/King_Zelos" title="King Zelos">King Zelos</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Demon_Armor" title="Demon Armor">Demon Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Demon_Armor.gif" class="image fancybox"><img alt="Demon Armor.gif" src="/images/e/e0/Demon_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>80.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Depth_Lorica" title="Depth Lorica">Depth Lorica</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Depth_Lorica.gif" class="image fancybox"><img alt="Depth Lorica.gif" src="/images/2/29/Depth_Lorica.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>150</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +5%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Jaul" title="Jaul">Jaul</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Divine_Plate" title="Divine Plate">Divine Plate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Divine_Plate.gif" class="image fancybox"><img alt="Divine Plate.gif" src="/images/2/2b/Divine_Plate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>13</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +10%, <a href="/wiki/Holy_Damage" title="Holy Damage">Holy</a> -10%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>75.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Dragon_Pack" title="Dragon Pack">Dragon Pack</a>, <a href="/wiki/Ferumbras_Mortal_Shell" title="Ferumbras Mortal Shell">Ferumbras Mortal Shell</a>, <a href="/wiki/Undead_Dragon" title="Undead Dragon">Undead Dragon</a>, <a href="/wiki/Zanakeph" title="Zanakeph">Zanakeph</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Doublet" title="Doublet">Doublet</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Doublet.gif" class="image fancybox"><img alt="Doublet.gif" src="/images/f/ff/Doublet.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>25.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Dawnfly" title="Dawnfly">Dawnfly</a>, <a href="/wiki/Gore_Horn" title="Gore Horn">Gore Horn</a>, <a href="/wiki/Gorerilla" title="Gorerilla">Gorerilla</a>, <a href="/wiki/Hulking_Prehemoth" title="Hulking Prehemoth">Hulking Prehemoth</a>, <a href="/wiki/Jungle_Moa" title="Jungle Moa">Jungle Moa</a>, <a href="/wiki/Spiky_Carnivor" title="Spiky Carnivor">Spiky Carnivor</a>, <a href="/wiki/Werehyaena_Shaman" title="Werehyaena Shaman">Werehyaena Shaman</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dragon_Robe" title="Dragon Robe">Dragon Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Dragon_Robe.gif" class="image fancybox"><img alt="Dragon Robe.gif" src="/images/3/38/Dragon_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +12%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -12%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>28.50</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dragon_Scale_Mail" title="Dragon Scale Mail">Dragon Scale Mail</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Dragon_Scale_Mail.gif" class="image fancybox"><img alt="Dragon Scale Mail.gif" src="/images/1/16/Dragon_Scale_Mail.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>114.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Demodras" title="Demodras">Demodras</a>, <a href="/wiki/Dragon_Lord" title="Dragon Lord">Dragon Lord</a>, <a href="/wiki/Frost_Dragon" title="Frost Dragon">Frost Dragon</a>, <a href="/wiki/Paiz_the_Pauperizer" title="Paiz the Pauperizer">Paiz the Pauperizer</a>, <a href="/wiki/Soul_of_Dragonking_Zyrtarch" title="Soul of Dragonking Zyrtarch">Soul of Dragonking Zyrtarch</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dream_Shroud" title="Dream Shroud">Dream Shroud</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Dream_Shroud.gif" class="image fancybox"><img alt="Dream Shroud.gif" src="/images/a/ad/Dream_Shroud.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +10%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>25.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Alptramun" title="Alptramun">Alptramun</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Earthborn_Titan_Armor" title="Earthborn Titan Armor">Earthborn Titan Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Earthborn_Titan_Armor.gif" class="image fancybox"><img alt="Earthborn Titan Armor.gif" src="/images/d/d2/Earthborn_Titan_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Axe_Fighting" title="Axe Fighting">Axe Fighting</a> +2</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +5%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>120.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ancient_Spawn_of_Morgathla" title="Ancient Spawn of Morgathla">Ancient Spawn of Morgathla</a>, <a href="/wiki/Lord_of_the_Elements" title="Lord of the Elements">Lord of the Elements</a>, <a href="/wiki/Terofar" title="Terofar">Terofar</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Earthheart_Cuirass" title="Earthheart Cuirass">Earthheart Cuirass</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Earthheart_Cuirass.gif" class="image fancybox"><img alt="Earthheart Cuirass.gif" src="/images/a/aa/Earthheart_Cuirass.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Sword_Fighting" title="Sword Fighting">Sword Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +8%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Earthheart_Hauberk" title="Earthheart Hauberk">Earthheart Hauberk</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Earthheart_Hauberk.gif" class="image fancybox"><img alt="Earthheart Hauberk.gif" src="/images/b/bc/Earthheart_Hauberk.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Axe_Fighting" title="Axe Fighting">Axe Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +8%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Earthheart_Platemail" title="Earthheart Platemail">Earthheart Platemail</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Earthheart_Platemail.gif" class="image fancybox"><img alt="Earthheart Platemail.gif" src="/images/8/8e/Earthheart_Platemail.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Club_Fighting" title="Club Fighting">Club Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +8%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Earthmind_Raiment" title="Earthmind Raiment">Earthmind Raiment</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Earthmind_Raiment.gif" class="image fancybox"><img alt="Earthmind Raiment.gif" src="/images/a/aa/Earthmind_Raiment.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +8%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>55.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Earthsoul_Tabard" title="Earthsoul Tabard">Earthsoul Tabard</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Earthsoul_Tabard.gif" class="image fancybox"><img alt="Earthsoul Tabard.gif" src="/images/b/b1/Earthsoul_Tabard.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +8%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Eldritch_Cuirass" title="Eldritch Cuirass">Eldritch Cuirass</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Eldritch_Cuirass.gif" class="image fancybox"><img alt="Eldritch Cuirass.gif" src="/images/2/2e/Eldritch_Cuirass.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +10%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>110.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/The_Brainstealer" title="The Brainstealer">The Brainstealer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Elite_Draken_Mail" title="Elite Draken Mail">Elite Draken Mail</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Elite_Draken_Mail.gif" class="image fancybox"><img alt="Elite Draken Mail.gif" src="/images/2/28/Elite_Draken_Mail.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Speed" class="mw-redirect" title="Speed">Speed</a> +10</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>120.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Draken_Elite" title="Draken Elite">Draken Elite</a>, <a href="/wiki/Paiz_the_Pauperizer" title="Paiz the Pauperizer">Paiz the Pauperizer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Elven_Mail" title="Elven Mail">Elven Mail</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Elven_Mail.gif" class="image fancybox"><img alt="Elven Mail.gif" src="/images/0/01/Elven_Mail.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>90.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ravenous_Hunger" title="Ravenous Hunger">Ravenous Hunger</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Embrace_of_Nature" title="Embrace of Nature">Embrace of Nature</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Embrace_of_Nature.gif" class="image fancybox"><img alt="Embrace of Nature.gif" src="/images/d/d9/Embrace_of_Nature.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>220</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +11%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -3%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>24.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Count_Vlarkorth" title="Count Vlarkorth">Count Vlarkorth</a>, <a href="/wiki/Duke_Krule" title="Duke Krule">Duke Krule</a>, <a href="/wiki/Lord_Azaram" title="Lord Azaram">Lord Azaram</a>, <a href="/wiki/Sir_Baeloc" title="Sir Baeloc">Sir Baeloc</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Energy_Robe" title="Energy Robe">Energy Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Energy_Robe.gif" class="image fancybox"><img alt="Energy Robe.gif" src="/images/5/5d/Energy_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +8%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>75.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ethno_Coat" title="Ethno Coat">Ethno Coat</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ethno_Coat.gif" class="image fancybox"><img alt="Ethno Coat.gif" src="/images/f/fa/Ethno_Coat.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>25.50</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Falcon_Plate" title="Falcon Plate">Falcon Plate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Falcon_Plate.gif" class="image fancybox"><img alt="Falcon Plate.gif" src="/images/d/dc/Falcon_Plate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Shielding" title="Shielding">Shielding</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +12%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>188.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Grand_Canon_Dominus" title="Grand Canon Dominus">Grand Canon Dominus</a>, <a href="/wiki/Grand_Master_Oberon" title="Grand Master Oberon">Grand Master Oberon</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fireborn_Giant_Armor" title="Fireborn Giant Armor">Fireborn Giant Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Fireborn_Giant_Armor.gif" class="image fancybox"><img alt="Fireborn Giant Armor.gif" src="/images/3/3e/Fireborn_Giant_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Sword_Fighting" title="Sword Fighting">Sword Fighting</a> +2</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +5%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>120.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ancient_Spawn_of_Morgathla" title="Ancient Spawn of Morgathla">Ancient Spawn of Morgathla</a>, <a href="/wiki/Lord_of_the_Elements" title="Lord of the Elements">Lord of the Elements</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fireheart_Cuirass" title="Fireheart Cuirass">Fireheart Cuirass</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Fireheart_Cuirass.gif" class="image fancybox"><img alt="Fireheart Cuirass.gif" src="/images/5/5b/Fireheart_Cuirass.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Sword_Fighting" title="Sword Fighting">Sword Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +8%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fireheart_Hauberk" title="Fireheart Hauberk">Fireheart Hauberk</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Fireheart_Hauberk.gif" class="image fancybox"><img alt="Fireheart Hauberk.gif" src="/images/6/62/Fireheart_Hauberk.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Axe_Fighting" title="Axe Fighting">Axe Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +8%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fireheart_Platemail" title="Fireheart Platemail">Fireheart Platemail</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Fireheart_Platemail.gif" class="image fancybox"><img alt="Fireheart Platemail.gif" src="/images/b/ba/Fireheart_Platemail.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Club_Fighting" title="Club Fighting">Club Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +8%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Firemind_Raiment" title="Firemind Raiment">Firemind Raiment</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Firemind_Raiment.gif" class="image fancybox"><img alt="Firemind Raiment.gif" src="/images/2/2f/Firemind_Raiment.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +8%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>55.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Firesoul_Tabard" title="Firesoul Tabard">Firesoul Tabard</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Firesoul_Tabard.gif" class="image fancybox"><img alt="Firesoul Tabard.gif" src="/images/a/ab/Firesoul_Tabard.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +8%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Flower_Dress" title="Flower Dress">Flower Dress</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Flower_Dress.gif" class="image fancybox"><img alt="Flower Dress.gif" src="/images/5/50/Flower_Dress.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>19.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Dryad" title="Dryad">Dryad</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Focus_Cape" title="Focus Cape">Focus Cape</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Focus_Cape.gif" class="image fancybox"><img alt="Focus Cape.gif" src="/images/8/8e/Focus_Cape.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>21.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Dawnfire_Asura" title="Dawnfire Asura">Dawnfire Asura</a>, <a href="/wiki/Draken_Spellweaver" title="Draken Spellweaver">Draken Spellweaver</a>, <a href="/wiki/Girtablilu_Warrior" title="Girtablilu Warrior">Girtablilu Warrior</a>, <a href="/wiki/Harpy" title="Harpy">Harpy</a>, <a href="/wiki/Hellgorak" title="Hellgorak">Hellgorak</a>, <a href="/wiki/Lizard_Dragon_Priest" title="Lizard Dragon Priest">Lizard Dragon Priest</a>, <a href="/wiki/Lumbering_Carnivor" title="Lumbering Carnivor">Lumbering Carnivor</a>, <a href="/wiki/Nightmare_Scion" title="Nightmare Scion">Nightmare Scion</a>, <a href="/wiki/Pirat_Cutthroat" title="Pirat Cutthroat">Pirat Cutthroat</a>, <a href="/wiki/Raging_Mage" title="Raging Mage">Raging Mage</a>, <a href="/wiki/Reality_Reaver" title="Reality Reaver">Reality Reaver</a>, <a href="/wiki/Sea_Serpent" title="Sea Serpent">Sea Serpent</a>, <a href="/wiki/Tremendous_Tyrant" title="Tremendous Tyrant">Tremendous Tyrant</a>, <a href="/wiki/Wyrm" title="Wyrm">Wyrm</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Frostheart_Cuirass" title="Frostheart Cuirass">Frostheart Cuirass</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Frostheart_Cuirass.gif" class="image fancybox"><img alt="Frostheart Cuirass.gif" src="/images/4/46/Frostheart_Cuirass.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Sword_Fighting" title="Sword Fighting">Sword Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +8%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Frostheart_Hauberk" title="Frostheart Hauberk">Frostheart Hauberk</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Frostheart_Hauberk.gif" class="image fancybox"><img alt="Frostheart Hauberk.gif" src="/images/e/ec/Frostheart_Hauberk.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Axe_Fighting" title="Axe Fighting">Axe Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +8%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Frostheart_Platemail" title="Frostheart Platemail">Frostheart Platemail</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Frostheart_Platemail.gif" class="image fancybox"><img alt="Frostheart Platemail.gif" src="/images/e/ec/Frostheart_Platemail.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Club_Fighting" title="Club Fighting">Club Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +8%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Frostmind_Raiment" title="Frostmind Raiment">Frostmind Raiment</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Frostmind_Raiment.gif" class="image fancybox"><img alt="Frostmind Raiment.gif" src="/images/b/be/Frostmind_Raiment.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +8%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>55.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Frostsoul_Tabard" title="Frostsoul Tabard">Frostsoul Tabard</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Frostsoul_Tabard.gif" class="image fancybox"><img alt="Frostsoul Tabard.gif" src="/images/3/38/Frostsoul_Tabard.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +8%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Frozen_Plate" title="Frozen Plate">Frozen Plate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Frozen_Plate.gif" class="image fancybox"><img alt="Frozen Plate.gif" src="/images/3/35/Frozen_Plate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>13</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +7%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -7%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>75.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Leviathan" title="Leviathan">Leviathan</a>, <a href="/wiki/Melting_Frozen_Horror" title="Melting Frozen Horror">Melting Frozen Horror</a>, <a href="/wiki/Renegade_Quara_Predator" title="Renegade Quara Predator">Renegade Quara Predator</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fur_Armor" title="Fur Armor">Fur Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Fur_Armor.gif" class="image fancybox"><img alt="Fur Armor.gif" src="/images/0/02/Fur_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>50</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +5%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>49.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Adult_Goanna" title="Adult Goanna">Adult Goanna</a>, <a href="/wiki/Bloodback" title="Bloodback">Bloodback</a>, <a href="/wiki/Cave_Chimera" title="Cave Chimera">Cave Chimera</a>, <a href="/wiki/Girtablilu_Warrior" title="Girtablilu Warrior">Girtablilu Warrior</a>, <a href="/wiki/Lumbering_Carnivor" title="Lumbering Carnivor">Lumbering Carnivor</a>, <a href="/wiki/Shadowpelt" title="Shadowpelt">Shadowpelt</a>, <a href="/wiki/Varnished_Diremaw" title="Varnished Diremaw">Varnished Diremaw</a>, <a href="/wiki/Werebear" title="Werebear">Werebear</a>, <a href="/wiki/Wereboar" title="Wereboar">Wereboar</a>, <a href="/wiki/Young_Goanna" title="Young Goanna">Young Goanna</a>, <a href="/wiki/Rotten_Golem" title="Rotten Golem">Rotten Golem</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Furious_Frock" title="Furious Frock">Furious Frock</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Furious_Frock.gif" class="image fancybox"><img alt="Furious Frock.gif" src="/images/1/15/Furious_Frock.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>130</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>34.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ghazbaran_Oyoroi" title="Ghazbaran Oyoroi">Ghazbaran Oyoroi</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ghazbaran_Oyoroi.gif" class="image fancybox"><img alt="Ghazbaran Oyoroi.gif" src="/images/5/51/Ghazbaran_Oyoroi.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>8</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +7%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -7%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>135.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ghazbaran" title="Ghazbaran">Ghazbaran</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ghost_Chestplate" title="Ghost Chestplate">Ghost Chestplate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ghost_Chestplate.gif" class="image fancybox"><img alt="Ghost Chestplate.gif" src="/images/0/08/Ghost_Chestplate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>230</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>17</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +2</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +3%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>123.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/The_Fear_Feaster" title="The Fear Feaster">The Fear Feaster</a>, <a href="/wiki/The_Pale_Worm" title="The Pale Worm">The Pale Worm</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gill_Coat" title="Gill Coat">Gill Coat</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Gill_Coat.gif" class="image fancybox"><img alt="Gill Coat.gif" src="/images/f/f0/Gill_Coat.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>150</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +10%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -10%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>19.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Girl%27s_Dress" title="Girl's Dress">Girl's Dress</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Girl%27s_Dress.gif" class="image fancybox"><img alt="Girl's Dress.gif" src="/images/2/26/Girl%27s_Dress.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>13.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Glacier_Robe" title="Glacier Robe">Glacier Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Glacier_Robe.gif" class="image fancybox"><img alt="Glacier Robe.gif" src="/images/e/e7/Glacier_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>50</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +8%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>22.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Crazed_Winter_Rearguard" title="Crazed Winter Rearguard">Crazed Winter Rearguard</a>, <a href="/wiki/Crazed_Winter_Vanguard" title="Crazed Winter Vanguard">Crazed Winter Vanguard</a>, <a href="/wiki/Girtablilu_Warrior" title="Girtablilu Warrior">Girtablilu Warrior</a>, <a href="/wiki/Goggle_Cake" title="Goggle Cake">Goggle Cake</a>, <a href="/wiki/Icecold_Book" title="Icecold Book">Icecold Book</a>, <a href="/wiki/Quara_Pincher" title="Quara Pincher">Quara Pincher</a>, <a href="/wiki/Quara_Predator" title="Quara Predator">Quara Predator</a>, <a href="/wiki/Squid_Warden" title="Squid Warden">Squid Warden</a>, <a href="/wiki/Srezz_Yellow_Eyes" title="Srezz Yellow Eyes">Srezz Yellow Eyes</a>, <a href="/wiki/Tarbaz" title="Tarbaz">Tarbaz</a>, <a href="/wiki/Tremendous_Tyrant" title="Tremendous Tyrant">Tremendous Tyrant</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Glooth_Cape" title="Glooth Cape">Glooth Cape</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Glooth_Cape.gif" class="image fancybox"><img alt="Glooth Cape.gif" src="/images/3/32/Glooth_Cape.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>40</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +5%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>29.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Devourer_(Criatura)" title="Devourer (Criatura)">Devourer (Criatura)</a>, <a href="/wiki/Glooth_Anemone" title="Glooth Anemone">Glooth Anemone</a>, <a href="/wiki/Glooth_Bandit" title="Glooth Bandit">Glooth Bandit</a>, <a href="/wiki/Glooth_Fairy" title="Glooth Fairy">Glooth Fairy</a>, <a href="/wiki/Lisa" title="Lisa">Lisa</a>, <a href="/wiki/Tremor_Worm" title="Tremor Worm">Tremor Worm</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gnome_Armor" title="Gnome Armor">Gnome Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Gnome_Armor.gif" class="image fancybox"><img alt="Gnome Armor.gif" src="/images/a/a8/Gnome_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>17</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +4%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +8%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -2%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>120.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/The_Baron_from_Below" title="The Baron from Below">The Baron from Below</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gnomish_Cuirass" title="Gnomish Cuirass">Gnomish Cuirass</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Gnomish_Cuirass.gif" class="image fancybox"><img alt="Gnomish Cuirass.gif" src="/images/0/05/Gnomish_Cuirass.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>150</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>8</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +2%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>100.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Golden_Armor" title="Golden Armor">Golden Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Golden_Armor.gif" class="image fancybox"><img alt="Golden Armor.gif" src="/images/d/d0/Golden_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>14</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>80.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Falcon_Knight" title="Falcon Knight">Falcon Knight</a>, <a href="/wiki/Falcon_Paladin" title="Falcon Paladin">Falcon Paladin</a>, <a href="/wiki/Ferumbras_Mortal_Shell" title="Ferumbras Mortal Shell">Ferumbras Mortal Shell</a>, <a href="/wiki/Golden_Servant" title="Golden Servant">Golden Servant</a>, <a href="/wiki/Golden_Servant_Replica" title="Golden Servant Replica">Golden Servant Replica</a>, <a href="/wiki/Grand_Canon_Dominus" title="Grand Canon Dominus">Grand Canon Dominus</a>, <a href="/wiki/Grand_Commander_Soeren" title="Grand Commander Soeren">Grand Commander Soeren</a>, <a href="/wiki/Hellflayer" title="Hellflayer">Hellflayer</a>, <a href="/wiki/Hellgorak" title="Hellgorak">Hellgorak</a>, <a href="/wiki/Horadron" title="Horadron">Horadron</a>, <a href="/wiki/Horestis" title="Horestis">Horestis</a>, <a href="/wiki/Juggernaut" title="Juggernaut">Juggernaut</a>, <a href="/wiki/Katex_Blood_Tongue" title="Katex Blood Tongue">Katex Blood Tongue</a>, <a href="/wiki/Kerberos" title="Kerberos">Kerberos</a>, <a href="/wiki/Preceptor_Lazare" title="Preceptor Lazare">Preceptor Lazare</a>, <a href="/wiki/The_Last_Lore_Keeper" title="The Last Lore Keeper">The Last Lore Keeper</a>, <a href="/wiki/Undead_Dragon" title="Undead Dragon">Undead Dragon</a>, <a href="/wiki/Warlock" title="Warlock">Warlock</a>, <a href="/wiki/Zanakeph" title="Zanakeph">Zanakeph</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Goo_Shell" title="Goo Shell">Goo Shell</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Goo_Shell.gif" class="image fancybox"><img alt="Goo Shell.gif" src="/images/2/20/Goo_Shell.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +2%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -2%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>58.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Green_Demon_Armor" title="Green Demon Armor">Green Demon Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Green_Demon_Armor.gif" class="image fancybox"><img alt="Green Demon Armor.gif" src="/images/3/3a/Green_Demon_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>80.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Green_Tunic" title="Green Tunic">Green Tunic</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Green_Tunic.gif" class="image fancybox"><img alt="Green Tunic.gif" src="/images/a/a0/Green_Tunic.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>9.30</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Elf_Arcanist" title="Elf Arcanist">Elf Arcanist</a>, <a href="/wiki/Hero" title="Hero">Hero</a>, <a href="/wiki/Vicious_Squire" title="Vicious Squire">Vicious Squire</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Greenwood_Coat" title="Greenwood Coat">Greenwood Coat</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Greenwood_Coat.gif" class="image fancybox"><img alt="Greenwood Coat.gif" src="/images/8/8a/Greenwood_Coat.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +12%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -12%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>28.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ferumbras_Mortal_Shell" title="Ferumbras Mortal Shell">Ferumbras Mortal Shell</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Heat_Core" title="Heat Core">Heat Core</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Heat_Core.gif" class="image fancybox"><img alt="Heat Core.gif" src="/images/f/f2/Heat_Core.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>55.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Glooth_Brigand" title="Glooth Brigand">Glooth Brigand</a>, <a href="/wiki/Glooth_Fairy" title="Glooth Fairy">Glooth Fairy</a>, <a href="/wiki/Glooth_Golem" title="Glooth Golem">Glooth Golem</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Heavy_Metal_T-Shirt" title="Heavy Metal T-Shirt">Heavy Metal T-Shirt</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Heavy_Metal_T-Shirt.gif" class="image fancybox"><img alt="Heavy Metal T-Shirt.gif" src="/images/b/b7/Heavy_Metal_T-Shirt.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>8.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Boogey" title="Boogey">Boogey</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hibiscus_Dress" title="Hibiscus Dress">Hibiscus Dress</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Hibiscus_Dress.gif" class="image fancybox"><img alt="Hibiscus Dress.gif" src="/images/6/6c/Hibiscus_Dress.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>19.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Boreth" title="Boreth">Boreth</a>, <a href="/wiki/Nymph" title="Nymph">Nymph</a>, <a href="/wiki/Vampire_Bride" title="Vampire Bride">Vampire Bride</a>, <a href="/wiki/Wyrm" title="Wyrm">Wyrm</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ice_Robe" title="Ice Robe">Ice Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ice_Robe.gif" class="image fancybox"><img alt="Ice Robe.gif" src="/images/6/61/Ice_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +8%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>75.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Jacket" title="Jacket">Jacket</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Jacket.gif" class="image fancybox"><img alt="Jacket.gif" src="/images/c/c9/Jacket.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>24.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Knight_Armor" title="Knight Armor">Knight Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Knight_Armor.gif" class="image fancybox"><img alt="Knight Armor.gif" src="/images/8/8e/Knight_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>120.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Black_Knight" title="Black Knight">Black Knight</a>, <a href="/wiki/Brutus_Bloodbeard" title="Brutus Bloodbeard">Brutus Bloodbeard</a>, <a href="/wiki/Crystal_Spider" title="Crystal Spider">Crystal Spider</a>, <a href="/wiki/Deadeye_Devious" title="Deadeye Devious">Deadeye Devious</a>, <a href="/wiki/Esmeralda" title="Esmeralda">Esmeralda</a>, <a href="/wiki/Falcon_Knight" title="Falcon Knight">Falcon Knight</a>, <a href="/wiki/Fleshcrawler" title="Fleshcrawler">Fleshcrawler</a>, <a href="/wiki/Giant_Spider" title="Giant Spider">Giant Spider</a>, <a href="/wiki/Grand_Chaplain_Gaunder" title="Grand Chaplain Gaunder">Grand Chaplain Gaunder</a>, <a href="/wiki/Hand_of_Cursed_Fate" title="Hand of Cursed Fate">Hand of Cursed Fate</a>, <a href="/wiki/Hydra" title="Hydra">Hydra</a>, <a href="/wiki/Juggernaut" title="Juggernaut">Juggernaut</a>, <a href="/wiki/Lethal_Lissy" title="Lethal Lissy">Lethal Lissy</a>, <a href="/wiki/Medusa" title="Medusa">Medusa</a>, <a href="/wiki/Mooh%27Tah_Warrior" title="Mooh'Tah Warrior">Mooh'Tah Warrior</a>, <a href="/wiki/Naga_Warrior" title="Naga Warrior">Naga Warrior</a>, <a href="/wiki/Pirat_Cutthroat" title="Pirat Cutthroat">Pirat Cutthroat</a>, <a href="/wiki/Preceptor_Lazare" title="Preceptor Lazare">Preceptor Lazare</a>, <a href="/wiki/Quara_Hydromancer" title="Quara Hydromancer">Quara Hydromancer</a>, <a href="/wiki/Quara_Hydromancer_Scout" title="Quara Hydromancer Scout">Quara Hydromancer Scout</a>, <a href="/wiki/Rhindeer" title="Rhindeer">Rhindeer</a>, <a href="/wiki/Ron_The_Ripper" title="Ron The Ripper">Ron The Ripper</a>, <a href="/wiki/Stampor" title="Stampor">Stampor</a>, <a href="/wiki/Terrorsleep" title="Terrorsleep">Terrorsleep</a>, <a href="/wiki/The_Bloodweb" title="The Bloodweb">The Bloodweb</a>, <a href="/wiki/The_Many" title="The Many">The Many</a>, <a href="/wiki/The_Old_Widow" title="The Old Widow">The Old Widow</a>, <a href="/wiki/The_Snapper" title="The Snapper">The Snapper</a>, <a href="/wiki/Tromphonyte" title="Tromphonyte">Tromphonyte</a>, <a href="/wiki/Undead_Dragon" title="Undead Dragon">Undead Dragon</a>, <a href="/wiki/Usurper_Archer" title="Usurper Archer">Usurper Archer</a>, <a href="/wiki/Zanakeph" title="Zanakeph">Zanakeph</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lavos_Armor" title="Lavos Armor">Lavos Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Lavos_Armor.gif" class="image fancybox"><img alt="Lavos Armor.gif" src="/images/8/8d/Lavos_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>13</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +3%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -3%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>85.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Annihilon" title="Annihilon">Annihilon</a>, <a href="/wiki/Fire_Overlord" title="Fire Overlord">Fire Overlord</a>, <a href="/wiki/Terofar" title="Terofar">Terofar</a>, <a href="/wiki/Zavarash" title="Zavarash">Zavarash</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Leaf_Robe" title="Leaf Robe">Leaf Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Leaf_Robe.gif" class="image fancybox"><img alt="Leaf Robe.gif" src="/images/1/14/Leaf_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +8%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>75.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Leather_Armor" title="Leather Armor">Leather Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Leather_Armor.gif" class="image fancybox"><img alt="Leather Armor.gif" src="/images/0/0d/Leather_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>60.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Dworc_Fleshhunter" title="Dworc Fleshhunter">Dworc Fleshhunter</a>, <a href="/wiki/Dworc_Venomsniper" title="Dworc Venomsniper">Dworc Venomsniper</a>, <a href="/wiki/Dworc_Voodoomaster" title="Dworc Voodoomaster">Dworc Voodoomaster</a>, <a href="/wiki/Goblin" title="Goblin">Goblin</a>, <a href="/wiki/Goblin_Assassin" title="Goblin Assassin">Goblin Assassin</a>, <a href="/wiki/Goblin_Leader" title="Goblin Leader">Goblin Leader</a>, <a href="/wiki/Goblin_Scavenger" title="Goblin Scavenger">Goblin Scavenger</a>, <a href="/wiki/Mountain_Troll" title="Mountain Troll">Mountain Troll</a>, <a href="/wiki/Muglex_Clan_Assassin" title="Muglex Clan Assassin">Muglex Clan Assassin</a>, <a href="/wiki/Muglex_Clan_Footman" title="Muglex Clan Footman">Muglex Clan Footman</a>, <a href="/wiki/Muglex_Clan_Scavenger" title="Muglex Clan Scavenger">Muglex Clan Scavenger</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Leather_Harness" title="Leather Harness">Leather Harness</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Leather_Harness.gif" class="image fancybox"><img alt="Leather Harness.gif" src="/images/9/97/Leather_Harness.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>29.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Corym_Charlatan" title="Corym Charlatan">Corym Charlatan</a>, <a href="/wiki/Corym_Skirmisher" title="Corym Skirmisher">Corym Skirmisher</a>, <a href="/wiki/Corym_Vanguard" title="Corym Vanguard">Corym Vanguard</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Leopard_Armor" title="Leopard Armor">Leopard Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Leopard_Armor.gif" class="image fancybox"><img alt="Leopard Armor.gif" src="/images/9/98/Leopard_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>95.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Assassin" title="Assassin">Assassin</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lightning_Robe" title="Lightning Robe">Lightning Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Lightning_Robe.gif" class="image fancybox"><img alt="Lightning Robe.gif" src="/images/f/fa/Lightning_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>50</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +8%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>22.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Anomaly" title="Anomaly">Anomaly</a>, <a href="/wiki/Elder_Wyrm" title="Elder Wyrm">Elder Wyrm</a>, <a href="/wiki/High_Voltage_Elemental" title="High Voltage Elemental">High Voltage Elemental</a>, <a href="/wiki/Mad_Mage" title="Mad Mage">Mad Mage</a>, <a href="/wiki/Prince_Drazzak" title="Prince Drazzak">Prince Drazzak</a>, <a href="/wiki/Realityquake" title="Realityquake">Realityquake</a>, <a href="/wiki/Tyrn" title="Tyrn">Tyrn</a>, <a href="/wiki/Warlock" title="Warlock">Warlock</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lion_Plate" title="Lion Plate">Lion Plate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Lion_Plate.gif" class="image fancybox"><img alt="Lion Plate.gif" src="/images/3/3e/Lion_Plate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>270</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>17</small>
+</td>
+<td width="15%"><small><a href="/wiki/Sword_Fighting" title="Sword Fighting">Sword Fighting</a> +3, <a href="/wiki/Club_Fighting" title="Club Fighting">Club Fighting</a> +3, <a href="/wiki/Axe_Fighting" title="Axe Fighting">Axe Fighting</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +6%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>150.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ancient_Lion_Knight" title="Ancient Lion Knight">Ancient Lion Knight</a>, <a href="/wiki/Drume" title="Drume">Drume</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Living_Armor" title="Living Armor">Living Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Living_Armor.gif" class="image fancybox"><img alt="Living Armor.gif" src="/images/c/c4/Living_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>13</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +12%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -5%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>48.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Plagueroot" title="Plagueroot">Plagueroot</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Magic_Plate_Armor" title="Magic Plate Armor">Magic Plate Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Magic_Plate_Armor.gif" class="image fancybox"><img alt="Magic Plate Armor.gif" src="/images/3/31/Magic_Plate_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>17</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>85.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Angry_Demon" title="Angry Demon">Angry Demon</a>, <a href="/wiki/Arbaziloth" title="Arbaziloth">Arbaziloth</a>, <a href="/wiki/Demon" title="Demon">Demon</a>, <a href="/wiki/Dracola" title="Dracola">Dracola</a>, <a href="/wiki/Ferumbras_Mortal_Shell" title="Ferumbras Mortal Shell">Ferumbras Mortal Shell</a>, <a href="/wiki/Grimeleech" title="Grimeleech">Grimeleech</a>, <a href="/wiki/Harpy" title="Harpy">Harpy</a>, <a href="/wiki/Hellflayer" title="Hellflayer">Hellflayer</a>, <a href="/wiki/Katex_Blood_Tongue" title="Katex Blood Tongue">Katex Blood Tongue</a>, <a href="/wiki/Rage_Squid" title="Rage Squid">Rage Squid</a>, <a href="/wiki/Rotrender" title="Rotrender">Rotrender</a>, <a href="/wiki/Shulgrax" title="Shulgrax">Shulgrax</a>, <a href="/wiki/Terofar" title="Terofar">Terofar</a>, <a href="/wiki/The_Source_Of_Corruption" title="The Source Of Corruption">The Source Of Corruption</a>, <a href="/wiki/Utua_Stone_Sting" title="Utua Stone Sting">Utua Stone Sting</a>, <a href="/wiki/Vexclaw" title="Vexclaw">Vexclaw</a>, <a href="/wiki/Yirkas_Blue_Scales" title="Yirkas Blue Scales">Yirkas Blue Scales</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Magician%27s_Robe" title="Magician's Robe">Magician's Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Magician%27s_Robe.gif" class="image fancybox"><img alt="Magician's Robe.gif" src="/images/3/38/Magician%27s_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>25.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Magma_Coat" title="Magma Coat">Magma Coat</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Magma_Coat.gif" class="image fancybox"><img alt="Magma Coat.gif" src="/images/2/27/Magma_Coat.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>50</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +8%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>22.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Burning_Book" title="Burning Book">Burning Book</a>, <a href="/wiki/Crape_Man" title="Crape Man">Crape Man</a>, <a href="/wiki/Dawnfire_Asura" title="Dawnfire Asura">Dawnfire Asura</a>, <a href="/wiki/Diabolic_Imp" title="Diabolic Imp">Diabolic Imp</a>, <a href="/wiki/Fire_Overlord" title="Fire Overlord">Fire Overlord</a>, <a href="/wiki/Gazer_Spectre" title="Gazer Spectre">Gazer Spectre</a>, <a href="/wiki/Girtablilu_Warrior" title="Girtablilu Warrior">Girtablilu Warrior</a>, <a href="/wiki/Gorerilla" title="Gorerilla">Gorerilla</a>, <a href="/wiki/Guardian_Of_Tales" title="Guardian Of Tales">Guardian Of Tales</a>, <a href="/wiki/Hellfire_Fighter" title="Hellfire Fighter">Hellfire Fighter</a>, <a href="/wiki/Hellhound" title="Hellhound">Hellhound</a>, <a href="/wiki/Insane_Siren" title="Insane Siren">Insane Siren</a>, <a href="/wiki/King_Zelos" title="King Zelos">King Zelos</a>, <a href="/wiki/Lava_Golem" title="Lava Golem">Lava Golem</a>, <a href="/wiki/Manticore" title="Manticore">Manticore</a>, <a href="/wiki/Mazoran" title="Mazoran">Mazoran</a>, <a href="/wiki/Scarlett_Etzel" title="Scarlett Etzel">Scarlett Etzel</a>, <a href="/wiki/Shaburak_Lord" title="Shaburak Lord">Shaburak Lord</a>, <a href="/wiki/Shaburak_Prince" title="Shaburak Prince">Shaburak Prince</a>, <a href="/wiki/Stalking_Stalk" title="Stalking Stalk">Stalking Stalk</a>, <a href="/wiki/Urmahlullu_the_Weakened" title="Urmahlullu the Weakened">Urmahlullu the Weakened</a>, <a href="/wiki/The_Baron_from_Below" title="The Baron from Below">The Baron from Below</a>, <a href="/wiki/The_Flaming_Orchid" title="The Flaming Orchid">The Flaming Orchid</a>, <a href="/wiki/The_Sandking" title="The Sandking">The Sandking</a>, <a href="/wiki/Vulcongra" title="Vulcongra">Vulcongra</a>, <a href="/wiki/Weeper" title="Weeper">Weeper</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Magma_Robe" title="Magma Robe">Magma Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Magma_Robe.gif" class="image fancybox"><img alt="Magma Robe.gif" src="/images/4/44/Magma_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +8%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>75.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mammoth_Fur_Cape" title="Mammoth Fur Cape">Mammoth Fur Cape</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Mammoth_Fur_Cape.gif" class="image fancybox"><img alt="Mammoth Fur Cape.gif" src="/images/4/4b/Mammoth_Fur_Cape.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>10</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>20.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Barbaria" title="Barbaria">Barbaria</a>, <a href="/wiki/Barbarian_Brutetamer" title="Barbarian Brutetamer">Barbarian Brutetamer</a>, <a href="/wiki/Ravenous_Hunger" title="Ravenous Hunger">Ravenous Hunger</a>, <a href="/wiki/The_Bloodtusk" title="The Bloodtusk">The Bloodtusk</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Master_Archer%27s_Armor" title="Master Archer's Armor">Master Archer's Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Master_Archer%27s_Armor.gif" class="image fancybox"><img alt="Master Archer's Armor.gif" src="/images/4/4e/Master_Archer%27s_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>69.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Merudri_Battle_Mail" title="Merudri Battle Mail">Merudri Battle Mail</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Merudri_Battle_Mail.gif" class="image fancybox"><img alt="Merudri Battle Mail.gif" src="/images/1/12/Merudri_Battle_Mail.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>10</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +10%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -5%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>29.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Dragon_Pack" title="Dragon Pack">Dragon Pack</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Merudri_Nanbando" title="Merudri Nanbando">Merudri Nanbando</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Merudri_Nanbando.gif" class="image fancybox"><img alt="Merudri Nanbando.gif" src="/images/e/e9/Merudri_Nanbando.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>125</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +3</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>106.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Merudri_Scale_Mail" title="Merudri Scale Mail">Merudri Scale Mail</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Merudri_Scale_Mail.gif" class="image fancybox"><img alt="Merudri Scale Mail.gif" src="/images/7/75/Merudri_Scale_Mail.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +2</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +4%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>29.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Midnight_Tunic" title="Midnight Tunic">Midnight Tunic</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Midnight_Tunic.gif" class="image fancybox"><img alt="Midnight Tunic.gif" src="/images/5/5d/Midnight_Tunic.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +3%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>27.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Timira_the_Many-Headed" title="Timira the Many-Headed">Timira the Many-Headed</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molten_Plate" title="Molten Plate">Molten Plate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Molten_Plate.gif" class="image fancybox"><img alt="Molten Plate.gif" src="/images/6/6a/Molten_Plate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>13</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +7%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -7%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>75.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Monk_Robe" title="Monk Robe">Monk Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Monk_Robe.gif" class="image fancybox"><img alt="Monk Robe.gif" src="/images/9/99/Monk_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>70.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Tarantula" title="Tarantula">Tarantula</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mooh%27tah_Plate" title="Mooh'tah Plate">Mooh'tah Plate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Mooh%27tah_Plate.gif" class="image fancybox"><img alt="Mooh'tah Plate.gif" src="/images/2/23/Mooh%27tah_Plate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>125.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Minotaur_Hunter" title="Minotaur Hunter">Minotaur Hunter</a>, <a href="/wiki/Minotaur_Invader" title="Minotaur Invader">Minotaur Invader</a>, <a href="/wiki/Mooh%27Tah_Warrior" title="Mooh'Tah Warrior">Mooh'Tah Warrior</a>, <a href="/wiki/Bullwark" title="Bullwark">Bullwark</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mutated_Skin_Armor" title="Mutated Skin Armor">Mutated Skin Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Mutated_Skin_Armor.gif" class="image fancybox"><img alt="Mutated Skin Armor.gif" src="/images/7/73/Mutated_Skin_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>270</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>17</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +3%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +8%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>63.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/The_Monster" title="The Monster">The Monster</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mystical_Dragon_Robe" title="Mystical Dragon Robe">Mystical Dragon Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Mystical_Dragon_Robe.gif" class="image fancybox"><img alt="Mystical Dragon Robe.gif" src="/images/d/d0/Mystical_Dragon_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3, <a href="/wiki/Earth_Magic_Level" class="mw-redirect" title="Earth Magic Level">Earth Magic Level</a> +1</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +12%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -6%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>38.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Dragon_Hoard" class="mw-redirect" title="Dragon Hoard">Dragon Hoard</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Naga_Tanko" title="Naga Tanko">Naga Tanko</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Naga_Tanko.gif" class="image fancybox"><img alt="Naga Tanko.gif" src="/images/b/bb/Naga_Tanko.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>270</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>10</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +3, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage"> Physical</a> +2%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +6%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>90.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Timira_the_Many-Headed" title="Timira the Many-Headed">Timira the Many-Headed</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Native_Armor" title="Native Armor">Native Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Native_Armor.gif" class="image fancybox"><img alt="Native Armor.gif" src="/images/5/5f/Native_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>80.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Noble_Armor" title="Noble Armor">Noble Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Noble_Armor.gif" class="image fancybox"><img alt="Noble Armor.gif" src="/images/1/12/Noble_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>120.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Norcferatu_Bloodhide" title="Norcferatu Bloodhide">Norcferatu Bloodhide</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Norcferatu_Bloodhide.gif" class="image fancybox"><img alt="Norcferatu Bloodhide.gif" src="/images/8/86/Norcferatu_Bloodhide.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>270</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Magic_Level" class="mw-redirect" title="Energy Magic Level">Energy Magic Level</a> +6, <a href="/wiki/Fire_Magic_Level" class="mw-redirect" title="Fire Magic Level">Fire Magic Level</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +8%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>39.00</small>
+</td>
+<td width="16%" align="left"><small>Desconhecido.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Norcferatu_Bonecloak" title="Norcferatu Bonecloak">Norcferatu Bonecloak</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Norcferatu_Bonecloak.gif" class="image fancybox"><img alt="Norcferatu Bonecloak.gif" src="/images/6/68/Norcferatu_Bonecloak.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>270</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Magic_Level" class="mw-redirect" title="Earth Magic Level">Earth Magic Level</a> +6, <a href="/wiki/Healing_Magic_Level" class="mw-redirect" title="Healing Magic Level">Healing Magic Level</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +8%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>42.00</small>
+</td>
+<td width="16%" align="left"><small>Desconhecido.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Norcferatu_Tuskplate" title="Norcferatu Tuskplate">Norcferatu Tuskplate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Norcferatu_Tuskplate.gif" class="image fancybox"><img alt="Norcferatu Tuskplate.gif" src="/images/4/4f/Norcferatu_Tuskplate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>270</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>22</small>
+</td>
+<td width="15%"><small><a href="/wiki/Sword_Fighting" title="Sword Fighting">Sword Fighting</a> +3, <a href="/wiki/Club_Fighting" title="Club Fighting">Club Fighting</a> +3, <a href="/wiki/Axe_Fighting" title="Axe Fighting">Axe Fighting</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +4%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>148.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Vladrukh" title="Vladrukh">Vladrukh</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Oceanborn_Leviathan_Armor" title="Oceanborn Leviathan Armor">Oceanborn Leviathan Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Oceanborn_Leviathan_Armor.gif" class="image fancybox"><img alt="Oceanborn Leviathan Armor.gif" src="/images/a/af/Oceanborn_Leviathan_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Shielding" title="Shielding">Shielding</a> +1</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +5%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>100.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Lord_of_the_Elements" title="Lord of the Elements">Lord of the Elements</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Old_Cape" title="Old Cape">Old Cape</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Old_Cape.gif" class="image fancybox"><img alt="Old Cape.gif" src="/images/1/11/Old_Cape.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>35.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ornate_Chestplate" title="Ornate Chestplate">Ornate Chestplate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ornate_Chestplate.gif" class="image fancybox"><img alt="Ornate Chestplate.gif" src="/images/d/de/Ornate_Chestplate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small><a href="/wiki/Shielding" title="Shielding">Shielding</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +8%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>156.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Jaul" title="Jaul">Jaul</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pair_of_Old_Bracers" title="Pair of Old Bracers">Pair of Old Bracers</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Pair_of_Old_Bracers.gif" class="image fancybox"><img alt="Pair of Old Bracers.gif" src="/images/5/5b/Pair_of_Old_Bracers.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Thaian" title="Thaian">Thaian</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Paladin_Armor" title="Paladin Armor">Paladin Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Paladin_Armor.gif" class="image fancybox"><img alt="Paladin Armor.gif" src="/images/4/45/Paladin_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +2</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>65.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Annihilon" title="Annihilon">Annihilon</a>, <a href="/wiki/Bog_Raider" title="Bog Raider">Bog Raider</a>, <a href="/wiki/Terofar" title="Terofar">Terofar</a>, <a href="/wiki/Zavarash" title="Zavarash">Zavarash</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pirate_Shirt" title="Pirate Shirt">Pirate Shirt</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Pirate_Shirt.gif" class="image fancybox"><img alt="Pirate Shirt.gif" src="/images/a/ae/Pirate_Shirt.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>20.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Pirate_Buccaneer" title="Pirate Buccaneer">Pirate Buccaneer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Plain_Monk_Robe" title="Plain Monk Robe">Plain Monk Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Plain_Monk_Robe.gif" class="image fancybox"><img alt="Plain Monk Robe.gif" src="/images/6/6e/Plain_Monk_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>65.00</small>
+</td>
+<td width="16%" align="left"><small>Desconhecido.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Plate_Armor" title="Plate Armor">Plate Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Plate_Armor.gif" class="image fancybox"><img alt="Plate Armor.gif" src="/images/2/2e/Plate_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>10</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>120.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ancient_Lion_Knight" title="Ancient Lion Knight">Ancient Lion Knight</a>, <a href="/wiki/Ancient_Scarab" title="Ancient Scarab">Ancient Scarab</a>, <a href="/wiki/Behemoth" title="Behemoth">Behemoth</a>, <a href="/wiki/Black_Knight" title="Black Knight">Black Knight</a>, <a href="/wiki/Bonebeast" title="Bonebeast">Bonebeast</a>, <a href="/wiki/Brutus_Bloodbeard" title="Brutus Bloodbeard">Brutus Bloodbeard</a>, <a href="/wiki/Crystal_Spider" title="Crystal Spider">Crystal Spider</a>, <a href="/wiki/Cursed_Ape" title="Cursed Ape">Cursed Ape</a>, <a href="/wiki/Deadeye_Devious" title="Deadeye Devious">Deadeye Devious</a>, <a href="/wiki/Destroyer" title="Destroyer">Destroyer</a>, <a href="/wiki/Dreadbeast" title="Dreadbeast">Dreadbeast</a>, <a href="/wiki/Giant_Spider" title="Giant Spider">Giant Spider</a>, <a href="/wiki/High_Templar_Cobrass" title="High Templar Cobrass">High Templar Cobrass</a>, <a href="/wiki/Kongra" title="Kongra">Kongra</a>, <a href="/wiki/Lethal_Lissy" title="Lethal Lissy">Lethal Lissy</a>, <a href="/wiki/Lizard_Templar" title="Lizard Templar">Lizard Templar</a>, <a href="/wiki/Naga_Warrior" title="Naga Warrior">Naga Warrior</a>, <a href="/wiki/Orc_Cult_Fanatic" title="Orc Cult Fanatic">Orc Cult Fanatic</a>, <a href="/wiki/Orc_Leader" title="Orc Leader">Orc Leader</a>, <a href="/wiki/Orc_Warlord" title="Orc Warlord">Orc Warlord</a>, <a href="/wiki/Pirate_Buccaneer" title="Pirate Buccaneer">Pirate Buccaneer</a>, <a href="/wiki/Quara_Pincher_Scout" title="Quara Pincher Scout">Quara Pincher Scout</a>, <a href="/wiki/Ron_The_Ripper" title="Ron The Ripper">Ron The Ripper</a>, <a href="/wiki/Sacred_Spider" title="Sacred Spider">Sacred Spider</a>, <a href="/wiki/The_Snapper" title="The Snapper">The Snapper</a>, <a href="/wiki/Undead_Elite_Gladiator" title="Undead Elite Gladiator">Undead Elite Gladiator</a>, <a href="/wiki/Undead_Gladiator" title="Undead Gladiator">Undead Gladiator</a>, <a href="/wiki/Valkyrie" title="Valkyrie">Valkyrie</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Prismatic_Armor" title="Prismatic Armor">Prismatic Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Prismatic_Armor.gif" class="image fancybox"><img alt="Prismatic Armor.gif" src="/images/4/42/Prismatic_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>120</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Speed" class="mw-redirect" title="Speed">Speed</a> +15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +5%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>79.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ranger%27s_Cloak" title="Ranger's Cloak">Ranger's Cloak</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ranger%27s_Cloak.gif" class="image fancybox"><img alt="Ranger's Cloak.gif" src="/images/4/42/Ranger%27s_Cloak.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>48.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Red_Robe" title="Red Robe">Red Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Red_Robe.gif" class="image fancybox"><img alt="Red Robe.gif" src="/images/8/88/Red_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>26.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Adept_of_the_Cult" title="Adept of the Cult">Adept of the Cult</a>, <a href="/wiki/Banshee" title="Banshee">Banshee</a>, <a href="/wiki/Pirate_Ghost" title="Pirate Ghost">Pirate Ghost</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Red_Tunic" title="Red Tunic">Red Tunic</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Red_Tunic.gif" class="image fancybox"><img alt="Red Tunic.gif" src="/images/f/f6/Red_Tunic.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>14.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Robe_of_Enlightenment" title="Robe of Enlightenment">Robe of Enlightenment</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Robe_of_Enlightenment.gif" class="image fancybox"><img alt="Robe of Enlightenment.gif" src="/images/1/1d/Robe_of_Enlightenment.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>150</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>8</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +4%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>24.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Robe_of_the_Ice_Queen" title="Robe of the Ice Queen">Robe of the Ice Queen</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Robe_of_the_Ice_Queen.gif" class="image fancybox"><img alt="Robe of the Ice Queen.gif" src="/images/5/51/Robe_of_the_Ice_Queen.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +12%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> -12%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>29.50</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Robe_of_the_Underworld" title="Robe of the Underworld">Robe of the Underworld</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Robe_of_the_Underworld.gif" class="image fancybox"><img alt="Robe of the Underworld.gif" src="/images/3/38/Robe_of_the_Underworld.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +12%, <a href="/wiki/Holy_Damage" title="Holy Damage">Holy</a> -12%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>31.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ancient_Spawn_of_Morgathla" title="Ancient Spawn of Morgathla">Ancient Spawn of Morgathla</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Royal_Draken_Mail" title="Royal Draken Mail">Royal Draken Mail</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Royal_Draken_Mail.gif" class="image fancybox"><img alt="Royal Draken Mail.gif" src="/images/2/28/Royal_Draken_Mail.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small><a href="/wiki/Shielding" title="Shielding">Shielding</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>130.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Royal_Scale_Robe" title="Royal Scale Robe">Royal Scale Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Royal_Scale_Robe.gif" class="image fancybox"><img alt="Royal Scale Robe.gif" src="/images/7/79/Royal_Scale_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>45.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Scale_Armor" title="Scale Armor">Scale Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Scale_Armor.gif" class="image fancybox"><img alt="Scale Armor.gif" src="/images/8/84/Scale_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>105.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Barbarian_Headsplitter" title="Barbarian Headsplitter">Barbarian Headsplitter</a>, <a href="/wiki/Barbarian_Skullhunter" title="Barbarian Skullhunter">Barbarian Skullhunter</a>, <a href="/wiki/Dwarf_Guard" title="Dwarf Guard">Dwarf Guard</a>, <a href="/wiki/Ghoul" title="Ghoul">Ghoul</a>, <a href="/wiki/Lizard_Sentinel" title="Lizard Sentinel">Lizard Sentinel</a>, <a href="/wiki/Minotaur_Archer" title="Minotaur Archer">Minotaur Archer</a>, <a href="/wiki/Mutated_Human" title="Mutated Human">Mutated Human</a>, <a href="/wiki/Orc_Rider" title="Orc Rider">Orc Rider</a>, <a href="/wiki/Pirate_Cutthroat" title="Pirate Cutthroat">Pirate Cutthroat</a>, <a href="/wiki/Quara_Predator_Scout" title="Quara Predator Scout">Quara Predator Scout</a>, <a href="/wiki/Undead_Prospector" title="Undead Prospector">Undead Prospector</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Simple_Dress" title="Simple Dress">Simple Dress</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Simple_Dress.gif" class="image fancybox"><img alt="Simple Dress.gif" src="/images/e/ef/Simple_Dress.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>10.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Banshee" title="Banshee">Banshee</a>, <a href="/wiki/Zombie" title="Zombie">Zombie</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Skullcracker_Armor" title="Skullcracker Armor">Skullcracker Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Skullcracker_Armor.gif" class="image fancybox"><img alt="Skullcracker Armor.gif" src="/images/1/1b/Skullcracker_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>85</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>14</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +5%, <a href="/wiki/Holy_Damage" title="Holy Damage">Holy</a> -5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>110.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Annihilon" title="Annihilon">Annihilon</a>, <a href="/wiki/Grim_Reaper" title="Grim Reaper">Grim Reaper</a>, <a href="/wiki/Juggernaut" title="Juggernaut">Juggernaut</a>, <a href="/wiki/Midnight_Asura" title="Midnight Asura">Midnight Asura</a>, <a href="/wiki/Sopping_Corpus" title="Sopping Corpus">Sopping Corpus</a>, <a href="/wiki/The_Scourge_of_Oblivion" title="The Scourge of Oblivion">The Scourge of Oblivion</a>, <a href="/wiki/The_Source_Of_Corruption" title="The Source Of Corruption">The Source Of Corruption</a>, <a href="/wiki/True_Midnight_Asura" title="True Midnight Asura">True Midnight Asura</a>, <a href="/wiki/Undead_Dragon" title="Undead Dragon">Undead Dragon</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Soulgarb" title="Soulgarb">Soulgarb</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Soulgarb.gif" class="image fancybox"><img alt="Soulgarb.gif" src="/images/2/23/Soulgarb.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4 , <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +4%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +8%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>107.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Soulmantle" title="Soulmantle">Soulmantle</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Soulmantle.gif" class="image fancybox"><img alt="Soulmantle.gif" src="/images/c/cb/Soulmantle.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>17</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +4%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>24.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Soulshell" title="Soulshell">Soulshell</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Soulshell.gif" class="image fancybox"><img alt="Soulshell.gif" src="/images/f/fd/Soulshell.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +3%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +15%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>123.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Soulshroud" title="Soulshroud">Soulshroud</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Soulshroud.gif" class="image fancybox"><img alt="Soulshroud.gif" src="/images/f/f0/Soulshroud.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>17</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +10%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>24.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spectral_Dress" title="Spectral Dress">Spectral Dress</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spectral_Dress.gif" class="image fancybox"><img alt="Spectral Dress.gif" src="/images/0/04/Spectral_Dress.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small></small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>10.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spellweaver%27s_Robe" title="Spellweaver's Robe">Spellweaver's Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spellweaver%27s_Robe.gif" class="image fancybox"><img alt="Spellweaver's Robe.gif" src="/images/3/3d/Spellweaver%27s_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +10%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -10%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>23.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Arbaziloth" title="Arbaziloth">Arbaziloth</a>, <a href="/wiki/Burning_Gladiator" title="Burning Gladiator">Burning Gladiator</a>, <a href="/wiki/Draken_Spellweaver" title="Draken Spellweaver">Draken Spellweaver</a>, <a href="/wiki/Ethershreck" title="Ethershreck">Ethershreck</a>, <a href="/wiki/Ghastly_Dragon" title="Ghastly Dragon">Ghastly Dragon</a>, <a href="/wiki/Hatebreeder" title="Hatebreeder">Hatebreeder</a>, <a href="/wiki/Juvenile_Bashmu" title="Juvenile Bashmu">Juvenile Bashmu</a>, <a href="/wiki/Lady_Tenebris" title="Lady Tenebris">Lady Tenebris</a>, <a href="/wiki/Lloyd" title="Lloyd">Lloyd</a>, <a href="/wiki/Lokathmor" title="Lokathmor">Lokathmor</a>, <a href="/wiki/The_Duke_Of_The_Depths" title="The Duke Of The Depths">The Duke Of The Depths</a>, <a href="/wiki/Undead_Dragon" title="Undead Dragon">Undead Dragon</a>, <a href="/wiki/Utua_Stone_Sting" title="Utua Stone Sting">Utua Stone Sting</a>, <a href="/wiki/Yirkas_Blue_Scales" title="Yirkas Blue Scales">Yirkas Blue Scales</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spirit_Bind" title="Spirit Bind">Spirit Bind</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spirit_Bind.gif" class="image fancybox"><img alt="Spirit Bind.gif" src="/images/2/29/Spirit_Bind.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>8</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +2</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +5%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>135.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spirit_Cloak" title="Spirit Cloak">Spirit Cloak</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spirit_Cloak.gif" class="image fancybox"><img alt="Spirit Cloak.gif" src="/images/7/70/Spirit_Cloak.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>8</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>26.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Goggle_Cake" title="Goggle Cake">Goggle Cake</a>, <a href="/wiki/Hellgorak" title="Hellgorak">Hellgorak</a>, <a href="/wiki/Nightstalker" title="Nightstalker">Nightstalker</a>, <a href="/wiki/Renegade_Quara_Hydromancer" title="Renegade Quara Hydromancer">Renegade Quara Hydromancer</a>, <a href="/wiki/Sea_Serpent" title="Sea Serpent">Sea Serpent</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spiritthorn_Armor" title="Spiritthorn Armor">Spiritthorn Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spiritthorn_Armor.gif" class="image fancybox"><img alt="Spiritthorn Armor.gif" src="/images/a/a8/Spiritthorn_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="15%"><small><a href="/wiki/Sword_Fighting" title="Sword Fighting">Sword Fighting</a> +4, <a href="/wiki/Club_Fighting" title="Club Fighting">Club Fighting</a> +4, <a href="/wiki/Axe_Fighting" title="Axe Fighting">Axe Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +13%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>160.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Magma_Bubble" title="Magma Bubble">Magma Bubble</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Stoic_Iks_Chestplate" title="Stoic Iks Chestplate">Stoic Iks Chestplate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Stoic_Iks_Chestplate.gif" class="image fancybox"><img alt="Stoic Iks Chestplate.gif" src="/images/2/2d/Stoic_Iks_Chestplate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small><a href="/wiki/Shielding" title="Shielding">Shielding</a> +3</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +8%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>142.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Mitmah_Vanguard" title="Mitmah Vanguard">Mitmah Vanguard</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Stoic_Iks_Cuirass" title="Stoic Iks Cuirass">Stoic Iks Cuirass</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Stoic_Iks_Cuirass.gif" class="image fancybox"><img alt="Stoic Iks Cuirass.gif" src="/images/4/4f/Stoic_Iks_Cuirass.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +5%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>44.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Mitmah_Vanguard" title="Mitmah Vanguard">Mitmah Vanguard</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Stoic_Iks_Robe" title="Stoic Iks Robe">Stoic Iks Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Stoic_Iks_Robe.gif" class="image fancybox"><img alt="Stoic Iks Robe.gif" src="/images/5/5a/Stoic_Iks_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>9</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +2%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +5%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>128.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Mitmah_Vanguard" title="Mitmah Vanguard">Mitmah Vanguard</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Studded_Armor" title="Studded Armor">Studded Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Studded_Armor.gif" class="image fancybox"><img alt="Studded Armor.gif" src="/images/8/87/Studded_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>5</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>71.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Brittle_Skeleton" title="Brittle Skeleton">Brittle Skeleton</a>, <a href="/wiki/Crazed_Dwarf" title="Crazed Dwarf">Crazed Dwarf</a>, <a href="/wiki/Dwarf" title="Dwarf">Dwarf</a>, <a href="/wiki/Dwarf_Miner" title="Dwarf Miner">Dwarf Miner</a>, <a href="/wiki/Elf" title="Elf">Elf</a>, <a href="/wiki/Minotaur_Bruiser" title="Minotaur Bruiser">Minotaur Bruiser</a>, <a href="/wiki/Minotaur_Poacher" title="Minotaur Poacher">Minotaur Poacher</a>, <a href="/wiki/Orc" title="Orc">Orc</a>, <a href="/wiki/Scar_Tribe_Shaman" title="Scar Tribe Shaman">Scar Tribe Shaman</a>, <a href="/wiki/Troll_Marauder" title="Troll Marauder">Troll Marauder</a>, <a href="/wiki/Woodling" title="Woodling">Woodling</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Summer_Dress" title="Summer Dress">Summer Dress</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Summer_Dress.gif" class="image fancybox"><img alt="Summer Dress.gif" src="/images/8/83/Summer_Dress.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>10.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Swan_Maiden" title="Swan Maiden">Swan Maiden</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Swamplair_Armor" title="Swamplair Armor">Swamplair Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Swamplair_Armor.gif" class="image fancybox"><img alt="Swamplair Armor.gif" src="/images/c/c7/Swamplair_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>13</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +3%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -3%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>84.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Cursed_Book" title="Cursed Book">Cursed Book</a>, <a href="/wiki/Earth_Overlord" title="Earth Overlord">Earth Overlord</a>, <a href="/wiki/Ink_Blob" title="Ink Blob">Ink Blob</a>, <a href="/wiki/Paiz_the_Pauperizer" title="Paiz the Pauperizer">Paiz the Pauperizer</a>, <a href="/wiki/Serpent_Spawn" title="Serpent Spawn">Serpent Spawn</a>, <a href="/wiki/The_Enraged_Thorn_Knight" title="The Enraged Thorn Knight">The Enraged Thorn Knight</a>, <a href="/wiki/The_Noxious_Spawn" title="The Noxious Spawn">The Noxious Spawn</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Swan_Feather_Cloak" title="Swan Feather Cloak">Swan Feather Cloak</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Swan_Feather_Cloak.gif" class="image fancybox"><img alt="Swan Feather Cloak.gif" src="/images/2/2b/Swan_Feather_Cloak.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small><a href="/wiki/Speed" class="mw-redirect" title="Speed">Speed</a> +10</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +12%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +12%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Terra_Mantle" title="Terra Mantle">Terra Mantle</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Terra_Mantle.gif" class="image fancybox"><img alt="Terra Mantle.gif" src="/images/3/37/Terra_Mantle.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>50</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +8%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>22.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ancient_Spawn_of_Morgathla" title="Ancient Spawn of Morgathla">Ancient Spawn of Morgathla</a>, <a href="/wiki/Askarak_Lord" title="Askarak Lord">Askarak Lord</a>, <a href="/wiki/Askarak_Prince" title="Askarak Prince">Askarak Prince</a>, <a href="/wiki/Banshee" title="Banshee">Banshee</a>, <a href="/wiki/Blightwalker" title="Blightwalker">Blightwalker</a>, <a href="/wiki/Choking_Fear" title="Choking Fear">Choking Fear</a>, <a href="/wiki/Cursed_Book" title="Cursed Book">Cursed Book</a>, <a href="/wiki/Drume" title="Drume">Drume</a>, <a href="/wiki/Earth_Overlord" title="Earth Overlord">Earth Overlord</a>, <a href="/wiki/Esmeralda" title="Esmeralda">Esmeralda</a>, <a href="/wiki/Exotic_Cave_Spider" title="Exotic Cave Spider">Exotic Cave Spider</a>, <a href="/wiki/Fleshcrawler" title="Fleshcrawler">Fleshcrawler</a>, <a href="/wiki/Glooth_Bandit" title="Glooth Bandit">Glooth Bandit</a>, <a href="/wiki/Glooth_Brigand" title="Glooth Brigand">Glooth Brigand</a>, <a href="/wiki/Gorgo" title="Gorgo">Gorgo</a>, <a href="/wiki/Humongous_Fungus" title="Humongous Fungus">Humongous Fungus</a>, <a href="/wiki/Hideous_Fungus" title="Hideous Fungus">Hideous Fungus</a>, <a href="/wiki/Ink_Blob" title="Ink Blob">Ink Blob</a>, <a href="/wiki/Ink_Splash" title="Ink Splash">Ink Splash</a>, <a href="/wiki/Medusa" title="Medusa">Medusa</a>, <a href="/wiki/Scarlett_Etzel" title="Scarlett Etzel">Scarlett Etzel</a>, <a href="/wiki/Spiky_Carnivor" title="Spiky Carnivor">Spiky Carnivor</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/The_Rain_Coat" title="The Rain Coat">The Rain Coat</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:The_Rain_Coat.gif" class="image fancybox"><img alt="The Rain Coat.gif" src="/images/e/e2/The_Rain_Coat.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>32.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Mephiles" title="Mephiles">Mephiles</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Thunderheart_Cuirass" title="Thunderheart Cuirass">Thunderheart Cuirass</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Thunderheart_Cuirass.gif" class="image fancybox"><img alt="Thunderheart Cuirass.gif" src="/images/2/2e/Thunderheart_Cuirass.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Sword_Fighting" title="Sword Fighting">Sword Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +8%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Thunderheart_Hauberk" title="Thunderheart Hauberk">Thunderheart Hauberk</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Thunderheart_Hauberk.gif" class="image fancybox"><img alt="Thunderheart Hauberk.gif" src="/images/9/99/Thunderheart_Hauberk.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Axe_Fighting" title="Axe Fighting">Axe Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +8%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Thunderheart_Platemail" title="Thunderheart Platemail">Thunderheart Platemail</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Thunderheart_Platemail.gif" class="image fancybox"><img alt="Thunderheart Platemail.gif" src="/images/3/3d/Thunderheart_Platemail.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Club_Fighting" title="Club Fighting">Club Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +8%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Thundermind_Raiment" title="Thundermind Raiment">Thundermind Raiment</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Thundermind_Raiment.gif" class="image fancybox"><img alt="Thundermind Raiment.gif" src="/images/3/35/Thundermind_Raiment.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +8%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>55.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Thundersoul_Tabard" title="Thundersoul Tabard">Thundersoul Tabard</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Thundersoul_Tabard.gif" class="image fancybox"><img alt="Thundersoul Tabard.gif" src="/images/7/7c/Thundersoul_Tabard.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +8%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -8%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>145.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Toga_Mortis" title="Toga Mortis">Toga Mortis</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Toga_Mortis.gif" class="image fancybox"><img alt="Toga Mortis.gif" src="/images/4/4a/Toga_Mortis.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>220</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +4</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +6%</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>52.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/King_Zelos" title="King Zelos">King Zelos</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Traditional_Shirt" title="Traditional Shirt">Traditional Shirt</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Traditional_Shirt.gif" class="image fancybox"><img alt="Traditional Shirt.gif" src="/images/8/8f/Traditional_Shirt.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tunic" title="Tunic">Tunic</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Tunic.gif" class="image fancybox"><img alt="Tunic.gif" src="/images/6/6f/Tunic.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>15.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Unerring_Dragon_Scale_Armor" title="Unerring Dragon Scale Armor">Unerring Dragon Scale Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Unerring_Dragon_Scale_Armor.gif" class="image fancybox"><img alt="Unerring Dragon Scale Armor.gif" src="/images/b/bc/Unerring_Dragon_Scale_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>17</small>
+</td>
+<td width="15%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3, <a href="/wiki/Holy_Magic_Level" class="mw-redirect" title="Holy Magic Level">Holy Magic Level</a> +1</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +10%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -5%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>135.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Dragon_Hoard" class="mw-redirect" title="Dragon Hoard">Dragon Hoard</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Velvet_Mantle" title="Velvet Mantle">Velvet Mantle</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Velvet_Mantle.gif" class="image fancybox"><img alt="Velvet Mantle.gif" src="/images/5/58/Velvet_Mantle.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +12%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -12%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>28.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ferumbras_Mortal_Shell" title="Ferumbras Mortal Shell">Ferumbras Mortal Shell</a>, <a href="/wiki/The_False_God" title="The False God">The False God</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Voltage_Armor" title="Voltage Armor">Voltage Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Voltage_Armor.gif" class="image fancybox"><img alt="Voltage Armor.gif" src="/images/2/2d/Voltage_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>13</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +3%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -3%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>84.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Energy_Overlord" title="Energy Overlord">Energy Overlord</a>, <a href="/wiki/Hellgorak" title="Hellgorak">Hellgorak</a>, <a href="/wiki/Terofar" title="Terofar">Terofar</a>, <a href="/wiki/The_Last_Lore_Keeper" title="The Last Lore Keeper">The Last Lore Keeper</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/White_Dress" title="White Dress">White Dress</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:White_Dress.gif" class="image fancybox"><img alt="White Dress.gif" src="/images/3/38/White_Dress.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>24.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Windborn_Colossus_Armor" title="Windborn Colossus Armor">Windborn Colossus Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Windborn_Colossus_Armor.gif" class="image fancybox"><img alt="Windborn Colossus Armor.gif" src="/images/c/c0/Windborn_Colossus_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="15%"><small><a href="/wiki/Club_Fighting" title="Club Fighting">Club Fighting</a> +2</small>
+</td>
+<td width="15%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +5%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> -5%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>120.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Witchhunter%27s_Coat" title="Witchhunter's Coat">Witchhunter's Coat</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Witchhunter%27s_Coat.gif" class="image fancybox"><img alt="Witchhunter's Coat.gif" src="/images/f/f5/Witchhunter%27s_Coat.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>50</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +2%, <a href="/wiki/Holy_Damage" title="Holy Damage">Holy</a> -2%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>25.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Yalahari_Armor" title="Yalahari Armor">Yalahari Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Yalahari_Armor.gif" class="image fancybox"><img alt="Yalahari Armor.gif" src="/images/1/1c/Yalahari_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>80</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +3%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>70.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Zaoan_Armor" title="Zaoan Armor">Zaoan Armor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Zaoan_Armor.gif" class="image fancybox"><img alt="Zaoan Armor.gif" src="/images/1/19/Zaoan_Armor.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>50</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a> and <a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>13</small>
+</td>
+<td width="15%"><small><a href="/wiki/Speed" class="mw-redirect" title="Speed">Speed</a> +10</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>95.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Draken_Abomination" title="Draken Abomination">Draken Abomination</a>, <a href="/wiki/Draken_Elite" title="Draken Elite">Draken Elite</a>, <a href="/wiki/Draken_Warmaster" title="Draken Warmaster">Draken Warmaster</a>, <a href="/wiki/Ethershreck" title="Ethershreck">Ethershreck</a>, <a href="/wiki/Fazzrah" title="Fazzrah">Fazzrah</a>, <a href="/wiki/Ghastly_Dragon" title="Ghastly Dragon">Ghastly Dragon</a>, <a href="/wiki/Lizard_Chosen" title="Lizard Chosen">Lizard Chosen</a>, <a href="/wiki/Lizard_High_Guard" title="Lizard High Guard">Lizard High Guard</a>, <a href="/wiki/Lizard_Legionnaire" title="Lizard Legionnaire">Lizard Legionnaire</a>, <a href="/wiki/Lizard_Zaogun" title="Lizard Zaogun">Lizard Zaogun</a>, <a href="/wiki/Paiz_the_Pauperizer" title="Paiz the Pauperizer">Paiz the Pauperizer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Zaoan_Monk_Robe" title="Zaoan Monk Robe">Zaoan Monk Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Zaoan_Monk_Robe.gif" class="image fancybox"><img alt="Zaoan Monk Robe.gif" src="/images/6/66/Zaoan_Monk_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>50</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1</small>
+</td>
+<td width="15%"><small>Nenhuma</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>110.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ethershreck" title="Ethershreck">Ethershreck</a>, <a href="/wiki/Hatebreeder" title="Hatebreeder">Hatebreeder</a>, <a href="/wiki/Soul_of_Dragonking_Zyrtarch" title="Soul of Dragonking Zyrtarch">Soul of Dragonking Zyrtarch</a>, <a href="/wiki/Lizard_Templar" title="Lizard Templar">Lizard Templar</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Zaoan_Robe" title="Zaoan Robe">Zaoan Robe</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Zaoan_Robe.gif" class="image fancybox"><img alt="Zaoan Robe.gif" src="/images/c/ce/Zaoan_Robe.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>11</small>
+</td>
+<td width="15%"><small>Nenhum</small>
+</td>
+<td width="15%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +10%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> -10%</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>24.50</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Lizard_Dragon_Priest" title="Lizard Dragon Priest">Lizard Dragon Priest</a>, <a href="/wiki/Draken_Spellweaver" title="Draken Spellweaver">Draken Spellweaver</a>.</small>
+</td></tr></tbody><tfoot></tfoot></table>

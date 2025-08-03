@@ -1,0 +1,1024 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Nome</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Lvl</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Voc</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Mãos</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Alcance</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Atq</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Hit%</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Bônus</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dano Elemental</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Proteção</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Slots</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Tier</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dropa de</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Amber_Bow" title="Amber Bow">Amber Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Amber_Bow.gif" class="image fancybox"><img alt="Amber Bow.gif" src="/images/d/d3/Amber_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>330</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+7</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +5%</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>37.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/The_Rootkraken" title="The Rootkraken">The Rootkraken</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bow" title="Bow">Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Guardcatcher.gif" class="image fancybox"><img alt="Bow.gif" src="/images/1/12/Guardcatcher.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>Todas</small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>31.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Elf_Scout" title="Elf Scout">Elf Scout</a>, <a href="/wiki/Firestarter" title="Firestarter">Firestarter</a>, <a href="/wiki/Hero" title="Hero">Hero</a>, <a href="/wiki/Hunter" title="Hunter">Hunter</a>, <a href="/wiki/Naga_Archer" title="Naga Archer">Naga Archer</a>, <a href="/wiki/Orc_Marauder" title="Orc Marauder">Orc Marauder</a>, <a href="/wiki/Poacher" title="Poacher">Poacher</a>, <a href="/wiki/Salamander" title="Salamander">Salamander</a>, <a href="/wiki/Stalking_Stalk" title="Stalking Stalk">Stalking Stalk</a>, <a href="/wiki/Usurper_Commander" title="Usurper Commander">Usurper Commander</a>, <a href="/wiki/Vok_the_Freakish" title="Vok the Freakish">Vok the Freakish</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bow_of_Cataclysm" title="Bow of Cataclysm">Bow of Cataclysm</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bow_of_Cataclysm.gif" class="image fancybox"><img alt="Bow of Cataclysm.gif" src="/images/1/1d/Bow_of_Cataclysm.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="5%"><small>+4</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +1</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Death_Damage" title="Death Damage">Death</a> +4%</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>47.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/King_Zelos" title="King Zelos">King Zelos</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bow_of_Destruction" title="Bow of Destruction">Bow of Destruction</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bow_of_Destruction.gif" class="image fancybox"><img alt="Bow of Destruction.gif" src="/images/0/01/Bow_of_Destruction.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>55.00</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Composite_Hornbow" title="Composite Hornbow">Composite Hornbow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Composite_Hornbow.gif" class="image fancybox"><img alt="Composite Hornbow.gif" src="/images/9/9a/Composite_Hornbow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>50</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+3</small>
+</td>
+<td width="5%"><small>+2</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>52.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Black_Vixen" title="Black Vixen">Black Vixen</a>, <a href="/wiki/Cave_Chimera" title="Cave Chimera">Cave Chimera</a>, <a href="/wiki/Elder_Wyrm" title="Elder Wyrm">Elder Wyrm</a>, <a href="/wiki/Ironblight" title="Ironblight">Ironblight</a>, <a href="/wiki/Wyrm" title="Wyrm">Wyrm</a>, <a href="/wiki/Outburst" title="Outburst">Outburst</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crude_Umbral_Bow" title="Crude Umbral Bow">Crude Umbral Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Crude_Umbral_Bow.gif" class="image fancybox"><img alt="Crude Umbral Bow.gif" src="/images/3/33/Crude_Umbral_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="5%"><small>+2</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>50.00</small>
+</td>
+<td width="16%"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Draining_Inferniarch_Bow" title="Draining Inferniarch Bow">Draining Inferniarch Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Draining_Inferniarch_Bow.gif" class="image fancybox"><img alt="Draining Inferniarch Bow.gif" src="/images/6/61/Draining_Inferniarch_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+7</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +2</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +5%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>56.00</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Eldritch_Bow" title="Eldritch Bow">Eldritch Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Eldritch_Bow.gif" class="image fancybox"><img alt="Eldritch Bow.gif" src="/images/9/99/Eldritch_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +2, <a href="/wiki/Holy_Magic_Level" class="mw-redirect" title="Holy Magic Level">Holy Magic Level</a> +1</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>58.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/The_Brainstealer" title="The Brainstealer">The Brainstealer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Elethriel%27s_Elemental_Bow" title="Elethriel's Elemental Bow">Elethriel's Elemental Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Elethriel%27s_Elemental_Bow.gif" class="image fancybox"><img alt="Elethriel's Elemental Bow.gif" src="/images/2/22/Elethriel%27s_Elemental_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>70</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>+7</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>44.00</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Elvish_Bow" title="Elvish Bow">Elvish Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Elvish_Bow.gif" class="image fancybox"><img alt="Elvish Bow.gif" src="/images/2/20/Elvish_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>Todas</small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>39.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Cave_Chimera" title="Cave Chimera">Cave Chimera</a>, <a href="/wiki/Elder_Forest_Fury" title="Elder Forest Fury">Elder Forest Fury</a>, <a href="/wiki/Elf_Scout" title="Elf Scout">Elf Scout</a>, <a href="/wiki/Firestarter" title="Firestarter">Firestarter</a>, <a href="/wiki/Forest_Fury" title="Forest Fury">Forest Fury</a>, <a href="/wiki/Naga_Archer" title="Naga Archer">Naga Archer</a>, <a href="/wiki/Usurper_Archer" title="Usurper Archer">Usurper Archer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Falcon_Bow" title="Falcon Bow">Falcon Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Falcon_Bow.gif" class="image fancybox"><img alt="Falcon Bow.gif" src="/images/f/fc/Falcon_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+7</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +2</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +5%</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>35.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Grand_Commander_Soeren" title="Grand Commander Soeren">Grand Commander Soeren</a>, <a href="/wiki/Grand_Master_Oberon" title="Grand Master Oberon">Grand Master Oberon</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gilded_Eldritch_Bow" title="Gilded Eldritch Bow">Gilded Eldritch Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Gilded_Eldritch_Bow.gif" class="image fancybox"><img alt="Gilded Eldritch Bow.gif" src="/images/d/d5/Gilded_Eldritch_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +2, <a href="/wiki/Holy_Magic_Level" class="mw-redirect" title="Holy Magic Level">Holy Magic Level</a> +1</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>59.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/The_Brainstealer" title="The Brainstealer">The Brainstealer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Grand_Sanguine_Bow" title="Grand Sanguine Bow">Grand Sanguine Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Grand_Sanguine_Bow.gif" class="image fancybox"><img alt="Grand Sanguine Bow.gif" src="/images/3/3a/Grand_Sanguine_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>600</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+9</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +6%</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>47.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Bakragore" title="Bakragore">Bakragore</a> dentro de uma <a href="/wiki/Bag_You_Covet" title="Bag You Covet">Bag You Covet</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hive_Bow" title="Hive Bow">Hive Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Hive_Bow.gif" class="image fancybox"><img alt="Hive Bow.gif" src="/images/d/d3/Hive_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>85</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+2</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>46.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Hive_Overseer" title="Hive Overseer">Hive Overseer</a>, <a href="/wiki/Maw" title="Maw">Maw</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Icicle_Bow" title="Icicle Bow">Icicle Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Icicle_Bow.gif" class="image fancybox"><img alt="Icicle Bow.gif" src="/images/0/0d/Icicle_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>Todas</small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+1</small>
+</td>
+<td width="5%"><small>+4</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>42.00</small>
+</td>
+<td width="16%"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Inferniarch_Bow" title="Inferniarch Bow">Inferniarch Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Inferniarch_Bow.gif" class="image fancybox"><img alt="Inferniarch Bow.gif" src="/images/4/42/Inferniarch_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+7</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +2</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +5%</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>56.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Arbaziloth" title="Arbaziloth">Arbaziloth</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Jungle_Bow" title="Jungle Bow">Jungle Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Jungle_Bow.gif" class="image fancybox"><img alt="Jungle Bow.gif" src="/images/0/08/Jungle_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>150</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +1</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +3%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>47.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Ratmiral_Blackwhiskers" title="Ratmiral Blackwhiskers">Ratmiral Blackwhiskers</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lion_Longbow" title="Lion Longbow">Lion Longbow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Lion_Longbow.gif" class="image fancybox"><img alt="Lion Longbow.gif" src="/images/a/a7/Lion_Longbow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>270</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +1</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +5%</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>48.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Ancient_Lion_Knight" title="Ancient Lion Knight">Ancient Lion Knight</a>, <a href="/wiki/Drume" title="Drume">Drume</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Living_Vine_Bow" title="Living Vine Bow">Living Vine Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Living_Vine_Bow.gif" class="image fancybox"><img alt="Living Vine Bow.gif" src="/images/6/61/Living_Vine_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>220</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +1</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +4%</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>38.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Plagueroot" title="Plagueroot">Plagueroot</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Musician%27s_Bow" title="Musician's Bow">Musician's Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Musician%27s_Bow.gif" class="image fancybox"><img alt="Musician's Bow.gif" src="/images/f/f6/Musician%27s_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>Todas</small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>12.50</small>
+</td>
+<td width="16%"><small><a href="/wiki/Boogey" title="Boogey">Boogey</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mycological_Bow" title="Mycological Bow">Mycological Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Mycological_Bow.gif" class="image fancybox"><img alt="Mycological Bow.gif" src="/images/c/c6/Mycological_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>105</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+4</small>
+</td>
+<td width="5%"><small>+4</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>49.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Abyssador" title="Abyssador">Abyssador</a>, <a href="/wiki/Deathstrike" title="Deathstrike">Deathstrike</a>, <a href="/wiki/Diremaw" title="Diremaw">Diremaw</a>, <a href="/wiki/Gnomevil" title="Gnomevil">Gnomevil</a>, <a href="/wiki/Hideous_Fungus" title="Hideous Fungus">Hideous Fungus</a>, <a href="/wiki/Humongous_Fungus" title="Humongous Fungus">Humongous Fungus</a>, <a href="/wiki/Monk%27s_Apparition" title="Monk's Apparition">Monk's Apparition</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rending_Inferniarch_Bow" title="Rending Inferniarch Bow">Rending Inferniarch Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Rending_Inferniarch_Bow.gif" class="image fancybox"><img alt="Rending Inferniarch Bow.gif" src="/images/5/5b/Rending_Inferniarch_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+7</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +2</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +5%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>56.00</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rift_Bow" title="Rift Bow">Rift Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Rift_Bow.gif" class="image fancybox"><img alt="Rift Bow.gif" src="/images/7/7b/Rift_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>120</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="5%"><small>+3</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>41.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Ferumbras_Mortal_Shell" title="Ferumbras Mortal Shell">Ferumbras Mortal Shell</a>, <a href="/wiki/Grimeleech" title="Grimeleech">Grimeleech</a>, <a href="/wiki/Hellflayer" title="Hellflayer">Hellflayer</a>, <a href="/wiki/Mazoran" title="Mazoran">Mazoran</a>, <a href="/wiki/Plagirath" title="Plagirath">Plagirath</a>, <a href="/wiki/Ragiaz" title="Ragiaz">Ragiaz</a>, <a href="/wiki/Shulgrax" title="Shulgrax">Shulgrax</a>, <a href="/wiki/The_Source_Of_Corruption" title="The Source Of Corruption">The Source Of Corruption</a>, <a href="/wiki/Vexclaw" title="Vexclaw">Vexclaw</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sanguine_Bow" title="Sanguine Bow">Sanguine Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sanguine_Bow.gif" class="image fancybox"><img alt="Sanguine Bow.gif" src="/images/f/fd/Sanguine_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>600</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+9</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +6%</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>47.00</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Shimmer_Bow" title="Shimmer Bow">Shimmer Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Shimmer_Bow.gif" class="image fancybox"><img alt="Shimmer Bow.gif" src="/images/e/e8/Shimmer_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>40</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+1</small>
+</td>
+<td width="5%"><small>+7</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>48.00</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Silkweaver_Bow" title="Silkweaver Bow">Silkweaver Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Silkweaver_Bow.gif" class="image fancybox"><img alt="Silkweaver Bow.gif" src="/images/5/5e/Silkweaver_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>40</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>+3</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>25.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Orc_Marauder" title="Orc Marauder">Orc Marauder</a>, <a href="/wiki/The_Last_Lore_Keeper" title="The Last Lore Keeper">The Last Lore Keeper</a>, <a href="/wiki/The_Source_Of_Corruption" title="The Source Of Corruption">The Source Of Corruption</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Siphoning_Inferniarch_Bow" title="Siphoning Inferniarch Bow">Siphoning Inferniarch Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Siphoning_Inferniarch_Bow.gif" class="image fancybox"><img alt="Siphoning Inferniarch Bow.gif" src="/images/0/0c/Siphoning_Inferniarch_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+7</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +2</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +5%</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>56.00</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Soulbleeder" title="Soulbleeder">Soulbleeder</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Soulbleeder.gif" class="image fancybox"><img alt="Soulbleeder.gif" src="/images/d/d3/Soulbleeder.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>+8</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small><a href="/wiki/Holy_Damage" title="Holy Damage">Holy</a> +7%</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>47.00</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Umbral_Bow" title="Umbral Bow">Umbral Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Umbral_Bow.gif" class="image fancybox"><img alt="Umbral Bow.gif" src="/images/1/1c/Umbral_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>120</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="5%"><small>+4</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>45.00</small>
+</td>
+<td width="16%"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Umbral_Master_Bow" title="Umbral Master Bow">Umbral Master Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Umbral_Master_Bow.gif" class="image fancybox"><img alt="Umbral Master Bow.gif" src="/images/f/f7/Umbral_Master_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="5%"><small>+6</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>40.00</small>
+</td>
+<td width="16%"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Warsinger_Bow" title="Warsinger Bow">Warsinger Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Warsinger_Bow.gif" class="image fancybox"><img alt="Warsinger Bow.gif" src="/images/f/f8/Warsinger_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>80</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="5%"><small>+3</small>
+</td>
+<td width="5%"><small>+5</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>45.00</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Yol%27s_Bow" title="Yol's Bow">Yol's Bow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Yol%27s_Bow.gif" class="image fancybox"><img alt="Yol's Bow.gif" src="/images/1/19/Yol%27s_Bow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>7</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>+7</small>
+</td>
+<td width="8%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>35.00</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr></tbody><tfoot></tfoot></table>

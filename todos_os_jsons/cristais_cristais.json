@@ -1,0 +1,226 @@
+[
+    {
+        "Nome": "Blood Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/10/Blood_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "8.90",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Crystal Ball",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/c0/Crystal_Ball.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "34.00",
+        "Dropa_de": "Golgordan , Latrivan , Priestess ."
+    },
+    {
+        "Nome": "Crystal Lamp",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/20/Crystal_Lamp.gif",
+        "Atributos": "Fornece uma pequena quantidade de luz azulada.",
+        "Agrupável": "",
+        "Peso": "10.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Crystal of Balance",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/7a/Crystal_of_Balance.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "8.50",
+        "Dropa_de": "Cliff Strider , Ironblight , Nightstalker ."
+    },
+    {
+        "Nome": "Crystal of Focus",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/4e/Crystal_of_Focus.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "8.00",
+        "Dropa_de": "Mad Mage , Nightmare Scion , Twisted Pooka ."
+    },
+    {
+        "Nome": "Crystal of Power",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/82/Crystal_of_Power.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "8.50",
+        "Dropa_de": "Boogy , Cliff Strider , Infernalist , Ironblight , Raging Mage , Soul of Dragonking Zyrtarch , War Golem ."
+    },
+    {
+        "Nome": "Deep Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/dc/Deep_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "3.10",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Elemental Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/ff/Elemental_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "3.20",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Flawless Ice Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/35/Flawless_Ice_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ice Overlord ."
+    },
+    {
+        "Nome": "Food Matrix Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fa/Food_Matrix_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Frost Charm",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a3/Frost_Charm.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "19.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Gnomish Extraction Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/cd/Gnomish_Extraction_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "4.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Gnomish Repair Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/59/Gnomish_Repair_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "4.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Heavy Crystal Fragment",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/62/Heavy_Crystal_Fragment.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "10.00",
+        "Dropa_de": "The Baron from Below , The Count Of The Core , The Duke Of The Depths ."
+    },
+    {
+        "Nome": "Imbuing Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/94/Imbuing_Crystal.gif",
+        "Atributos": "Fornece uma pequena quantidade de luz vermelha.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Life Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/07/Life_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.63",
+        "Dropa_de": "Albino Dragon , Banshee , Burster Spectre , Crazed Winter Rearguard , Dark Monk , Diamond Servant , Diamond Servant Replica , Dragon , Dragon Lord , Elf Arcanist , Frost Dragon , Hydra , Lizard Snakecharmer , Mad Scientist , Monk , Quara Pincher Scout , Serpent Spawn , Undead Dragon , Ushuriel , War Golem , Worker Golem , Young Sea Serpent ."
+    },
+    {
+        "Nome": "Lonely Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/07/Lonely_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.80",
+        "Dropa_de": "Ninguém"
+    },
+    {
+        "Nome": "Magic Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/42/Magic_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.40",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Memory Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/54/Memory_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Midnight Shard",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/47/Midnight_Shard.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "3.00",
+        "Dropa_de": "Acolyte of Darkness , Bane of Light , Bride of Night , Doomsday Cultist , Duskbringer , Eclipse Knight , Herald of Gloom , Midnight Spawn , Midnight Warrior , Nightslayer , Shadow Hound ."
+    },
+    {
+        "Nome": "Purified Soul (Quest)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/0c/Purified_Soul_%28Quest%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Rare Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8c/Rare_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "3.10",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Red Teleport Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/12/Red_Teleport_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.45",
+        "Dropa_de": "Ninguém"
+    },
+    {
+        "Nome": "Resonance Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/29/Resonance_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Rough Red Gem",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fe/Rough_Red_Gem.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "3.90",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Spectral Stone",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/d5/Spectral_Stone.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Teleport Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/63/Teleport_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0.45",
+        "Dropa_de": "Ninguém"
+    },
+    {
+        "Nome": "Weapon Matrix Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/9d/Weapon_Matrix_Crystal.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    }
+]

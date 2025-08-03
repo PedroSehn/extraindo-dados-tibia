@@ -1,0 +1,66 @@
+[
+    {
+        "Nome": "Bolt",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/74/Bolt.gif",
+        "Lvl": "0",
+        "Atq": "30",
+        "Peso": "0.80",
+        "Dropa_de": "Dwarf Soldier , Elder Forest Fury , Forest Fury , Minotaur Archer , Minotaur Poacher , Vicious Squire ."
+    },
+    {
+        "Nome": "Drill Bolt",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fc/Drill_Bolt.gif",
+        "Lvl": "70",
+        "Atq": "56",
+        "Peso": "0.80",
+        "Dropa_de": "Armadile , Drillworm , Enslaved Dwarf , Humongous Fungus , Lost Berserker , Wiggler ."
+    },
+    {
+        "Nome": "Infernal Bolt",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a6/Infernal_Bolt.gif",
+        "Lvl": "110",
+        "Atq": "72",
+        "Peso": "0.90",
+        "Dropa_de": "Annihilon ."
+    },
+    {
+        "Nome": "Piercing Bolt",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/72/Piercing_Bolt.gif",
+        "Lvl": "30",
+        "Atq": "33",
+        "Peso": "0.80",
+        "Dropa_de": "Dwarf Soldier , Elder Forest Fury , Forest Fury , Minotaur Archer , Minotaur Poacher , The Horned Fox ."
+    },
+    {
+        "Nome": "Power Bolt",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1c/Power_Bolt.gif",
+        "Lvl": "55",
+        "Atq": "40",
+        "Peso": "0.90",
+        "Dropa_de": "Albino Dragon , Annihilon , Betrayed Wraith , Demodras , Dragon Lord , Elder Wyrm , Frost Dragon , Nightmare , Omruc , Serpent Spawn , Undead Dragon , Wyvern ."
+    },
+    {
+        "Nome": "Prismatic Bolt",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/32/Prismatic_Bolt.gif",
+        "Lvl": "90",
+        "Atq": "66",
+        "Peso": "0.85",
+        "Dropa_de": "Cliff Strider , Lava Golem , Orewalker , Weeper ."
+    },
+    {
+        "Nome": "Spectral Bolt",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a8/Spectral_Bolt.gif",
+        "Lvl": "150",
+        "Atq": "78",
+        "Peso": "0.90",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Vortex Bolt",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/6a/Vortex_Bolt.gif",
+        "Lvl": "40",
+        "Atq": "36",
+        "Peso": "0.80",
+        "Dropa_de": "Crazed Summer Rearguard , Deathling Scout , Deathling Spellsinger , Deepling Warrior , Deepling Elite , Renegade Quara Constrictor , Renegade Quara Pincher , Twisted Shaper ."
+    }
+]

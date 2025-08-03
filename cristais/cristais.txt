@@ -1,0 +1,378 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Nome</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Atributos</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Agrupável</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dropa de</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Blood_Crystal" title="Blood Crystal">Blood Crystal</a>
+</td>
+<td width="10%"><img alt="Blood Crystal.gif" src="/images/1/10/Blood_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.90</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crystal_Ball" title="Crystal Ball">Crystal Ball</a>
+</td>
+<td width="10%"><img alt="Crystal Ball.gif" src="/images/c/c0/Crystal_Ball.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>34.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Golgordan" title="Golgordan">Golgordan</a>, <a href="/wiki/Latrivan" title="Latrivan">Latrivan</a>, <a href="/wiki/Priestess" title="Priestess">Priestess</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crystal_Lamp" title="Crystal Lamp">Crystal Lamp</a>
+</td>
+<td width="10%"><img alt="Crystal Lamp.gif" src="/images/2/20/Crystal_Lamp.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Fornece uma pequena quantidade de luz azulada.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>10.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crystal_of_Balance" title="Crystal of Balance">Crystal of Balance</a>
+</td>
+<td width="10%"><img alt="Crystal of Balance.gif" src="/images/7/7a/Crystal_of_Balance.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/Cliff_Strider" title="Cliff Strider">Cliff Strider</a>, <a href="/wiki/Ironblight" title="Ironblight">Ironblight</a>, <a href="/wiki/Nightstalker" title="Nightstalker">Nightstalker</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crystal_of_Focus" title="Crystal of Focus">Crystal of Focus</a>
+</td>
+<td width="10%"><img alt="Crystal of Focus.gif" src="/images/4/4e/Crystal_of_Focus.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Mad_Mage" title="Mad Mage">Mad Mage</a>, <a href="/wiki/Nightmare_Scion" title="Nightmare Scion">Nightmare Scion</a>, <a href="/wiki/Twisted_Pooka" title="Twisted Pooka">Twisted Pooka</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crystal_of_Power" title="Crystal of Power">Crystal of Power</a>
+</td>
+<td width="10%"><img alt="Crystal of Power.gif" src="/images/8/82/Crystal_of_Power.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/Boogy" title="Boogy">Boogy</a>, <a href="/wiki/Cliff_Strider" title="Cliff Strider">Cliff Strider</a>, <a href="/wiki/Infernalist" title="Infernalist">Infernalist</a>, <a href="/wiki/Ironblight" title="Ironblight">Ironblight</a>, <a href="/wiki/Raging_Mage" title="Raging Mage">Raging Mage</a>, <a href="/wiki/Soul_of_Dragonking_Zyrtarch" title="Soul of Dragonking Zyrtarch">Soul of Dragonking Zyrtarch</a>, <a href="/wiki/War_Golem" title="War Golem">War Golem</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Deep_Crystal" title="Deep Crystal">Deep Crystal</a>
+</td>
+<td width="10%"><img alt="Deep Crystal.gif" src="/images/d/dc/Deep_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>3.10</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Elemental_Crystal" title="Elemental Crystal">Elemental Crystal</a>
+</td>
+<td width="10%"><img alt="Elemental Crystal.gif" src="/images/f/ff/Elemental_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>3.20</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Flawless_Ice_Crystal" title="Flawless Ice Crystal">Flawless Ice Crystal</a>
+</td>
+<td width="10%"><img alt="Flawless Ice Crystal.gif" src="/images/3/35/Flawless_Ice_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/Ice_Overlord" title="Ice Overlord">Ice Overlord</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Food_Matrix_Crystal" title="Food Matrix Crystal">Food Matrix Crystal</a>
+</td>
+<td width="10%"><img alt="Food Matrix Crystal.gif" src="/images/f/fa/Food_Matrix_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Frost_Charm" title="Frost Charm">Frost Charm</a>
+</td>
+<td width="10%"><img alt="Frost Charm.gif" src="/images/a/a3/Frost_Charm.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>19.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gnomish_Extraction_Crystal" title="Gnomish Extraction Crystal">Gnomish Extraction Crystal</a>
+</td>
+<td width="10%"><img alt="Gnomish Extraction Crystal.gif" src="/images/c/cd/Gnomish_Extraction_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>4.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gnomish_Repair_Crystal" title="Gnomish Repair Crystal">Gnomish Repair Crystal</a>
+</td>
+<td width="10%"><img alt="Gnomish Repair Crystal.gif" src="/images/5/59/Gnomish_Repair_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>4.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Heavy_Crystal_Fragment" title="Heavy Crystal Fragment">Heavy Crystal Fragment</a>
+</td>
+<td width="10%"><img alt="Heavy Crystal Fragment.gif" src="/images/6/62/Heavy_Crystal_Fragment.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>10.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/The_Baron_from_Below" title="The Baron from Below">The Baron from Below</a>, <a href="/wiki/The_Count_Of_The_Core" title="The Count Of The Core">The Count Of The Core</a>, <a href="/wiki/The_Duke_Of_The_Depths" title="The Duke Of The Depths">The Duke Of The Depths</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Imbuing_Crystal" title="Imbuing Crystal">Imbuing Crystal</a>
+</td>
+<td width="10%"><img alt="Imbuing Crystal.gif" src="/images/9/94/Imbuing_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Fornece uma pequena quantidade de luz vermelha.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Life_Crystal" title="Life Crystal">Life Crystal</a>
+</td>
+<td width="10%"><img alt="Life Crystal.gif" src="/images/0/07/Life_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.63</small>
+</td>
+<td width="36%"><small><a href="/wiki/Albino_Dragon" title="Albino Dragon">Albino Dragon</a>, <a href="/wiki/Banshee" title="Banshee">Banshee</a>, <a href="/wiki/Burster_Spectre" title="Burster Spectre">Burster Spectre</a>, <a href="/wiki/Crazed_Winter_Rearguard" title="Crazed Winter Rearguard">Crazed Winter Rearguard</a>, <a href="/wiki/Dark_Monk" title="Dark Monk">Dark Monk</a>, <a href="/wiki/Diamond_Servant" title="Diamond Servant">Diamond Servant</a>, <a href="/wiki/Diamond_Servant_Replica" title="Diamond Servant Replica">Diamond Servant Replica</a>, <a href="/wiki/Dragon" title="Dragon">Dragon</a>, <a href="/wiki/Dragon_Lord" title="Dragon Lord">Dragon Lord</a>, <a href="/wiki/Elf_Arcanist" title="Elf Arcanist">Elf Arcanist</a>, <a href="/wiki/Frost_Dragon" title="Frost Dragon">Frost Dragon</a>, <a href="/wiki/Hydra" title="Hydra">Hydra</a>, <a href="/wiki/Lizard_Snakecharmer" title="Lizard Snakecharmer">Lizard Snakecharmer</a>, <a href="/wiki/Mad_Scientist" title="Mad Scientist">Mad Scientist</a>, <a href="/wiki/Monk" title="Monk">Monk</a>, <a href="/wiki/Quara_Pincher_Scout" title="Quara Pincher Scout">Quara Pincher Scout</a>, <a href="/wiki/Serpent_Spawn" title="Serpent Spawn">Serpent Spawn</a>, <a href="/wiki/Undead_Dragon" title="Undead Dragon">Undead Dragon</a>, <a href="/wiki/Ushuriel" title="Ushuriel">Ushuriel</a>, <a href="/wiki/War_Golem" title="War Golem">War Golem</a>, <a href="/wiki/Worker_Golem" title="Worker Golem">Worker Golem</a>, <a href="/wiki/Young_Sea_Serpent" title="Young Sea Serpent">Young Sea Serpent</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lonely_Crystal" title="Lonely Crystal">Lonely Crystal</a>
+</td>
+<td width="10%"><img alt="Lonely Crystal.gif" src="/images/0/07/Lonely_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.80</small>
+</td>
+<td width="36%"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Magic_Crystal" title="Magic Crystal">Magic Crystal</a>
+</td>
+<td width="10%"><img alt="Magic Crystal.gif" src="/images/4/42/Magic_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>1.40</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Memory_Crystal" title="Memory Crystal">Memory Crystal</a>
+</td>
+<td width="10%"><img alt="Memory Crystal.gif" src="/images/5/54/Memory_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Midnight_Shard" title="Midnight Shard">Midnight Shard</a>
+</td>
+<td width="10%"><img alt="Midnight Shard.gif" src="/images/4/47/Midnight_Shard.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>3.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Acolyte_of_Darkness" title="Acolyte of Darkness">Acolyte of Darkness</a>, <a href="/wiki/Bane_of_Light" title="Bane of Light">Bane of Light</a>, <a href="/wiki/Bride_of_Night" title="Bride of Night">Bride of Night</a>, <a href="/wiki/Doomsday_Cultist" title="Doomsday Cultist">Doomsday Cultist</a>, <a href="/wiki/Duskbringer" title="Duskbringer">Duskbringer</a>, <a href="/wiki/Eclipse_Knight" title="Eclipse Knight">Eclipse Knight</a>, <a href="/wiki/Herald_of_Gloom" title="Herald of Gloom">Herald of Gloom</a>, <a href="/wiki/Midnight_Spawn" title="Midnight Spawn">Midnight Spawn</a>, <a href="/wiki/Midnight_Warrior" title="Midnight Warrior">Midnight Warrior</a>, <a href="/wiki/Nightslayer" title="Nightslayer">Nightslayer</a>, <a href="/wiki/Shadow_Hound" title="Shadow Hound">Shadow Hound</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Purified_Soul_(Quest)" title="Purified Soul (Quest)">Purified Soul (Quest)</a>
+</td>
+<td width="10%"><img alt="Purified Soul (Quest).gif" src="/images/0/0c/Purified_Soul_%28Quest%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rare_Crystal" title="Rare Crystal">Rare Crystal</a>
+</td>
+<td width="10%"><img alt="Rare Crystal.gif" src="/images/8/8c/Rare_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>3.10</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Red_Teleport_Crystal" title="Red Teleport Crystal">Red Teleport Crystal</a>
+</td>
+<td width="10%"><img alt="Red Teleport Crystal.gif" src="/images/1/12/Red_Teleport_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0.45</small>
+</td>
+<td width="36%"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Resonance_Crystal" title="Resonance Crystal">Resonance Crystal</a>
+</td>
+<td width="10%"><img alt="Resonance Crystal.gif" src="/images/2/29/Resonance_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rough_Red_Gem" title="Rough Red Gem">Rough Red Gem</a>
+</td>
+<td width="10%"><img alt="Rough Red Gem.gif" src="/images/f/fe/Rough_Red_Gem.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>3.90</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spectral_Stone" title="Spectral Stone">Spectral Stone</a>
+</td>
+<td width="10%"><img alt="Spectral Stone.gif" src="/images/d/d5/Spectral_Stone.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Teleport_Crystal" title="Teleport Crystal">Teleport Crystal</a>
+</td>
+<td width="10%"><img alt="Teleport Crystal.gif" src="/images/6/63/Teleport_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0.45</small>
+</td>
+<td width="36%"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Weapon_Matrix_Crystal" title="Weapon Matrix Crystal">Weapon Matrix Crystal</a>
+</td>
+<td width="10%"><img alt="Weapon Matrix Crystal.gif" src="/images/9/9d/Weapon_Matrix_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr></tbody><tfoot></tfoot></table>

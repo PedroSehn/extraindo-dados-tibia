@@ -1,0 +1,530 @@
+[
+    {
+        "Nome": "Astral Shaper Rune",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/6b/Astral_Shaper_Rune.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "8.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Bag of Apple Slices",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/44/Bag_of_Apple_Slices.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Bane Lord , Ekatrix , Witch ."
+    },
+    {
+        "Nome": "Bamboo Leaves",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/24/Bamboo_Leaves.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Draken Abomination , Draken Spellweaver , Bane Lord ."
+    },
+    {
+        "Nome": "Beer Tap",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/c0/Beer_Tap.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Roast Pork ."
+    },
+    {
+        "Nome": "Candle Stump",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/20/Candle_Stump.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "8.50",
+        "Dropa_de": "Ancient Spawn of Morgathla , The Baron from Below , The Count Of The Core , The Duke Of The Depths ."
+    },
+    {
+        "Nome": "Carrot on a Stick",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b7/Carrot_on_a_Stick.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Carniphila , Dryad , Flameborn , Omnivora , Pooka , Tiquandas Revenge , Twisted Pooka ."
+    },
+    {
+        "Nome": "Colourful Water Lily",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1c/Colourful_Water_Lily.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "1.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Control Unit",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/98/Control_Unit.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Crackling Egg",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/c0/Crackling_Egg.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "8.50",
+        "Dropa_de": "World Devourer ."
+    },
+    {
+        "Nome": "Decorative Blue Sheet",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f7/Decorative_Blue_Sheet.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Bellicose Orger ."
+    },
+    {
+        "Nome": "Decorative Green Sheet",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8c/Decorative_Green_Sheet.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Bellicose Orger ."
+    },
+    {
+        "Nome": "Decorative Red Sheet",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1c/Decorative_Red_Sheet.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Bellicose Orger ."
+    },
+    {
+        "Nome": "Decorative Ribbon",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/57/Decorative_Ribbon.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Abyssador , Deathstrike , Gnomevil ."
+    },
+    {
+        "Nome": "Demon in a Golden Box",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/22/Demon_in_a_Golden_Box.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Rotrender ."
+    },
+    {
+        "Nome": "Demon In A Green Box",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1b/Demon_In_A_Green_Box.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Arbaziloth ."
+    },
+    {
+        "Nome": "Demon in a Red Box",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/19/Demon_in_a_Red_Box.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Rotrender ."
+    },
+    {
+        "Nome": "Diapason",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/43/Diapason.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Eldritch Crystal",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1e/Eldritch_Crystal.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "1.75",
+        "Dropa_de": "The Brainstealer ."
+    },
+    {
+        "Nome": "Fiery Horseshoe",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8d/Fiery_Horseshoe.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "1.20",
+        "Dropa_de": "The Abomination ."
+    },
+    {
+        "Nome": "Fist on a Stick",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/50/Fist_on_a_Stick.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Furious Scorpion , Sandstone Scorpion , Tomb Servant , Utua Stone Sting ."
+    },
+    {
+        "Nome": "Four-Leaf Clover",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/af/Four-Leaf_Clover.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Foxtail",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/16/Foxtail.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Black Vixen , Deepling Guard , Deepling Tyrant ."
+    },
+    {
+        "Nome": "Giant Shrimp",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b6/Giant_Shrimp.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Quara Pincher , Quara Predator , Renegade Quara Predator ."
+    },
+    {
+        "Nome": "Glow Wine",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/ce/Glow_Wine.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Golden Can of Oil",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/e1/Golden_Can_of_Oil.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ethershreck , Golden Servant , Golden Servant Replica ."
+    },
+    {
+        "Nome": "Golden Fir Cone",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8d/Golden_Fir_Cone.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Bane Lord ."
+    },
+    {
+        "Nome": "Golem Wrench",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/ad/Golem_Wrench.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Harness",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/25/Harness.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Draken Spellweaver , Paiz the Pauperizer ."
+    },
+    {
+        "Nome": "Hunting Horn",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/e7/Hunting_Horn.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Idol of Tukh",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/20/Idol_of_Tukh.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Atab ."
+    },
+    {
+        "Nome": "Inert Astral Shaper Rune",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a0/Inert_Astral_Shaper_Rune.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "8.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Iron Loadstone",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/25/Iron_Loadstone.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Leather Whip",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/44/Leather_Whip.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "The Time Guardian , Vampire Bride ."
+    },
+    {
+        "Nome": "Leech",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/09/Leech.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Library Ticket",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/5c/Library_Ticket.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "8.50",
+        "Dropa_de": "The Scourge of Oblivion ."
+    },
+    {
+        "Nome": "Maxilla Maximus",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/25/Maxilla_Maximus.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ancient Spawn of Morgathla , Lich , Ribstride , Zanakeph ."
+    },
+    {
+        "Nome": "Melting Horn",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/42/Melting_Horn.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Menacing Egg",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/31/Menacing_Egg.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "8.50",
+        "Dropa_de": "World Devourer ."
+    },
+    {
+        "Nome": "Music Box",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/ba/Music_Box.gif",
+        "Atributos": "Doma criaturas específicas.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Mysterious Scroll",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a4/Mysterious_Scroll.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "8.50",
+        "Dropa_de": "Ferumbras Mortal Shell ."
+    },
+    {
+        "Nome": "Nail Case",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/ac/Nail_Case.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Nightmare Horn",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/6c/Nightmare_Horn.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Prince Drazzak ."
+    },
+    {
+        "Nome": "Pegasus Feather",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/e7/Pegasus_Feather.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "0.10",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Percht Skull",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/40/Percht_Skull.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "8.70",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Polished Idol of Tukh",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/65/Polished_Idol_of_Tukh.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Purple Tendril Lantern",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f8/Purple_Tendril_Lantern.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "9.20",
+        "Dropa_de": "Alptramun , Izcandar the Banished , Maxxenius , The Nightmare Beast ."
+    },
+    {
+        "Nome": "Red Silk Flower",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/91/Red_Silk_Flower.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "3.00",
+        "Dropa_de": "Katex Blood Tongue , Srezz Yellow Eyes , Utua Stone Sting , Yirkas Blue Scales ."
+    },
+    {
+        "Nome": "Reins",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/91/Reins.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Dark Apprentice , Dark Magician ."
+    },
+    {
+        "Nome": "Scorpion Sceptre",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/eb/Scorpion_Sceptre.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Horestis , Ancient Spawn of Morgathla ."
+    },
+    {
+        "Nome": "Slingshot",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/0b/Slingshot.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Hunter ."
+    },
+    {
+        "Nome": "Slug Drug",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/58/Slug_Drug.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Bane Lord ."
+    },
+    {
+        "Nome": "Spectral Horse Tack",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/6f/Spectral_Horse_Tack.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "0.80",
+        "Dropa_de": "Goshnar's Cruelty , Goshnar's Greed , Goshnar's Hatred , Goshnar's Malice , Goshnar's Megalomania , Goshnar's Spite ."
+    },
+    {
+        "Nome": "Spectral Horseshoe",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fe/Spectral_Horseshoe.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "1.20",
+        "Dropa_de": "Goshnar's Cruelty , Goshnar's Greed , Goshnar's Hatred , Goshnar's Malice , Goshnar's Megalomania , Goshnar's Spite ."
+    },
+    {
+        "Nome": "Spectral Saddle",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b2/Spectral_Saddle.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.70",
+        "Dropa_de": "Goshnar's Cruelty , Goshnar's Greed , Goshnar's Hatred , Goshnar's Malice , Goshnar's Megalomania , Goshnar's Spite ."
+    },
+    {
+        "Nome": "Spectral Scrap of Cloth",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/da/Spectral_Scrap_of_Cloth.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "3.50",
+        "Dropa_de": "The Pale Worm ."
+    },
+    {
+        "Nome": "Spiritual Horseshoe",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/5c/Spiritual_Horseshoe.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "1.20",
+        "Dropa_de": "Bakragore , Chagorz , Ichgahal , Murcion , Vemiath ."
+    },
+    {
+        "Nome": "Sugar Oat",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b4/Sugar_Oat.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Bane Lord ."
+    },
+    {
+        "Nome": "Sweet Smelling Bait",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/df/Sweet_Smelling_Bait.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Banshee , Deathbine , The Old Widow ."
+    },
+    {
+        "Nome": "The Lion's Heart",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/c9/The_Lion%27s_Heart.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "The Regalia of Suon",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1e/The_Regalia_of_Suon.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "34.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Tin Key",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fe/Tin_Key.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "War Golem ."
+    },
+    {
+        "Nome": "Toy Ball",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/30/Toy_Ball.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "1.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Turquoise Tendril Lantern",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/c2/Turquoise_Tendril_Lantern.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "9.20",
+        "Dropa_de": "Izcandar the Banished , Malofur Mangrinder , Plagueroot , The Nightmare Beast ."
+    },
+    {
+        "Nome": "Vibrant Egg",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/66/Vibrant_Egg.gif",
+        "Atributos": "Doma uma criatura específica.",
+        "Agrupável": "",
+        "Peso": "8.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Wind-Up Key",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/7b/Wind-Up_Key.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Retros Treasure ."
+    },
+    {
+        "Nome": "Wind-Up Loco",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/de/Wind-Up_Loco.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém."
+    }
+]

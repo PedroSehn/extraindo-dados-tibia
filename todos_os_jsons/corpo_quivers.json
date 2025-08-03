@@ -1,0 +1,90 @@
+[
+    {
+        "Nome": "Alicorn Quiver",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/71/Alicorn_Quiver.gif",
+        "Lvl": "400",
+        "Voc": "Paladins",
+        "Volume": "12",
+        "Bônus_de_Skill": "Magic Level +1",
+        "Proteção": "Nenhuma.",
+        "Peso": "20.00",
+        "Dropa_de": "Magma Bubble ."
+    },
+    {
+        "Nome": "Blue Quiver",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/63/Blue_Quiver.gif",
+        "Lvl": "0",
+        "Voc": "Paladins",
+        "Volume": "6",
+        "Bônus_de_Skill": "Nenhum.",
+        "Proteção": "Nenhuma.",
+        "Peso": "17.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Candy-Coated Quiver",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/92/Candy-Coated_Quiver.gif",
+        "Lvl": "200",
+        "Voc": "Paladins",
+        "Volume": "8",
+        "Bônus_de_Skill": "Nenhum.",
+        "Proteção": "Fire +2%",
+        "Peso": "18.00",
+        "Dropa_de": "Sugar Daddy ."
+    },
+    {
+        "Nome": "Eldritch Quiver",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/94/Eldritch_Quiver.gif",
+        "Lvl": "250",
+        "Voc": "Paladins",
+        "Volume": "8",
+        "Bônus_de_Skill": "Nenhum.",
+        "Proteção": "Nenhuma.",
+        "Peso": "22.00",
+        "Dropa_de": "The Brainstealer ."
+    },
+    {
+        "Nome": "Jungle Quiver",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/c9/Jungle_Quiver.gif",
+        "Lvl": "150",
+        "Voc": "Paladins",
+        "Volume": "8",
+        "Bônus_de_Skill": "Nenhum.",
+        "Proteção": "Nenhuma.",
+        "Peso": "18.00",
+        "Dropa_de": "Ratmiral Blackwhiskers ."
+    },
+    {
+        "Nome": "Naga Quiver",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/78/Naga_Quiver.gif",
+        "Lvl": "250",
+        "Voc": "Paladins",
+        "Volume": "8",
+        "Bônus_de_Skill": "Nenhum.",
+        "Proteção": "Ice +2%",
+        "Peso": "19.00",
+        "Dropa_de": "Timira the Many-Headed ."
+    },
+    {
+        "Nome": "Quiver",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/2e/Quiver.gif",
+        "Lvl": "0",
+        "Voc": "Paladins",
+        "Volume": "6",
+        "Bônus_de_Skill": "Nenhum.",
+        "Proteção": "Nenhuma.",
+        "Peso": "17.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Red Quiver",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f8/Red_Quiver.gif",
+        "Lvl": "0",
+        "Voc": "Paladins",
+        "Volume": "6",
+        "Bônus_de_Skill": "Nenhum.",
+        "Proteção": "Nenhuma.",
+        "Peso": "17.00",
+        "Dropa_de": "Ninguém."
+    }
+]

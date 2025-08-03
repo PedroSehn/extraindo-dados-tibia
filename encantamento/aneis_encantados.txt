@@ -1,0 +1,201 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Nome</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Lvl</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Voc</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Arm</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Cargas</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Duração (min)</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Atributos</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Bônus</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Proteção</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dropa de</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Charged_Alicorn_Ring" title="Charged Alicorn Ring">Charged Alicorn Ring</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Charged_Alicorn_Ring.gif" class="image"><img alt="Charged Alicorn Ring.gif" src="/images/6/63/Charged_Alicorn_Ring.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1, <a href="/wiki/Holy_Magic_Level" class="mw-redirect" title="Holy Magic Level">Holy Magic Level</a> +1</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +4%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +4%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +4%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +4%, <a href="/wiki/Holy_Damage" title="Holy Damage">Holy</a> +4%, <a href="/wiki/Death_Damage" title="Death Damage">Death</a> +4%</small>
+</td>
+<td width="5%"><small>0.85</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Charged_Arboreal_Ring" title="Charged Arboreal Ring">Charged Arboreal Ring</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Charged_Arboreal_Ring.gif" class="image"><img alt="Charged Arboreal Ring.gif" src="/images/3/34/Charged_Arboreal_Ring.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2, <a href="/wiki/Healing_Magic_Level" class="mw-redirect" title="Healing Magic Level">Healing Magic Level</a> +2</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +4%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +4%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +4%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +4%</small>
+</td>
+<td width="5%"><small>0.70</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Charged_Arcanomancer_Sigil" title="Charged Arcanomancer Sigil">Charged Arcanomancer Sigil</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Charged_Arcanomancer_Sigil.gif" class="image"><img alt="Charged Arcanomancer Sigil.gif" src="/images/7/77/Charged_Arcanomancer_Sigil.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2, <a href="/wiki/Fire_Magic_Level" class="mw-redirect" title="Fire Magic Level">Fire Magic Level</a> +1, <a href="/wiki/Energy_Magic_Level" class="mw-redirect" title="Energy Magic Level">Energy Magic Level</a> +1</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +4%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +4%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +4%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +4%</small>
+</td>
+<td width="5%"><small>0.90</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Charged_Ethereal_Ring" title="Charged Ethereal Ring">Charged Ethereal Ring</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Charged_Ethereal_Ring.gif" class="image"><img alt="Charged Ethereal Ring.gif" src="/images/2/22/Charged_Ethereal_Ring.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +3, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2, <a href="/wiki/Life_Leech" title="Life Leech">Life Leech</a> +2%</small>
+</td>
+<td width="10%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +4%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +4% <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +4%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +4%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +4%</small>
+</td>
+<td width="5%"><small>0.85</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Charged_Spiritthorn_Ring" title="Charged Spiritthorn Ring">Charged Spiritthorn Ring</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Charged_Spiritthorn_Ring.gif" class="image"><img alt="Charged Spiritthorn Ring.gif" src="/images/7/75/Charged_Spiritthorn_Ring.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Sword_Fighting" title="Sword Fighting">Sword Fighting</a> +3, <a href="/wiki/Club_Fighting" title="Club Fighting">Club Fighting</a> +3, <a href="/wiki/Axe_Fighting" title="Axe Fighting">Axe Fighting</a> +3</small>
+</td>
+<td width="10%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +8%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +4%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +4%, <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +4%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +4%</small>
+</td>
+<td width="5%"><small>0.95</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Enchanted_Blister_Ring" title="Enchanted Blister Ring">Enchanted Blister Ring</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Enchanted_Blister_Ring.gif" class="image"><img alt="Enchanted Blister Ring.gif" src="/images/d/d0/Enchanted_Blister_Ring.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>220</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +6%</small>
+</td>
+<td width="5%"><small>0.90</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Enchanted_Ring_of_Souls" title="Enchanted Ring of Souls">Enchanted Ring of Souls</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Enchanted_Ring_of_Souls.gif" class="image"><img alt="Enchanted Ring of Souls.gif" src="/images/5/55/Enchanted_Ring_of_Souls.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>120</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +2%, <a href="/wiki/Life_Drain" title="Life Drain">Life Drain</a> +10%</small>
+</td>
+<td width="5%"><small>0.80</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr></tbody><tfoot></tfoot></table>

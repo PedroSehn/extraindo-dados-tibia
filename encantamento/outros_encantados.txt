@@ -1,0 +1,118 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Nome</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Atributos</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Agrupável</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dropa de</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Enchanted_Chicken_Wing" title="Enchanted Chicken Wing">Enchanted Chicken Wing</a>
+</td>
+<td width="10%"><img alt="Enchanted Chicken Wing.gif" src="/images/f/f2/Enchanted_Chicken_Wing.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>10.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Ancient_Spawn_of_Morgathla" title="Ancient Spawn of Morgathla">Ancient Spawn of Morgathla</a>, <a href="/wiki/Lloyd" title="Lloyd">Lloyd</a>, <a href="/wiki/The_Source_Of_Corruption" title="The Source Of Corruption">The Source Of Corruption</a>, <a href="/wiki/Ushuriel" title="Ushuriel">Ushuriel</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Flask_of_Warrior%27s_Sweat" title="Flask of Warrior's Sweat">Flask of Warrior's Sweat</a>
+</td>
+<td width="10%"><img alt="Flask of Warrior's Sweat.gif" src="/images/6/6a/Flask_of_Warrior%27s_Sweat.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>3.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Undead_Elite_Gladiator" title="Undead Elite Gladiator">Undead Elite Gladiator</a>, <a href="/wiki/Undead_Gladiator" title="Undead Gladiator">Undead Gladiator</a>, <a href="/wiki/Ushuriel" title="Ushuriel">Ushuriel</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Magic_Sulphur" title="Magic Sulphur">Magic Sulphur</a>
+</td>
+<td width="10%"><img alt="Magic Sulphur.gif" src="/images/6/6d/Magic_Sulphur.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>1.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Alptramun" title="Alptramun">Alptramun</a>, <a href="/wiki/Ancient_Spawn_of_Morgathla" title="Ancient Spawn of Morgathla">Ancient Spawn of Morgathla</a>, <a href="/wiki/Askarak_Demon" title="Askarak Demon">Askarak Demon</a>, <a href="/wiki/Askarak_Lord" title="Askarak Lord">Askarak Lord</a>, <a href="/wiki/Askarak_Prince" title="Askarak Prince">Askarak Prince</a>, <a href="/wiki/Brimstone_Bug" title="Brimstone Bug">Brimstone Bug</a>, <a href="/wiki/Cliff_Strider" title="Cliff Strider">Cliff Strider</a>, <a href="/wiki/Draken_Elite" title="Draken Elite">Draken Elite</a>, <a href="/wiki/Ghulosh" title="Ghulosh">Ghulosh</a>, <a href="/wiki/Gorzindel" title="Gorzindel">Gorzindel</a>, <a href="/wiki/Infernalist" title="Infernalist">Infernalist</a>, <a href="/wiki/Izcandar_the_Banished" title="Izcandar the Banished">Izcandar the Banished</a>, <a href="/wiki/Ironblight" title="Ironblight">Ironblight</a>, <a href="/wiki/Lloyd" title="Lloyd">Lloyd</a>, <a href="/wiki/Lokathmor" title="Lokathmor">Lokathmor</a>, <a href="/wiki/Lost_Berserker" title="Lost Berserker">Lost Berserker</a>, <a href="/wiki/Orewalker" title="Orewalker">Orewalker</a>, <a href="/wiki/Paiz_the_Pauperizer" title="Paiz the Pauperizer">Paiz the Pauperizer</a>, <a href="/wiki/Plagueroot" title="Plagueroot">Plagueroot</a>, <a href="/wiki/Ravenous_Hunger" title="Ravenous Hunger">Ravenous Hunger</a>, <a href="/wiki/Soul_of_Dragonking_Zyrtarch" title="Soul of Dragonking Zyrtarch">Soul of Dragonking Zyrtarch</a>, <a href="/wiki/Sulphur_Scuttler" title="Sulphur Scuttler">Sulphur Scuttler</a>, <a href="/wiki/Shaburak_Demon" title="Shaburak Demon">Shaburak Demon</a>, <a href="/wiki/Shaburak_Lord" title="Shaburak Lord">Shaburak Lord</a>, <a href="/wiki/Shaburak_Prince" title="Shaburak Prince">Shaburak Prince</a>, <a href="/wiki/The_Baron_from_Below" title="The Baron from Below">The Baron from Below</a>, <a href="/wiki/The_Count_Of_The_Core" title="The Count Of The Core">The Count Of The Core</a>, <a href="/wiki/The_Duke_Of_The_Depths" title="The Duke Of The Depths">The Duke Of The Depths</a>, <a href="/wiki/The_False_God" title="The False God">The False God</a>, <a href="/wiki/The_Sandking" title="The Sandking">The Sandking</a>, <a href="/wiki/The_Source_Of_Corruption" title="The Source Of Corruption">The Source Of Corruption</a>, <a href="/wiki/The_Time_Guardian" title="The Time Guardian">The Time Guardian</a>, <a href="/wiki/The_Unarmored_Voidborn" title="The Unarmored Voidborn">The Unarmored Voidborn</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Small_Enchanted_Amethyst" title="Small Enchanted Amethyst">Small Enchanted Amethyst</a>
+</td>
+<td width="10%"><img alt="Small Enchanted Amethyst.gif" src="/images/2/23/Small_Enchanted_Amethyst.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode-se dar "Use".</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0.10</small>
+</td>
+<td width="36%"><small><a href="/wiki/Chasm_Spawn" title="Chasm Spawn">Chasm Spawn</a>, <a href="/wiki/Dark_Magician" title="Dark Magician">Dark Magician</a>, <a href="/wiki/Deepworm" title="Deepworm">Deepworm</a>, <a href="/wiki/Grand_Commander_Soeren" title="Grand Commander Soeren">Grand Commander Soeren</a>, <a href="/wiki/Grand_Chaplain_Gaunder" title="Grand Chaplain Gaunder">Grand Chaplain Gaunder</a>, <a href="/wiki/Kroazur" title="Kroazur">Kroazur</a>, <a href="/wiki/Mad_Scientist" title="Mad Scientist">Mad Scientist</a>, <a href="/wiki/Nymph" title="Nymph">Nymph</a>, <a href="/wiki/Pixie" title="Pixie">Pixie</a>, <a href="/wiki/Sharpclaw" title="Sharpclaw">Sharpclaw</a>, <a href="/wiki/Werebadger" title="Werebadger">Werebadger</a>, <a href="/wiki/Werehyaena" title="Werehyaena">Werehyaena</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Small_Enchanted_Emerald" title="Small Enchanted Emerald">Small Enchanted Emerald</a>
+</td>
+<td width="10%"><img alt="Small Enchanted Emerald.gif" src="/images/8/83/Small_Enchanted_Emerald.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode-se dar "Use".</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0.10</small>
+</td>
+<td width="36%"><small><a href="/wiki/Adult_Goanna" title="Adult Goanna">Adult Goanna</a>, <a href="/wiki/Black_Vixen" title="Black Vixen">Black Vixen</a>, <a href="/wiki/Boogy" title="Boogy">Boogy</a>, <a href="/wiki/Chasm_Spawn" title="Chasm Spawn">Chasm Spawn</a>, <a href="/wiki/Diremaw" title="Diremaw">Diremaw</a>, <a href="/wiki/Feral_Sphinx" title="Feral Sphinx">Feral Sphinx</a>, <a href="/wiki/Gazer_Spectre" title="Gazer Spectre">Gazer Spectre</a>, <a href="/wiki/Swan_Maiden" title="Swan Maiden">Swan Maiden</a>, <a href="/wiki/Werefox" title="Werefox">Werefox</a>, <a href="/wiki/Werehyaena_Shaman" title="Werehyaena Shaman">Werehyaena Shaman</a>, <a href="/wiki/Young_Goanna" title="Young Goanna">Young Goanna</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Small_Enchanted_Ruby" title="Small Enchanted Ruby">Small Enchanted Ruby</a>
+</td>
+<td width="10%"><img alt="Small Enchanted Ruby.gif" src="/images/0/00/Small_Enchanted_Ruby.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode-se dar "Use".</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0.10</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bloodback" title="Bloodback">Bloodback</a>, <a href="/wiki/Cave_Devourer" title="Cave Devourer">Cave Devourer</a>, <a href="/wiki/Crazed_Summer_Rearguard" title="Crazed Summer Rearguard">Crazed Summer Rearguard</a>, <a href="/wiki/Floating_Savant" title="Floating Savant">Floating Savant</a>, <a href="/wiki/Gazer_Spectre" title="Gazer Spectre">Gazer Spectre</a>, <a href="/wiki/Infernalist" title="Infernalist">Infernalist</a>, <a href="/wiki/Lava_Lurker" title="Lava Lurker">Lava Lurker</a>, <a href="/wiki/Menacing_Carnivor" title="Menacing Carnivor">Menacing Carnivor</a>, <a href="/wiki/Pooka" title="Pooka">Pooka</a>, <a href="/wiki/Twisted_Pooka" title="Twisted Pooka">Twisted Pooka</a>, <a href="/wiki/Tunnel_Tyrant" title="Tunnel Tyrant">Tunnel Tyrant</a>, <a href="/wiki/Wereboar" title="Wereboar">Wereboar</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Small_Enchanted_Sapphire" title="Small Enchanted Sapphire">Small Enchanted Sapphire</a>
+</td>
+<td width="10%"><img alt="Small Enchanted Sapphire.gif" src="/images/d/d3/Small_Enchanted_Sapphire.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode-se dar "Use".</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0.10</small>
+</td>
+<td width="36%"><small><a href="/wiki/Cave_Devourer" title="Cave Devourer">Cave Devourer</a>, <a href="/wiki/Crazed_Summer_Rearguard" title="Crazed Summer Rearguard">Crazed Summer Rearguard</a>, <a href="/wiki/Dark_Faun" title="Dark Faun">Dark Faun</a>, <a href="/wiki/Darkfang" title="Darkfang">Darkfang</a>, <a href="/wiki/Deathling_Scout" title="Deathling Scout">Deathling Scout</a>, <a href="/wiki/Deathling_Spellsinger" title="Deathling Spellsinger">Deathling Spellsinger</a>, <a href="/wiki/Faun" title="Faun">Faun</a>, <a href="/wiki/Goggle_Cake" title="Goggle Cake">Goggle Cake</a>, <a href="/wiki/Iks_Aucar" title="Iks Aucar">Iks Aucar</a>, <a href="/wiki/Iks_Churrascan" title="Iks Churrascan">Iks Churrascan</a>, <a href="/wiki/Shadowpelt" title="Shadowpelt">Shadowpelt</a>, <a href="/wiki/Tunnel_Tyrant" title="Tunnel Tyrant">Tunnel Tyrant</a>, <a href="/wiki/Werebear" title="Werebear">Werebear</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spirit_Container_(Fighting_Spirit)" title="Spirit Container (Fighting Spirit)">Spirit Container (Fighting Spirit)</a>
+</td>
+<td width="10%"><img alt="Spirit Container (Fighting Spirit).gif" src="/images/1/1d/Spirit_Container_%28Fighting_Spirit%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>6.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/King_Zelos" title="King Zelos">King Zelos</a>, <a href="/wiki/Souleater" title="Souleater">Souleater</a>, <a href="/wiki/The_Enraged_Thorn_Knight" title="The Enraged Thorn Knight">The Enraged Thorn Knight</a>, <a href="/wiki/Ushuriel" title="Ushuriel">Ushuriel</a>.</small>
+</td></tr></tbody><tfoot></tfoot></table>

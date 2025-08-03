@@ -1,0 +1,118 @@
+<table width="100%" class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Nome
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Lvl
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Atq
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Peso
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Dropa de
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Bolt" title="Bolt">Bolt</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bolt.gif" class="image fancybox"><img alt="Bolt.gif" src="/images/7/74/Bolt.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0
+</td>
+<td width="10%">30
+</td>
+<td width="5%">0.80
+</td>
+<td align="left" width="65%"><a href="/wiki/Dwarf_Soldier" title="Dwarf Soldier">Dwarf Soldier</a>, <a href="/wiki/Elder_Forest_Fury" title="Elder Forest Fury">Elder Forest Fury</a>, <a href="/wiki/Forest_Fury" title="Forest Fury">Forest Fury</a>, <a href="/wiki/Minotaur_Archer" title="Minotaur Archer">Minotaur Archer</a>, <a href="/wiki/Minotaur_Poacher" title="Minotaur Poacher">Minotaur Poacher</a>, <a href="/wiki/Vicious_Squire" title="Vicious Squire">Vicious Squire</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Drill_Bolt" title="Drill Bolt">Drill Bolt</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Drill_Bolt.gif" class="image fancybox"><img alt="Drill Bolt.gif" src="/images/f/fc/Drill_Bolt.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">70
+</td>
+<td width="10%">56
+</td>
+<td width="5%">0.80
+</td>
+<td align="left" width="65%"><a href="/wiki/Armadile" title="Armadile">Armadile</a>, <a href="/wiki/Drillworm" title="Drillworm">Drillworm</a>, <a href="/wiki/Enslaved_Dwarf" title="Enslaved Dwarf">Enslaved Dwarf</a>, <a href="/wiki/Humongous_Fungus" title="Humongous Fungus">Humongous Fungus</a>, <a href="/wiki/Lost_Berserker" title="Lost Berserker">Lost Berserker</a>, <a href="/wiki/Wiggler" title="Wiggler">Wiggler</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Infernal_Bolt" title="Infernal Bolt">Infernal Bolt</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Infernal_Bolt.gif" class="image fancybox"><img alt="Infernal Bolt.gif" src="/images/a/a6/Infernal_Bolt.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">110
+</td>
+<td width="10%">72
+</td>
+<td width="5%">0.90
+</td>
+<td align="left" width="65%"><a href="/wiki/Annihilon" title="Annihilon">Annihilon</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Piercing_Bolt" title="Piercing Bolt">Piercing Bolt</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Piercing_Bolt.gif" class="image fancybox"><img alt="Piercing Bolt.gif" src="/images/7/72/Piercing_Bolt.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">30
+</td>
+<td width="10%">33
+</td>
+<td width="5%">0.80
+</td>
+<td align="left" width="65%"><a href="/wiki/Dwarf_Soldier" title="Dwarf Soldier">Dwarf Soldier</a>, <a href="/wiki/Elder_Forest_Fury" title="Elder Forest Fury">Elder Forest Fury</a>, <a href="/wiki/Forest_Fury" title="Forest Fury">Forest Fury</a>, <a href="/wiki/Minotaur_Archer" title="Minotaur Archer">Minotaur Archer</a>, <a href="/wiki/Minotaur_Poacher" title="Minotaur Poacher">Minotaur Poacher</a>, <a href="/wiki/The_Horned_Fox" title="The Horned Fox">The Horned Fox</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Power_Bolt" title="Power Bolt">Power Bolt</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Power_Bolt.gif" class="image fancybox"><img alt="Power Bolt.gif" src="/images/1/1c/Power_Bolt.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">55
+</td>
+<td width="10%">40
+</td>
+<td width="5%">0.90
+</td>
+<td align="left" width="65%"><a href="/wiki/Albino_Dragon" title="Albino Dragon">Albino Dragon</a>, <a href="/wiki/Annihilon" title="Annihilon">Annihilon</a>, <a href="/wiki/Betrayed_Wraith" title="Betrayed Wraith">Betrayed Wraith</a>, <a href="/wiki/Demodras" title="Demodras">Demodras</a>, <a href="/wiki/Dragon_Lord" title="Dragon Lord">Dragon Lord</a>, <a href="/wiki/Elder_Wyrm" title="Elder Wyrm">Elder Wyrm</a>, <a href="/wiki/Frost_Dragon" title="Frost Dragon">Frost Dragon</a>, <a href="/wiki/Nightmare" title="Nightmare">Nightmare</a>, <a href="/wiki/Omruc" title="Omruc">Omruc</a>, <a href="/wiki/Serpent_Spawn" title="Serpent Spawn">Serpent Spawn</a>, <a href="/wiki/Undead_Dragon" title="Undead Dragon">Undead Dragon</a>, <a href="/wiki/Wyvern" title="Wyvern">Wyvern</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Prismatic_Bolt" title="Prismatic Bolt">Prismatic Bolt</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Prismatic_Bolt.gif" class="image fancybox"><img alt="Prismatic Bolt.gif" src="/images/3/32/Prismatic_Bolt.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">90
+</td>
+<td width="10%">66
+</td>
+<td width="5%">0.85
+</td>
+<td align="left" width="65%"><a href="/wiki/Cliff_Strider" title="Cliff Strider">Cliff Strider</a>, <a href="/wiki/Lava_Golem" title="Lava Golem">Lava Golem</a>, <a href="/wiki/Orewalker" title="Orewalker">Orewalker</a>, <a href="/wiki/Weeper" title="Weeper">Weeper</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Spectral_Bolt" title="Spectral Bolt">Spectral Bolt</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Spectral_Bolt.gif" class="image fancybox"><img alt="Spectral Bolt.gif" src="/images/a/a8/Spectral_Bolt.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">150
+</td>
+<td width="10%">78
+</td>
+<td width="5%">0.90
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Vortex_Bolt" title="Vortex Bolt">Vortex Bolt</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Vortex_Bolt.gif" class="image fancybox"><img alt="Vortex Bolt.gif" src="/images/6/6a/Vortex_Bolt.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">40
+</td>
+<td width="10%">36
+</td>
+<td width="5%">0.80
+</td>
+<td align="left" width="65%"><a href="/wiki/Crazed_Summer_Rearguard" title="Crazed Summer Rearguard">Crazed Summer Rearguard</a>, <a href="/wiki/Deathling_Scout" title="Deathling Scout">Deathling Scout</a>, <a href="/wiki/Deathling_Spellsinger" title="Deathling Spellsinger">Deathling Spellsinger</a>, <a href="/wiki/Deepling_Warrior" title="Deepling Warrior">Deepling Warrior</a>, <a href="/wiki/Deepling_Elite" title="Deepling Elite">Deepling Elite</a>, <a href="/wiki/Renegade_Quara_Constrictor" title="Renegade Quara Constrictor">Renegade Quara Constrictor</a>, <a href="/wiki/Renegade_Quara_Pincher" title="Renegade Quara Pincher">Renegade Quara Pincher</a>, <a href="/wiki/Twisted_Shaper" title="Twisted Shaper">Twisted Shaper</a>.
+</td></tr></tbody><tfoot></tfoot></table>

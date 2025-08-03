@@ -1,0 +1,226 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Nome
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Lvl
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Atq
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Dano Elemental
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Peso
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Dropa de
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Arrow" title="Arrow">Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Arrow.gif" class="image fancybox"><img alt="Arrow.gif" src="/images/6/69/Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0
+</td>
+<td width="10%">25
+</td>
+<td width="10%">
+</td>
+<td width="5%">0.70
+</td>
+<td align="left" width="65%"><a href="/wiki/Dawnfly" title="Dawnfly">Dawnfly</a>, <a href="/wiki/Elf" title="Elf">Elf</a>, <a href="/wiki/Elf_Arcanist" title="Elf Arcanist">Elf Arcanist</a>, <a href="/wiki/Elf_Scout" title="Elf Scout">Elf Scout</a>, <a href="/wiki/Emerald_Damselfly" title="Emerald Damselfly">Emerald Damselfly</a>, <a href="/wiki/Hero" title="Hero">Hero</a>, <a href="/wiki/Hunter" title="Hunter">Hunter</a>, <a href="/wiki/Omruc" title="Omruc">Omruc</a>, <a href="/wiki/Poacher" title="Poacher">Poacher</a>, <a href="/wiki/Salamander" title="Salamander">Salamander</a>, <a href="/wiki/Troll_Champion" title="Troll Champion">Troll Champion</a>, <a href="/wiki/Troll_Marauder" title="Troll Marauder">Troll Marauder</a>, <a href="/wiki/Woodling" title="Woodling">Woodling</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Burst_Arrow" title="Burst Arrow">Burst Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Burst_Arrow.gif" class="image fancybox"><img alt="Burst Arrow.gif" src="/images/b/bd/Burst_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0
+</td>
+<td width="10%">27 <a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a>
+</td>
+<td width="10%">
+</td>
+<td width="5%">0.90
+</td>
+<td align="left" width="65%"><a href="/wiki/Destroyer" title="Destroyer">Destroyer</a>, <a href="/wiki/Dragon" title="Dragon">Dragon</a>, <a href="/wiki/Elf_Scout" title="Elf Scout">Elf Scout</a>, <a href="/wiki/Hunter" title="Hunter">Hunter</a>, <a href="/wiki/Omruc" title="Omruc">Omruc</a>, <a href="/wiki/Wyrm" title="Wyrm">Wyrm</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Crystalline_Arrow" title="Crystalline Arrow">Crystalline Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Crystalline_Arrow.gif" class="image fancybox"><img alt="Crystalline Arrow.gif" src="/images/f/f4/Crystalline_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">90
+</td>
+<td width="10%">65
+</td>
+<td width="10%">
+</td>
+<td width="5%">0.75
+</td>
+<td align="left" width="65%"><a href="/wiki/Crystalcrusher" title="Crystalcrusher">Crystalcrusher</a>, <a href="/wiki/Cave_Devourer" title="Cave Devourer">Cave Devourer</a>, <a href="/wiki/Deathling_Scout" title="Deathling Scout">Deathling Scout</a>, <a href="/wiki/Deathling_Spellsinger" title="Deathling Spellsinger">Deathling Spellsinger</a>, <a href="/wiki/Enraged_Crystal_Golem" title="Enraged Crystal Golem">Enraged Crystal Golem</a>, <a href="/wiki/Magma_Crawler" title="Magma Crawler">Magma Crawler</a>, <a href="/wiki/Melting_Frozen_Horror" title="Melting Frozen Horror">Melting Frozen Horror</a>, <a href="/wiki/Stone_Devourer" title="Stone Devourer">Stone Devourer</a>, <a href="/wiki/Wiggler" title="Wiggler">Wiggler</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Diamond_Arrow" title="Diamond Arrow">Diamond Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Diamond_Arrow.gif" class="image fancybox"><img alt="Diamond Arrow.gif" src="/images/4/46/Diamond_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">150
+</td>
+<td width="10%">37
+</td>
+<td width="10%">
+</td>
+<td width="5%">0.80
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Earth_Arrow" title="Earth Arrow">Earth Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Earth_Arrow.gif" class="image fancybox"><img alt="Earth Arrow.gif" src="/images/0/02/Earth_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">20
+</td>
+<td width="10%">14 <a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a>
+</td>
+<td width="10%">14 <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a>
+</td>
+<td width="5%">0.70
+</td>
+<td align="left" width="65%"><a href="/wiki/Adult_Goanna" title="Adult Goanna">Adult Goanna</a>, <a href="/wiki/Cobra_Scout" title="Cobra Scout">Cobra Scout</a>, <a href="/wiki/Clay_Guardian" title="Clay Guardian">Clay Guardian</a>, <a href="/wiki/Earth_Elemental" title="Earth Elemental">Earth Elemental</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Envenomed_Arrow" title="Envenomed Arrow">Envenomed Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Envenomed_Arrow.gif" class="image fancybox"><img alt="Envenomed Arrow.gif" src="/images/9/90/Envenomed_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">70
+</td>
+<td width="10%">27 <a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a>
+</td>
+<td width="10%">27 <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a>
+</td>
+<td width="5%">0.70
+</td>
+<td align="left" width="65%"><a href="/wiki/Adult_Goanna" title="Adult Goanna">Adult Goanna</a>, <a href="/wiki/Armadile" title="Armadile">Armadile</a>, <a href="/wiki/Hideous_Fungus" title="Hideous Fungus">Hideous Fungus</a>, <a href="/wiki/Ink_Blob" title="Ink Blob">Ink Blob</a>, <a href="/wiki/Young_Goanna" title="Young Goanna">Young Goanna</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Flaming_Arrow" title="Flaming Arrow">Flaming Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Flaming_Arrow.gif" class="image fancybox"><img alt="Flaming Arrow.gif" src="/images/d/da/Flaming_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">20
+</td>
+<td width="10%">14 <a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a>
+</td>
+<td width="10%">14 <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a>
+</td>
+<td width="5%">0.70
+</td>
+<td align="left" width="65%"><a href="/wiki/Annihilon" title="Annihilon">Annihilon</a>, <a href="/wiki/Blazing_Fire_Elemental" title="Blazing Fire Elemental">Blazing Fire Elemental</a>, <a href="/wiki/Firestarter" title="Firestarter">Firestarter</a>, <a href="/wiki/Manticore" title="Manticore">Manticore</a>, <a href="/wiki/Ogre_Rowdy" title="Ogre Rowdy">Ogre Rowdy</a>, <a href="/wiki/Thornfire_Wolf" title="Thornfire Wolf">Thornfire Wolf</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Flash_Arrow" title="Flash Arrow">Flash Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Flash_Arrow.gif" class="image fancybox"><img alt="Flash Arrow.gif" src="/images/8/8c/Flash_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">20
+</td>
+<td width="10%">14 <a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a>
+</td>
+<td width="10%">14 <a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a>
+</td>
+<td width="5%">0.70
+</td>
+<td align="left" width="65%"><a href="/wiki/Charged_Energy_Elemental" title="Charged Energy Elemental">Charged Energy Elemental</a>, <a href="/wiki/Energuardian_Of_Tales" title="Energuardian Of Tales">Energuardian Of Tales</a>, <a href="/wiki/Energy_Elemental" title="Energy Elemental">Energy Elemental</a>, <a href="/wiki/High_Voltage_Elemental" title="High Voltage Elemental">High Voltage Elemental</a>, <a href="/wiki/Knowledge_Elemental" title="Knowledge Elemental">Knowledge Elemental</a>, <a href="/wiki/Massive_Energy_Elemental" title="Massive Energy Elemental">Massive Energy Elemental</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Onyx_Arrow" title="Onyx Arrow">Onyx Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Onyx_Arrow.gif" class="image fancybox"><img alt="Onyx Arrow.gif" src="/images/3/3f/Onyx_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">40
+</td>
+<td width="10%">38
+</td>
+<td width="10%">
+</td>
+<td width="5%">0.70
+</td>
+<td align="left" width="65%"><a href="/wiki/Demodras" title="Demodras">Demodras</a>, <a href="/wiki/Falcon_Knight" title="Falcon Knight">Falcon Knight</a>, <a href="/wiki/Falcon_Paladin" title="Falcon Paladin">Falcon Paladin</a>, <a href="/wiki/Golgordan" title="Golgordan">Golgordan</a>, <a href="/wiki/Grand_Chaplain_Gaunder" title="Grand Chaplain Gaunder">Grand Chaplain Gaunder</a>, <a href="/wiki/Grand_Commander_Soeren" title="Grand Commander Soeren">Grand Commander Soeren</a>, <a href="/wiki/Juggernaut" title="Juggernaut">Juggernaut</a>, <a href="/wiki/Latrivan" title="Latrivan">Latrivan</a>, <a href="/wiki/Omruc" title="Omruc">Omruc</a>, <a href="/wiki/Plaguesmith" title="Plaguesmith">Plaguesmith</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Poison_Arrow" title="Poison Arrow">Poison Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Poison_Arrow.gif" class="image fancybox"><img alt="Poison Arrow.gif" src="/images/6/62/Poison_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0
+</td>
+<td width="10%">23
+</td>
+<td width="10%">
+</td>
+<td width="5%">0.80
+</td>
+<td align="left" width="65%"><a href="/wiki/Cave_Spider" title="Cave Spider">Cave Spider</a>, <a href="/wiki/Dawnfly" title="Dawnfly">Dawnfly</a>, <a href="/wiki/Dworc_Venomsniper" title="Dworc Venomsniper">Dworc Venomsniper</a>, <a href="/wiki/Elf_Scout" title="Elf Scout">Elf Scout</a>, <a href="/wiki/Exotic_Cave_Spider" title="Exotic Cave Spider">Exotic Cave Spider</a>, <a href="/wiki/Giant_Spider" title="Giant Spider">Giant Spider</a>, <a href="/wiki/Hunter" title="Hunter">Hunter</a>, <a href="/wiki/Necromancer" title="Necromancer">Necromancer</a>, <a href="/wiki/Necromancer_Servant" title="Necromancer Servant">Necromancer Servant</a>, <a href="/wiki/Omruc" title="Omruc">Omruc</a>, <a href="/wiki/Poacher" title="Poacher">Poacher</a>, <a href="/wiki/Troll-Trained_Salamander" title="Troll-Trained Salamander">Troll-Trained Salamander</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Shiver_Arrow" title="Shiver Arrow">Shiver Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Shiver_Arrow.gif" class="image fancybox"><img alt="Shiver Arrow.gif" src="/images/1/16/Shiver_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">20
+</td>
+<td width="10%">14 <a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a>
+</td>
+<td width="10%">14 <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a>
+</td>
+<td width="5%">0.70
+</td>
+<td align="left" width="65%"><a href="/wiki/Crazed_Winter_Rearguard" title="Crazed Winter Rearguard">Crazed Winter Rearguard</a>, <a href="/wiki/Crystal_Wolf" title="Crystal Wolf">Crystal Wolf</a>, <a href="/wiki/Seacrest_Serpent" title="Seacrest Serpent">Seacrest Serpent</a>, <a href="/wiki/Slick_Water_Elemental" title="Slick Water Elemental">Slick Water Elemental</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Simple_Arrow" title="Simple Arrow">Simple Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Simple_Arrow.gif" class="image fancybox"><img alt="Simple Arrow.gif" src="/images/2/2d/Simple_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0
+</td>
+<td width="10%">20
+</td>
+<td width="10%">
+</td>
+<td width="5%">0.60
+</td>
+<td align="left" width="65%"><a href="/wiki/Dawnfly" title="Dawnfly">Dawnfly</a>, <a href="/wiki/Troll-Trained_Salamander" title="Troll-Trained Salamander">Troll-Trained Salamander</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Sniper_Arrow" title="Sniper Arrow">Sniper Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sniper_Arrow.gif" class="image fancybox"><img alt="Sniper Arrow.gif" src="/images/2/2e/Sniper_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">20
+</td>
+<td width="10%">28
+</td>
+<td width="10%">
+</td>
+<td width="5%">0.70
+</td>
+<td align="left" width="65%"><a href="/wiki/Braindeath" title="Braindeath">Braindeath</a>, <a href="/wiki/Elder_Bonelord" title="Elder Bonelord">Elder Bonelord</a>, <a href="/wiki/Crystal_Spider" title="Crystal Spider">Crystal Spider</a>, <a href="/wiki/Gralvalon" title="Gralvalon">Gralvalon</a>, <a href="/wiki/Hero" title="Hero">Hero</a>, <a href="/wiki/Renegade_Knight" title="Renegade Knight">Renegade Knight</a>, <a href="/wiki/Vile_Grandmaster" title="Vile Grandmaster">Vile Grandmaster</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Tarsal_Arrow" title="Tarsal Arrow">Tarsal Arrow</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Tarsal_Arrow.gif" class="image fancybox"><img alt="Tarsal Arrow.gif" src="/images/d/d7/Tarsal_Arrow.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">30
+</td>
+<td width="10%">33
+</td>
+<td width="10%">
+</td>
+<td width="5%">0.70
+</td>
+<td align="left" width="65%"><a href="/wiki/Kollos" title="Kollos">Kollos</a>.
+</td></tr></tbody><tfoot></tfoot></table>

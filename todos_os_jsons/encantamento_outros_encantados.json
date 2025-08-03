@@ -1,0 +1,66 @@
+[
+    {
+        "Nome": "Enchanted Chicken Wing",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f2/Enchanted_Chicken_Wing.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "10.00",
+        "Dropa_de": "Ancient Spawn of Morgathla , Lloyd , The Source Of Corruption , Ushuriel ."
+    },
+    {
+        "Nome": "Flask of Warrior's Sweat",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/6a/Flask_of_Warrior%27s_Sweat.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "3.00",
+        "Dropa_de": "Undead Elite Gladiator , Undead Gladiator , Ushuriel ."
+    },
+    {
+        "Nome": "Magic Sulphur",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/6d/Magic_Sulphur.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.00",
+        "Dropa_de": "Alptramun , Ancient Spawn of Morgathla , Askarak Demon , Askarak Lord , Askarak Prince , Brimstone Bug , Cliff Strider , Draken Elite , Ghulosh , Gorzindel , Infernalist , Izcandar the Banished , Ironblight , Lloyd , Lokathmor , Lost Berserker , Orewalker , Paiz the Pauperizer , Plagueroot , Ravenous Hunger , Soul of Dragonking Zyrtarch , Sulphur Scuttler , Shaburak Demon , Shaburak Lord , Shaburak Prince , The Baron from Below , The Count Of The Core , The Duke Of The Depths , The False God , The Sandking , The Source Of Corruption , The Time Guardian , The Unarmored Voidborn ."
+    },
+    {
+        "Nome": "Small Enchanted Amethyst",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/23/Small_Enchanted_Amethyst.gif",
+        "Atributos": "Pode-se dar \"Use\".",
+        "Agrupável": "",
+        "Peso": "0.10",
+        "Dropa_de": "Chasm Spawn , Dark Magician , Deepworm , Grand Commander Soeren , Grand Chaplain Gaunder , Kroazur , Mad Scientist , Nymph , Pixie , Sharpclaw , Werebadger , Werehyaena ."
+    },
+    {
+        "Nome": "Small Enchanted Emerald",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/83/Small_Enchanted_Emerald.gif",
+        "Atributos": "Pode-se dar \"Use\".",
+        "Agrupável": "",
+        "Peso": "0.10",
+        "Dropa_de": "Adult Goanna , Black Vixen , Boogy , Chasm Spawn , Diremaw , Feral Sphinx , Gazer Spectre , Swan Maiden , Werefox , Werehyaena Shaman , Young Goanna ."
+    },
+    {
+        "Nome": "Small Enchanted Ruby",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/00/Small_Enchanted_Ruby.gif",
+        "Atributos": "Pode-se dar \"Use\".",
+        "Agrupável": "",
+        "Peso": "0.10",
+        "Dropa_de": "Bloodback , Cave Devourer , Crazed Summer Rearguard , Floating Savant , Gazer Spectre , Infernalist , Lava Lurker , Menacing Carnivor , Pooka , Twisted Pooka , Tunnel Tyrant , Wereboar ."
+    },
+    {
+        "Nome": "Small Enchanted Sapphire",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/d3/Small_Enchanted_Sapphire.gif",
+        "Atributos": "Pode-se dar \"Use\".",
+        "Agrupável": "",
+        "Peso": "0.10",
+        "Dropa_de": "Cave Devourer , Crazed Summer Rearguard , Dark Faun , Darkfang , Deathling Scout , Deathling Spellsinger , Faun , Goggle Cake , Iks Aucar , Iks Churrascan , Shadowpelt , Tunnel Tyrant , Werebear ."
+    },
+    {
+        "Nome": "Spirit Container (Fighting Spirit)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1d/Spirit_Container_%28Fighting_Spirit%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "6.00",
+        "Dropa_de": "King Zelos , Souleater , The Enraged Thorn Knight , Ushuriel ."
+    }
+]

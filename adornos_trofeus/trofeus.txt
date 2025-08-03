@@ -1,0 +1,1093 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Nome</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Atributos</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Agrupável</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dropa de</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Arena_Badge" title="Arena Badge">Arena Badge</a>
+</td>
+<td width="10%"><img alt="Arena Badge.gif" src="/images/1/14/Arena_Badge.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>1.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Arena_Badge_(R%C3%A9plica)" title="Arena Badge (Réplica)">Arena Badge (Réplica)</a>
+</td>
+<td width="10%"><img alt="Arena Badge (Réplica).gif" src="/images/b/b7/Arena_Badge_%28R%C3%A9plica%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Behemoth_Trophy" title="Behemoth Trophy">Behemoth Trophy</a>
+</td>
+<td width="10%"><img alt="Behemoth Trophy.gif" src="/images/8/8e/Behemoth_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado na parede.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Behemoth" title="Behemoth">Behemoth</a>, <a href="/wiki/Stonecracker" title="Stonecracker">Stonecracker</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Birthday_Cup" title="Birthday Cup">Birthday Cup</a>
+</td>
+<td width="10%"><img alt="Birthday Cup.gif" src="/images/5/57/Birthday_Cup.gif" decoding="async" width="34" height="34">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>38.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Black_Pit_Demon" title="Black Pit Demon">Black Pit Demon</a>
+</td>
+<td width="10%"><img alt="Black Pit Demon.gif" src="/images/7/73/Black_Pit_Demon.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Blue_Pit_Demon" title="Blue Pit Demon">Blue Pit Demon</a>
+</td>
+<td width="10%"><img alt="Blue Pit Demon.gif" src="/images/8/8a/Blue_Pit_Demon.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Blue_Shark_Trophy" title="Blue Shark Trophy">Blue Shark Trophy</a>
+</td>
+<td width="10%"><img alt="Blue Shark Trophy.gif" src="/images/0/01/Blue_Shark_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bolfrim%27s_Golden_Bug_Trophy" title="Bolfrim's Golden Bug Trophy">Bolfrim's Golden Bug Trophy</a>
+</td>
+<td width="10%"><img alt="Bolfrim's Golden Bug Trophy.gif" src="/images/9/95/Bolfrim%27s_Golden_Bug_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>12.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bonebeast_Trophy" title="Bonebeast Trophy">Bonebeast Trophy</a>
+</td>
+<td width="10%"><img alt="Bonebeast Trophy.gif" src="/images/f/f9/Bonebeast_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser pendurado.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bonebeast" title="Bonebeast">Bonebeast</a>, <a href="/wiki/Ribstride" title="Ribstride">Ribstride</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bronze_Cup_(Ascension)" title="Bronze Cup (Ascension)">Bronze Cup (Ascension)</a>
+</td>
+<td width="10%"><img alt="Bronze Cup (Ascension).gif" src="/images/0/08/Bronze_Cup_%28Ascension%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bronze_Cup_(Honour)" title="Bronze Cup (Honour)">Bronze Cup (Honour)</a>
+</td>
+<td width="10%"><img alt="Bronze Cup (Honour).gif" src="/images/5/59/Bronze_Cup_%28Honour%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bronze_Cup_(Radiance)" title="Bronze Cup (Radiance)">Bronze Cup (Radiance)</a>
+</td>
+<td width="10%"><img alt="Bronze Cup (Radiance).gif" src="/images/5/52/Bronze_Cup_%28Radiance%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bronze_Cup_(Triumph)" title="Bronze Cup (Triumph)">Bronze Cup (Triumph)</a>
+</td>
+<td width="10%"><img alt="Bronze Cup (Triumph).gif" src="/images/2/2b/Bronze_Cup_%28Triumph%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bronze_Cup_(Valour)" title="Bronze Cup (Valour)">Bronze Cup (Valour)</a>
+</td>
+<td width="10%"><img alt="Bronze Cup (Valour).gif" src="/images/7/79/Bronze_Cup_%28Valour%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bronze_Cup_of_Honour" title="Bronze Cup of Honour">Bronze Cup of Honour</a>
+</td>
+<td width="10%"><img alt="Bronze Cup of Honour.gif" src="/images/2/26/Bronze_Cup_of_Honour.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser escrito.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>16.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bronze_Trophy_of_Excellence" title="Bronze Trophy of Excellence">Bronze Trophy of Excellence</a>
+</td>
+<td width="10%"><img alt="Bronze Trophy of Excellence.gif" src="/images/9/99/Bronze_Trophy_of_Excellence.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser escrito</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>13.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bronze_Warrior_Trophy" title="Bronze Warrior Trophy">Bronze Warrior Trophy</a>
+</td>
+<td width="10%"><img alt="Bronze Warrior Trophy.gif" src="/images/0/0c/Bronze_Warrior_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser escrito.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>18.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Brown_Pit_Demon" title="Brown Pit Demon">Brown Pit Demon</a>
+</td>
+<td width="10%"><img alt="Brown Pit Demon.gif" src="/images/e/e4/Brown_Pit_Demon.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Brown_Shark_Trophy" title="Brown Shark Trophy">Brown Shark Trophy</a>
+</td>
+<td width="10%"><img alt="Brown Shark Trophy.gif" src="/images/a/a7/Brown_Shark_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Champion%27s_Cup" title="Champion's Cup">Champion's Cup</a>
+</td>
+<td width="10%"><img alt="Champion's Cup.gif" src="/images/d/d4/Champion%27s_Cup.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser escrito.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>18.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cyclops_Trophy" title="Cyclops Trophy">Cyclops Trophy</a>
+</td>
+<td width="10%"><img alt="Cyclops Trophy.gif" src="/images/b/b2/Cyclops_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Cyclops" title="Cyclops">Cyclops</a>, <a href="/wiki/Cyclops_Drone" title="Cyclops Drone">Cyclops Drone</a>, <a href="/wiki/Cyclops_Smith" title="Cyclops Smith">Cyclops Smith</a>, <a href="/wiki/The_Old_Whopper" title="The Old Whopper">The Old Whopper</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Deer_Trophy" title="Deer Trophy">Deer Trophy</a>
+</td>
+<td width="10%"><img alt="Deer Trophy.gif" src="/images/3/36/Deer_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em <a href="/wiki/Paredes" title="Paredes">paredes</a>.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Smuggler" title="Smuggler">Smuggler</a>, <a href="/wiki/Hunter" title="Hunter">Hunter</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Delany%27s_Golden_Bug_Trophy" title="Delany's Golden Bug Trophy">Delany's Golden Bug Trophy</a>
+</td>
+<td width="10%"><img alt="Delany's Golden Bug Trophy.gif" src="/images/1/17/Delany%27s_Golden_Bug_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>12.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Demon_Trophy" title="Demon Trophy">Demon Trophy</a>
+</td>
+<td width="10%"><img alt="Demon Trophy.gif" src="/images/4/44/Demon_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Angry_Demon" title="Angry Demon">Angry Demon</a>, <a href="/wiki/Demon" title="Demon">Demon</a>, <a href="/wiki/Rage_Squid" title="Rage Squid">Rage Squid</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Disgusting_Trophy" title="Disgusting Trophy">Disgusting Trophy</a>
+</td>
+<td width="10%"><img alt="Disgusting Trophy.gif" src="/images/8/84/Disgusting_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>7.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dragon_Lord_Trophy" title="Dragon Lord Trophy">Dragon Lord Trophy</a>
+</td>
+<td width="10%"><img alt="Dragon Lord Trophy.gif" src="/images/3/36/Dragon_Lord_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Dragon_Lord" title="Dragon Lord">Dragon Lord</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dragon_Trophy" title="Dragon Trophy">Dragon Trophy</a>
+</td>
+<td width="10%"><img alt="Dragon Trophy.gif" src="/images/1/1f/Dragon_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Dragon" title="Dragon">Dragon</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Draken_Trophy" title="Draken Trophy">Draken Trophy</a>
+</td>
+<td width="10%"><img alt="Draken Trophy.gif" src="/images/3/3d/Draken_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>6.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Draken_Spellweaver" title="Draken Spellweaver">Draken Spellweaver</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Elven_Trophy" title="Elven Trophy">Elven Trophy</a>
+</td>
+<td width="10%"><img alt="Elven Trophy.gif" src="/images/e/ed/Elven_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser escrito.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>9.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gilded_Birthday_Cup" title="Gilded Birthday Cup">Gilded Birthday Cup</a>
+</td>
+<td width="10%"><img alt="Gilded Birthday Cup.gif" src="/images/f/f9/Gilded_Birthday_Cup.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>38.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gold_Cup_(Ascension)" title="Gold Cup (Ascension)">Gold Cup (Ascension)</a>
+</td>
+<td width="10%"><img alt="Gold Cup (Ascension).gif" src="/images/c/ce/Gold_Cup_%28Ascension%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gold_Cup_(Honour)" title="Gold Cup (Honour)">Gold Cup (Honour)</a>
+</td>
+<td width="10%"><img alt="Gold Cup (Honour).gif" src="/images/a/a5/Gold_Cup_%28Honour%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gold_Cup_(Radiance)" title="Gold Cup (Radiance)">Gold Cup (Radiance)</a>
+</td>
+<td width="10%"><img alt="Gold Cup (Radiance).gif" src="/images/8/89/Gold_Cup_%28Radiance%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gold_Cup_(Triumph)" title="Gold Cup (Triumph)">Gold Cup (Triumph)</a>
+</td>
+<td width="10%"><img alt="Gold Cup (Triumph).gif" src="/images/7/7b/Gold_Cup_%28Triumph%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gold_Cup_(Valour)" title="Gold Cup (Valour)">Gold Cup (Valour)</a>
+</td>
+<td width="10%"><img alt="Gold Cup (Valour).gif" src="/images/b/be/Gold_Cup_%28Valour%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Golden_Fafnar_Trophy" title="Golden Fafnar Trophy">Golden Fafnar Trophy</a>
+</td>
+<td width="10%"><img alt="Golden Fafnar Trophy.gif" src="/images/b/b1/Golden_Fafnar_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Fornece uma pequena quantidade de luz.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>9.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Golden_Shark_Trophy" title="Golden Shark Trophy">Golden Shark Trophy</a>
+</td>
+<td width="10%"><img alt="Golden Shark Trophy.gif" src="/images/e/e1/Golden_Shark_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Golden_Trophy_of_Excellence" title="Golden Trophy of Excellence">Golden Trophy of Excellence</a>
+</td>
+<td width="10%"><img alt="Golden Trophy of Excellence.gif" src="/images/c/cc/Golden_Trophy_of_Excellence.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser escrito.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>13.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Golden_Warrior_Trophy" title="Golden Warrior Trophy">Golden Warrior Trophy</a>
+</td>
+<td width="10%"><img alt="Golden Warrior Trophy.gif" src="/images/d/d2/Golden_Warrior_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser escrito.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>19.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Green_Pit_Demon" title="Green Pit Demon">Green Pit Demon</a>
+</td>
+<td width="10%"><img alt="Green Pit Demon.gif" src="/images/e/ee/Green_Pit_Demon.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hammerhead_Trophy" title="Hammerhead Trophy">Hammerhead Trophy</a>
+</td>
+<td width="10%"><img alt="Hammerhead Trophy.gif" src="/images/f/fe/Hammerhead_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lion_Trophy" title="Lion Trophy">Lion Trophy</a>
+</td>
+<td width="10%"><img alt="Lion Trophy.gif" src="/images/1/12/Lion_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Hunter" title="Hunter">Hunter</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lizard_Trophy" title="Lizard Trophy">Lizard Trophy</a>
+</td>
+<td width="10%"><img alt="Lizard Trophy.gif" src="/images/e/e7/Lizard_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/Lizard_Legionnaire" title="Lizard Legionnaire">Lizard Legionnaire</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Marlin_Trophy" title="Marlin Trophy">Marlin Trophy</a>
+</td>
+<td width="10%"><img alt="Marlin Trophy.gif" src="/images/5/51/Marlin_Trophy.gif" decoding="async" width="44" height="32">
+</td>
+<td width="23%"><small>Pode ser pendurado.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Minotaur_Trophy" title="Minotaur Trophy">Minotaur Trophy</a>
+</td>
+<td width="10%"><img alt="Minotaur Trophy.gif" src="/images/b/ba/Minotaur_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em <a href="/wiki/Paredes" title="Paredes">paredes</a>.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Execowtioner" title="Execowtioner">Execowtioner</a>, <a href="/wiki/Minotaur_Amazon" title="Minotaur Amazon">Minotaur Amazon</a>, <a href="/wiki/Minotaur_Cult_Follower" title="Minotaur Cult Follower">Minotaur Cult Follower</a>, <a href="/wiki/Minotaur_Cult_Prophet" title="Minotaur Cult Prophet">Minotaur Cult Prophet</a>, <a href="/wiki/Minotaur_Cult_Zealot" title="Minotaur Cult Zealot">Minotaur Cult Zealot</a>, <a href="/wiki/Minotaur_Guard" title="Minotaur Guard">Minotaur Guard</a>, <a href="/wiki/Minotaur_Hunter" title="Minotaur Hunter">Minotaur Hunter</a>, <a href="/wiki/Minotaur_Invader" title="Minotaur Invader">Minotaur Invader</a>, <a href="/wiki/Moohtant" title="Moohtant">Moohtant</a>, <a href="/wiki/Mooh%27Tah_Warrior" title="Mooh'Tah Warrior">Mooh'Tah Warrior</a>, <a href="/wiki/Worm_Priestess" title="Worm Priestess">Worm Priestess</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Orc_Trophy" title="Orc Trophy">Orc Trophy</a>
+</td>
+<td width="10%"><img alt="Orc Trophy.gif" src="/images/6/69/Orc_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado nas paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bibby_Bloodbath" title="Bibby Bloodbath">Bibby Bloodbath</a>, <a href="/wiki/Orc_Warlord" title="Orc Warlord">Orc Warlord</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pantibian_Amphora" title="Pantibian Amphora">Pantibian Amphora</a>
+</td>
+<td width="10%"><img alt="Pantibian Amphora.gif" src="/images/1/10/Pantibian_Amphora.gif" decoding="async" width="64" height="64">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>25.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Phoenix_Statue" title="Phoenix Statue">Phoenix Statue</a>
+</td>
+<td width="10%"><img alt="Phoenix Statue.gif" src="/images/6/6a/Phoenix_Statue.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Fornece uma pequena quantidade de luz vermelha.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>20.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pigeon_Trophy" title="Pigeon Trophy">Pigeon Trophy</a>
+</td>
+<td width="10%"><img alt="Pigeon Trophy.gif" src="/images/9/96/Pigeon_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser pendurado na parede.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>4.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Red_Pit_Demon" title="Red Pit Demon">Red Pit Demon</a>
+</td>
+<td width="10%"><img alt="Red Pit Demon.gif" src="/images/0/09/Red_Pit_Demon.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sea_Serpent_Trophy" title="Sea Serpent Trophy">Sea Serpent Trophy</a>
+</td>
+<td width="10%"><img alt="Sea Serpent Trophy.gif" src="/images/a/ae/Sea_Serpent_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Leviathan" title="Leviathan">Leviathan</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Shark_Jaws" title="Shark Jaws">Shark Jaws</a>
+</td>
+<td width="10%"><img alt="Shark Jaws.gif" src="/images/2/2c/Shark_Jaws.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Silver_Cup_(Ascension)" title="Silver Cup (Ascension)">Silver Cup (Ascension)</a>
+</td>
+<td width="10%"><img alt="Silver Cup (Ascension).gif" src="/images/9/9d/Silver_Cup_%28Ascension%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Silver_Cup_(Honour)" title="Silver Cup (Honour)">Silver Cup (Honour)</a>
+</td>
+<td width="10%"><img alt="Silver Cup (Honour).gif" src="/images/3/3e/Silver_Cup_%28Honour%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Silver_Cup_(Radiance)" title="Silver Cup (Radiance)">Silver Cup (Radiance)</a>
+</td>
+<td width="10%"><img alt="Silver Cup (Radiance).gif" src="/images/b/ba/Silver_Cup_%28Radiance%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Silver_Cup_(Triumph)" title="Silver Cup (Triumph)">Silver Cup (Triumph)</a>
+</td>
+<td width="10%"><img alt="Silver Cup (Triumph).gif" src="/images/a/a9/Silver_Cup_%28Triumph%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Silver_Cup_(Valour)" title="Silver Cup (Valour)">Silver Cup (Valour)</a>
+</td>
+<td width="10%"><img alt="Silver Cup (Valour).gif" src="/images/9/93/Silver_Cup_%28Valour%29.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Silver_Cup_of_Honour" title="Silver Cup of Honour">Silver Cup of Honour</a>
+</td>
+<td width="10%"><img alt="Silver Cup of Honour.gif" src="/images/f/f5/Silver_Cup_of_Honour.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser escrito.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>16.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Silver_Fafnar_Trophy" title="Silver Fafnar Trophy">Silver Fafnar Trophy</a>
+</td>
+<td width="10%"><img alt="Silver Fafnar Trophy.gif" src="/images/1/13/Silver_Fafnar_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Fornece uma pequena quantidade de luz.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>9.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Silver_Trophy_of_Excellence" title="Silver Trophy of Excellence">Silver Trophy of Excellence</a>
+</td>
+<td width="10%"><img alt="Silver Trophy of Excellence.gif" src="/images/4/4c/Silver_Trophy_of_Excellence.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser escrito.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>13.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Silver_Warrior_Trophy" title="Silver Warrior Trophy">Silver Warrior Trophy</a>
+</td>
+<td width="10%"><img alt="Silver Warrior Trophy.gif" src="/images/5/51/Silver_Warrior_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Pode ser escrito.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>18.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Siramal%27s_Golden_Bug_Trophy" title="Siramal's Golden Bug Trophy">Siramal's Golden Bug Trophy</a>
+</td>
+<td width="10%"><img alt="Siramal's Golden Bug Trophy.gif" src="/images/7/72/Siramal%27s_Golden_Bug_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>12.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Snake_God_Trophy" title="Snake God Trophy">Snake God Trophy</a>
+</td>
+<td width="10%"><img alt="Snake God Trophy.gif" src="/images/a/a0/Snake_God_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Souleater_Trophy" title="Souleater Trophy">Souleater Trophy</a>
+</td>
+<td width="10%"><img alt="Souleater Trophy.gif" src="/images/c/ce/Souleater_Trophy.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Souleater" title="Souleater">Souleater</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Statue_of_Abyssador" title="Statue of Abyssador">Statue of Abyssador</a>
+</td>
+<td width="10%"><img alt="Statue of Abyssador.gif" src="/images/d/db/Statue_of_Abyssador.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>24.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Statue_of_Deathstrike" title="Statue of Deathstrike">Statue of Deathstrike</a>
+</td>
+<td width="10%"><img alt="Statue of Deathstrike.gif" src="/images/6/62/Statue_of_Deathstrike.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>21.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Statue_of_Devovorga" title="Statue of Devovorga">Statue of Devovorga</a>
+</td>
+<td width="10%"><img alt="Statue of Devovorga.gif" src="/images/3/36/Statue_of_Devovorga.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>18.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Statue_of_Gnomevil" title="Statue of Gnomevil">Statue of Gnomevil</a>
+</td>
+<td width="10%"><img alt="Statue of Gnomevil.gif" src="/images/6/62/Statue_of_Gnomevil.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>22.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Stripped_Shark_Trophy" title="Stripped Shark Trophy">Stripped Shark Trophy</a>
+</td>
+<td width="10%"><img alt="Stripped Shark Trophy.gif" src="/images/0/05/Stripped_Shark_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/The_Famous_Golden_Bug" title="The Famous Golden Bug">The Famous Golden Bug</a>
+</td>
+<td width="10%"><img alt="The Famous Golden Bug.gif" src="/images/4/44/The_Famous_Golden_Bug.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>12.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Trophy_of_Feroxa" title="Trophy of Feroxa">Trophy of Feroxa</a>
+</td>
+<td width="10%"><img alt="Trophy of Feroxa.gif" src="/images/a/ab/Trophy_of_Feroxa.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado nas paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Trophy_of_Jaul" title="Trophy of Jaul">Trophy of Jaul</a>
+</td>
+<td width="10%"><img alt="Trophy of Jaul.gif" src="/images/6/6c/Trophy_of_Jaul.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Trophy_of_Obujos" title="Trophy of Obujos">Trophy of Obujos</a>
+</td>
+<td width="10%"><img alt="Trophy of Obujos.gif" src="/images/8/82/Trophy_of_Obujos.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Trophy_of_Tanjis" title="Trophy of Tanjis">Trophy of Tanjis</a>
+</td>
+<td width="10%"><img alt="Trophy of Tanjis.gif" src="/images/b/bf/Trophy_of_Tanjis.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Werebadger_Trophy" title="Werebadger Trophy">Werebadger Trophy</a>
+</td>
+<td width="10%"><img alt="Werebadger Trophy.gif" src="/images/2/29/Werebadger_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado nas paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Sharpclaw" title="Sharpclaw">Sharpclaw</a>, <a href="/wiki/Werebadger" title="Werebadger">Werebadger</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Werebear_Trophy" title="Werebear Trophy">Werebear Trophy</a>
+</td>
+<td width="10%"><img alt="Werebear Trophy.gif" src="/images/2/22/Werebear_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado nas paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Shadowpelt" title="Shadowpelt">Shadowpelt</a>, <a href="/wiki/Werebear" title="Werebear">Werebear</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wereboar_Trophy" title="Wereboar Trophy">Wereboar Trophy</a>
+</td>
+<td width="10%"><img alt="Wereboar Trophy.gif" src="/images/1/1f/Wereboar_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado nas paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bloodback" title="Bloodback">Bloodback</a>, <a href="/wiki/Wereboar" title="Wereboar">Wereboar</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Werecrocodile_Trophy" title="Werecrocodile Trophy">Werecrocodile Trophy</a>
+</td>
+<td width="10%"><img alt="Werecrocodile Trophy.gif" src="/images/b/b0/Werecrocodile_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Werecrocodile" title="Werecrocodile">Werecrocodile</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Werefox_Trophy" title="Werefox Trophy">Werefox Trophy</a>
+</td>
+<td width="10%"><img alt="Werefox Trophy.gif" src="/images/8/82/Werefox_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado nas paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Black_Vixen" title="Black Vixen">Black Vixen</a>, <a href="/wiki/Werefox" title="Werefox">Werefox</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Werehyaena_Trophy" title="Werehyaena Trophy">Werehyaena Trophy</a>
+</td>
+<td width="10%"><img alt="Werehyaena Trophy.gif" src="/images/d/dd/Werehyaena_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Katex_Blood_Tongue" title="Katex Blood Tongue">Katex Blood Tongue</a>, <a href="/wiki/Werehyaena" title="Werehyaena">Werehyaena</a>, <a href="/wiki/Werehyaena_Shaman" title="Werehyaena Shaman">Werehyaena Shaman</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Werepanther_Trophy" title="Werepanther Trophy">Werepanther Trophy</a>
+</td>
+<td width="10%"><img alt="Werepanther Trophy.gif" src="/images/8/8c/Werepanther_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Werepanther" title="Werepanther">Werepanther</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Weretiger_Trophy" title="Weretiger Trophy">Weretiger Trophy</a>
+</td>
+<td width="10%"><img alt="Weretiger Trophy.gif" src="/images/7/75/Weretiger_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Weretiger" title="Weretiger">Weretiger</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wolf_Trophy" title="Wolf Trophy">Wolf Trophy</a>
+</td>
+<td width="10%"><img alt="Wolf Trophy.gif" src="/images/0/0f/Wolf_Trophy.gif" decoding="async" width="38" height="38">
+</td>
+<td width="23%"><small>Pode ser pendurado em paredes.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Darkfang" title="Darkfang">Darkfang</a>, <a href="/wiki/Hunter" title="Hunter">Hunter</a>, <a href="/wiki/War_Wolf" title="War Wolf">War Wolf</a>.</small>
+</td></tr></tbody><tfoot></tfoot></table>

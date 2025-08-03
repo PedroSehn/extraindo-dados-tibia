@@ -1,0 +1,872 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Nome</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Atributos</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Agrupável</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dropa de</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Astral_Shaper_Rune" title="Astral Shaper Rune">Astral Shaper Rune</a>
+</td>
+<td width="10%"><img alt="Astral Shaper Rune.gif" src="/images/6/6b/Astral_Shaper_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bag_of_Apple_Slices" title="Bag of Apple Slices">Bag of Apple Slices</a>
+</td>
+<td width="10%"><img alt="Bag of Apple Slices.gif" src="/images/4/44/Bag_of_Apple_Slices.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bane_Lord" title="Bane Lord">Bane Lord</a>, <a href="/wiki/Ekatrix" title="Ekatrix">Ekatrix</a>, <a href="/wiki/Witch" title="Witch">Witch</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bamboo_Leaves" title="Bamboo Leaves">Bamboo Leaves</a>
+</td>
+<td width="10%"><img alt="Bamboo Leaves.gif" src="/images/2/24/Bamboo_Leaves.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Draken_Abomination" title="Draken Abomination">Draken Abomination</a>, <a href="/wiki/Draken_Spellweaver" title="Draken Spellweaver">Draken Spellweaver</a>, <a href="/wiki/Bane_Lord" title="Bane Lord">Bane Lord</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Beer_Tap" title="Beer Tap">Beer Tap</a>
+</td>
+<td width="10%"><img alt="Beer Tap.gif" src="/images/c/c0/Beer_Tap.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Roast_Pork" title="Roast Pork">Roast Pork</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Candle_Stump" title="Candle Stump">Candle Stump</a>
+</td>
+<td width="10%"><img alt="Candle Stump.gif" src="/images/2/20/Candle_Stump.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/Ancient_Spawn_of_Morgathla" title="Ancient Spawn of Morgathla">Ancient Spawn of Morgathla</a>, <a href="/wiki/The_Baron_from_Below" title="The Baron from Below">The Baron from Below</a>, <a href="/wiki/The_Count_Of_The_Core" title="The Count Of The Core">The Count Of The Core</a>, <a href="/wiki/The_Duke_Of_The_Depths" title="The Duke Of The Depths">The Duke Of The Depths</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Carrot_on_a_Stick" title="Carrot on a Stick">Carrot on a Stick</a>
+</td>
+<td width="10%"><img alt="Carrot on a Stick.gif" src="/images/b/b7/Carrot_on_a_Stick.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Carniphila" title="Carniphila">Carniphila</a>, <a href="/wiki/Dryad" title="Dryad">Dryad</a>, <a href="/wiki/Flameborn" title="Flameborn">Flameborn</a>, <a href="/wiki/Omnivora" title="Omnivora">Omnivora</a>, <a href="/wiki/Pooka" title="Pooka">Pooka</a>, <a href="/wiki/Tiquandas_Revenge" title="Tiquandas Revenge">Tiquandas Revenge</a>, <a href="/wiki/Twisted_Pooka" title="Twisted Pooka">Twisted Pooka</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Colourful_Water_Lily" title="Colourful Water Lily">Colourful Water Lily</a>
+</td>
+<td width="10%"><img alt="Colourful Water Lily.gif" src="/images/1/1c/Colourful_Water_Lily.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>1.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Control_Unit" title="Control Unit">Control Unit</a>
+</td>
+<td width="10%"><img alt="Control Unit.gif" src="/images/9/98/Control_Unit.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crackling_Egg" title="Crackling Egg">Crackling Egg</a>
+</td>
+<td width="10%"><img alt="Crackling Egg.gif" src="/images/c/c0/Crackling_Egg.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/World_Devourer" title="World Devourer">World Devourer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Decorative_Blue_Sheet" title="Decorative Blue Sheet">Decorative Blue Sheet</a>
+</td>
+<td width="10%"><img alt="Decorative Blue Sheet.gif" src="/images/f/f7/Decorative_Blue_Sheet.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bellicose_Orger" title="Bellicose Orger">Bellicose Orger</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Decorative_Green_Sheet" title="Decorative Green Sheet">Decorative Green Sheet</a>
+</td>
+<td width="10%"><img alt="Decorative Green Sheet.gif" src="/images/8/8c/Decorative_Green_Sheet.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bellicose_Orger" title="Bellicose Orger">Bellicose Orger</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Decorative_Red_Sheet" title="Decorative Red Sheet">Decorative Red Sheet</a>
+</td>
+<td width="10%"><img alt="Decorative Red Sheet.gif" src="/images/1/1c/Decorative_Red_Sheet.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bellicose_Orger" title="Bellicose Orger">Bellicose Orger</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Decorative_Ribbon" title="Decorative Ribbon">Decorative Ribbon</a>
+</td>
+<td width="10%"><img alt="Decorative Ribbon.gif" src="/images/5/57/Decorative_Ribbon.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Abyssador" title="Abyssador">Abyssador</a>, <a href="/wiki/Deathstrike" title="Deathstrike">Deathstrike</a>, <a href="/wiki/Gnomevil" title="Gnomevil">Gnomevil</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Demon_in_a_Golden_Box" title="Demon in a Golden Box">Demon in a Golden Box</a>
+</td>
+<td width="10%"><img alt="Demon in a Golden Box.gif" src="/images/2/22/Demon_in_a_Golden_Box.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Rotrender" title="Rotrender">Rotrender</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Demon_In_A_Green_Box" title="Demon In A Green Box">Demon In A Green Box</a>
+</td>
+<td width="10%"><img alt="Demon In A Green Box.gif" src="/images/1/1b/Demon_In_A_Green_Box.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Arbaziloth" title="Arbaziloth">Arbaziloth</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Demon_in_a_Red_Box" title="Demon in a Red Box">Demon in a Red Box</a>
+</td>
+<td width="10%"><img alt="Demon in a Red Box.gif" src="/images/1/19/Demon_in_a_Red_Box.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Rotrender" title="Rotrender">Rotrender</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Diapason" title="Diapason">Diapason</a>
+</td>
+<td width="10%"><img alt="Diapason.gif" src="/images/4/43/Diapason.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Eldritch_Crystal" title="Eldritch Crystal">Eldritch Crystal</a>
+</td>
+<td width="10%"><img alt="Eldritch Crystal.gif" src="/images/1/1e/Eldritch_Crystal.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>1.75</small>
+</td>
+<td width="36%"><small><a href="/wiki/The_Brainstealer" title="The Brainstealer">The Brainstealer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fiery_Horseshoe" title="Fiery Horseshoe">Fiery Horseshoe</a>
+</td>
+<td width="10%"><img alt="Fiery Horseshoe.gif" src="/images/8/8d/Fiery_Horseshoe.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>1.20</small>
+</td>
+<td width="36%"><small><a href="/wiki/The_Abomination" title="The Abomination">The Abomination</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fist_on_a_Stick" title="Fist on a Stick">Fist on a Stick</a>
+</td>
+<td width="10%"><img alt="Fist on a Stick.gif" src="/images/5/50/Fist_on_a_Stick.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Furious_Scorpion" title="Furious Scorpion">Furious Scorpion</a>, <a href="/wiki/Sandstone_Scorpion" title="Sandstone Scorpion">Sandstone Scorpion</a>, <a href="/wiki/Tomb_Servant" title="Tomb Servant">Tomb Servant</a>, <a href="/wiki/Utua_Stone_Sting" title="Utua Stone Sting">Utua Stone Sting</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Four-Leaf_Clover" title="Four-Leaf Clover">Four-Leaf Clover</a>
+</td>
+<td width="10%"><img alt="Four-Leaf Clover.gif" src="/images/a/af/Four-Leaf_Clover.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Foxtail" title="Foxtail">Foxtail</a>
+</td>
+<td width="10%"><img alt="Foxtail.gif" src="/images/1/16/Foxtail.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Black_Vixen" title="Black Vixen">Black Vixen</a>, <a href="/wiki/Deepling_Guard" title="Deepling Guard">Deepling Guard</a> , <a href="/wiki/Deepling_Tyrant" title="Deepling Tyrant">Deepling Tyrant</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Giant_Shrimp" title="Giant Shrimp">Giant Shrimp</a>
+</td>
+<td width="10%"><img alt="Giant Shrimp.gif" src="/images/b/b6/Giant_Shrimp.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Quara_Pincher" title="Quara Pincher">Quara Pincher</a>, <a href="/wiki/Quara_Predator" title="Quara Predator">Quara Predator</a>, <a href="/wiki/Renegade_Quara_Predator" title="Renegade Quara Predator">Renegade Quara Predator</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Glow_Wine" title="Glow Wine">Glow Wine</a>
+</td>
+<td width="10%"><img alt="Glow Wine.gif" src="/images/c/ce/Glow_Wine.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Golden_Can_of_Oil" title="Golden Can of Oil">Golden Can of Oil</a>
+</td>
+<td width="10%"><img alt="Golden Can of Oil.gif" src="/images/e/e1/Golden_Can_of_Oil.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Ethershreck" title="Ethershreck">Ethershreck</a>, <a href="/wiki/Golden_Servant" title="Golden Servant">Golden Servant</a>, <a href="/wiki/Golden_Servant_Replica" title="Golden Servant Replica">Golden Servant Replica</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Golden_Fir_Cone" title="Golden Fir Cone">Golden Fir Cone</a>
+</td>
+<td width="10%"><img alt="Golden Fir Cone.gif" src="/images/8/8d/Golden_Fir_Cone.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montaria" class="mw-redirect" title="Montaria">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bane_Lord" title="Bane Lord">Bane Lord</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Golem_Wrench" title="Golem Wrench">Golem Wrench</a>
+</td>
+<td width="10%"><img alt="Golem Wrench.gif" src="/images/a/ad/Golem_Wrench.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Harness" title="Harness">Harness</a>
+</td>
+<td width="10%"><img alt="Harness.gif" src="/images/2/25/Harness.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Draken_Spellweaver" title="Draken Spellweaver">Draken Spellweaver</a>, <a href="/wiki/Paiz_the_Pauperizer" title="Paiz the Pauperizer">Paiz the Pauperizer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hunting_Horn" title="Hunting Horn">Hunting Horn</a>
+</td>
+<td width="10%"><img alt="Hunting Horn.gif" src="/images/e/e7/Hunting_Horn.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Idol_of_Tukh" title="Idol of Tukh">Idol of Tukh</a>
+</td>
+<td width="10%"><img alt="Idol of Tukh.gif" src="/images/2/20/Idol_of_Tukh.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="36%"><small><a href="/wiki/Atab" title="Atab">Atab</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Inert_Astral_Shaper_Rune" title="Inert Astral Shaper Rune">Inert Astral Shaper Rune</a>
+</td>
+<td width="10%"><img alt="Inert Astral Shaper Rune.gif" src="/images/a/a0/Inert_Astral_Shaper_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Iron_Loadstone" title="Iron Loadstone">Iron Loadstone</a>
+</td>
+<td width="10%"><img alt="Iron Loadstone.gif" src="/images/2/25/Iron_Loadstone.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Leather_Whip" title="Leather Whip">Leather Whip</a>
+</td>
+<td width="10%"><img alt="Leather Whip.gif" src="/images/4/44/Leather_Whip.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/The_Time_Guardian" title="The Time Guardian">The Time Guardian</a>, <a href="/wiki/Vampire_Bride" title="Vampire Bride">Vampire Bride</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Leech" title="Leech">Leech</a>
+</td>
+<td width="10%"><img alt="Leech.gif" src="/images/0/09/Leech.gif" decoding="async" width="25" height="26">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Library_Ticket" title="Library Ticket">Library Ticket</a>
+</td>
+<td width="10%"><img alt="Library Ticket.gif" src="/images/5/5c/Library_Ticket.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/The_Scourge_of_Oblivion" title="The Scourge of Oblivion">The Scourge of Oblivion</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Maxilla_Maximus" title="Maxilla Maximus">Maxilla Maximus</a>
+</td>
+<td width="10%"><img alt="Maxilla Maximus.gif" src="/images/2/25/Maxilla_Maximus.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Ancient_Spawn_of_Morgathla" title="Ancient Spawn of Morgathla">Ancient Spawn of Morgathla</a>, <a href="/wiki/Lich" title="Lich">Lich</a>, <a href="/wiki/Ribstride" title="Ribstride">Ribstride</a>, <a href="/wiki/Zanakeph" title="Zanakeph">Zanakeph</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Melting_Horn" title="Melting Horn">Melting Horn</a>
+</td>
+<td width="10%"><img alt="Melting Horn.gif" src="/images/4/42/Melting_Horn.gif" decoding="async" width="30" height="16">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Menacing_Egg" title="Menacing Egg">Menacing Egg</a>
+</td>
+<td width="10%"><img alt="Menacing Egg.gif" src="/images/3/31/Menacing_Egg.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/World_Devourer" title="World Devourer">World Devourer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Music_Box" title="Music Box">Music Box</a>
+</td>
+<td width="10%"><img alt="Music Box.gif" src="/images/b/ba/Music_Box.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> criaturas específicas.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mysterious_Scroll" title="Mysterious Scroll">Mysterious Scroll</a>
+</td>
+<td width="10%"><img alt="Mysterious Scroll.gif" src="/images/a/a4/Mysterious_Scroll.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/Ferumbras_Mortal_Shell" title="Ferumbras Mortal Shell">Ferumbras Mortal Shell</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nail_Case" title="Nail Case">Nail Case</a>
+</td>
+<td width="10%"><img alt="Nail Case.gif" src="/images/a/ac/Nail_Case.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nightmare_Horn" title="Nightmare Horn">Nightmare Horn</a>
+</td>
+<td width="10%"><img alt="Nightmare Horn.gif" src="/images/6/6c/Nightmare_Horn.gif" decoding="async" width="29" height="31">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Prince_Drazzak" title="Prince Drazzak">Prince Drazzak</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pegasus_Feather" title="Pegasus Feather">Pegasus Feather</a>
+</td>
+<td width="10%"><img alt="Pegasus Feather.gif" src="/images/e/e7/Pegasus_Feather.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0.10</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Percht_Skull" title="Percht Skull">Percht Skull</a>
+</td>
+<td width="10%"><img alt="Percht Skull.gif" src="/images/4/40/Percht_Skull.gif" decoding="async" width="34" height="34">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.70</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Polished_Idol_of_Tukh" title="Polished Idol of Tukh">Polished Idol of Tukh</a>
+</td>
+<td width="10%"><img alt="Polished Idol of Tukh.gif" src="/images/6/65/Polished_Idol_of_Tukh.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Purple_Tendril_Lantern" title="Purple Tendril Lantern">Purple Tendril Lantern</a>
+</td>
+<td width="10%"><img alt="Purple Tendril Lantern.gif" src="/images/f/f8/Purple_Tendril_Lantern.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>9.20</small>
+</td>
+<td width="36%"><small><a href="/wiki/Alptramun" title="Alptramun">Alptramun</a>, <a href="/wiki/Izcandar_the_Banished" title="Izcandar the Banished">Izcandar the Banished</a>, <a href="/wiki/Maxxenius" title="Maxxenius">Maxxenius</a>, <a href="/wiki/The_Nightmare_Beast" title="The Nightmare Beast">The Nightmare Beast</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Red_Silk_Flower" title="Red Silk Flower">Red Silk Flower</a>
+</td>
+<td width="10%"><img alt="Red Silk Flower.gif" src="/images/9/91/Red_Silk_Flower.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>3.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Katex_Blood_Tongue" title="Katex Blood Tongue">Katex Blood Tongue</a>, <a href="/wiki/Srezz_Yellow_Eyes" title="Srezz Yellow Eyes">Srezz Yellow Eyes</a>, <a href="/wiki/Utua_Stone_Sting" title="Utua Stone Sting">Utua Stone Sting</a>, <a href="/wiki/Yirkas_Blue_Scales" title="Yirkas Blue Scales">Yirkas Blue Scales</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Reins" title="Reins">Reins</a>
+</td>
+<td width="10%"><img alt="Reins.gif" src="/images/9/91/Reins.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Dark_Apprentice" title="Dark Apprentice">Dark Apprentice</a>, <a href="/wiki/Dark_Magician" title="Dark Magician">Dark Magician</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Scorpion_Sceptre" title="Scorpion Sceptre">Scorpion Sceptre</a>
+</td>
+<td width="10%"><img alt="Scorpion Sceptre.gif" src="/images/e/eb/Scorpion_Sceptre.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Horestis" title="Horestis">Horestis</a>, <a href="/wiki/Ancient_Spawn_of_Morgathla" title="Ancient Spawn of Morgathla">Ancient Spawn of Morgathla</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Slingshot" title="Slingshot">Slingshot</a>
+</td>
+<td width="10%"><img alt="Slingshot.gif" src="/images/0/0b/Slingshot.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Hunter" title="Hunter">Hunter</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Slug_Drug" title="Slug Drug">Slug Drug</a>
+</td>
+<td width="10%"><img alt="Slug Drug.gif" src="/images/5/58/Slug_Drug.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bane_Lord" title="Bane Lord">Bane Lord</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spectral_Horse_Tack" title="Spectral Horse Tack">Spectral Horse Tack</a>
+</td>
+<td width="10%"><img alt="Spectral Horse Tack.gif" src="/images/6/6f/Spectral_Horse_Tack.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>0.80</small>
+</td>
+<td width="36%"><small><a href="/wiki/Goshnar%27s_Cruelty" title="Goshnar's Cruelty">Goshnar's Cruelty</a>, <a href="/wiki/Goshnar%27s_Greed" title="Goshnar's Greed">Goshnar's Greed</a>, <a href="/wiki/Goshnar%27s_Hatred" title="Goshnar's Hatred">Goshnar's Hatred</a>, <a href="/wiki/Goshnar%27s_Malice" title="Goshnar's Malice">Goshnar's Malice</a>, <a href="/wiki/Goshnar%27s_Megalomania" title="Goshnar's Megalomania">Goshnar's Megalomania</a>, <a href="/wiki/Goshnar%27s_Spite" title="Goshnar's Spite">Goshnar's Spite</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spectral_Horseshoe" title="Spectral Horseshoe">Spectral Horseshoe</a>
+</td>
+<td width="10%"><img alt="Spectral Horseshoe.gif" src="/images/f/fe/Spectral_Horseshoe.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>1.20</small>
+</td>
+<td width="36%"><small><a href="/wiki/Goshnar%27s_Cruelty" title="Goshnar's Cruelty">Goshnar's Cruelty</a>, <a href="/wiki/Goshnar%27s_Greed" title="Goshnar's Greed">Goshnar's Greed</a>, <a href="/wiki/Goshnar%27s_Hatred" title="Goshnar's Hatred">Goshnar's Hatred</a>, <a href="/wiki/Goshnar%27s_Malice" title="Goshnar's Malice">Goshnar's Malice</a>, <a href="/wiki/Goshnar%27s_Megalomania" title="Goshnar's Megalomania">Goshnar's Megalomania</a>, <a href="/wiki/Goshnar%27s_Spite" title="Goshnar's Spite">Goshnar's Spite</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spectral_Saddle" title="Spectral Saddle">Spectral Saddle</a>
+</td>
+<td width="10%"><img alt="Spectral Saddle.gif" src="/images/b/b2/Spectral_Saddle.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.70</small>
+</td>
+<td width="36%"><small><a href="/wiki/Goshnar%27s_Cruelty" title="Goshnar's Cruelty">Goshnar's Cruelty</a>, <a href="/wiki/Goshnar%27s_Greed" title="Goshnar's Greed">Goshnar's Greed</a>, <a href="/wiki/Goshnar%27s_Hatred" title="Goshnar's Hatred">Goshnar's Hatred</a>, <a href="/wiki/Goshnar%27s_Malice" title="Goshnar's Malice">Goshnar's Malice</a>, <a href="/wiki/Goshnar%27s_Megalomania" title="Goshnar's Megalomania">Goshnar's Megalomania</a>, <a href="/wiki/Goshnar%27s_Spite" title="Goshnar's Spite">Goshnar's Spite</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spectral_Scrap_of_Cloth" title="Spectral Scrap of Cloth">Spectral Scrap of Cloth</a>
+</td>
+<td width="10%"><img alt="Spectral Scrap of Cloth.gif" src="/images/d/da/Spectral_Scrap_of_Cloth.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>3.50</small>
+</td>
+<td width="36%"><small><a href="/wiki/The_Pale_Worm" title="The Pale Worm">The Pale Worm</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spiritual_Horseshoe" title="Spiritual Horseshoe">Spiritual Horseshoe</a>
+</td>
+<td width="10%"><img alt="Spiritual Horseshoe.gif" src="/images/5/5c/Spiritual_Horseshoe.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>1.20</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bakragore" title="Bakragore">Bakragore</a>, <a href="/wiki/Chagorz" title="Chagorz">Chagorz</a>, <a href="/wiki/Ichgahal" title="Ichgahal">Ichgahal</a>, <a href="/wiki/Murcion" title="Murcion">Murcion</a>, <a href="/wiki/Vemiath" title="Vemiath">Vemiath</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sugar_Oat" title="Sugar Oat">Sugar Oat</a>
+</td>
+<td width="10%"><img alt="Sugar Oat.gif" src="/images/b/b4/Sugar_Oat.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Bane_Lord" title="Bane Lord">Bane Lord</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sweet_Smelling_Bait" title="Sweet Smelling Bait">Sweet Smelling Bait</a>
+</td>
+<td width="10%"><img alt="Sweet Smelling Bait.gif" src="/images/d/df/Sweet_Smelling_Bait.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Banshee" title="Banshee">Banshee</a>, <a href="/wiki/Deathbine" title="Deathbine">Deathbine</a>, <a href="/wiki/The_Old_Widow" title="The Old Widow">The Old Widow</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/The_Lion%27s_Heart" title="The Lion's Heart">The Lion's Heart</a>
+</td>
+<td width="10%"><img alt="The Lion's Heart.gif" src="/images/c/c9/The_Lion%27s_Heart.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/The_Regalia_of_Suon" title="The Regalia of Suon">The Regalia of Suon</a>
+</td>
+<td width="10%"><img alt="The Regalia of Suon.gif" src="/images/1/1e/The_Regalia_of_Suon.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>34.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tin_Key" title="Tin Key">Tin Key</a>
+</td>
+<td width="10%"><img alt="Tin Key.gif" src="/images/f/fe/Tin_Key.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/War_Golem" title="War Golem">War Golem</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Toy_Ball" title="Toy Ball">Toy Ball</a>
+</td>
+<td width="10%"><img alt="Toy Ball.gif" src="/images/3/30/Toy_Ball.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>1.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Turquoise_Tendril_Lantern" title="Turquoise Tendril Lantern">Turquoise Tendril Lantern</a>
+</td>
+<td width="10%"><img alt="Turquoise Tendril Lantern.gif" src="/images/c/c2/Turquoise_Tendril_Lantern.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>9.20</small>
+</td>
+<td width="36%"><small><a href="/wiki/Izcandar_the_Banished" title="Izcandar the Banished">Izcandar the Banished</a>, <a href="/wiki/Malofur_Mangrinder" title="Malofur Mangrinder">Malofur Mangrinder</a>, <a href="/wiki/Plagueroot" title="Plagueroot">Plagueroot</a>, <a href="/wiki/The_Nightmare_Beast" title="The Nightmare Beast">The Nightmare Beast</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Vibrant_Egg" title="Vibrant Egg">Vibrant Egg</a>
+</td>
+<td width="10%"><img alt="Vibrant Egg.gif" src="/images/6/66/Vibrant_Egg.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small><a href="/wiki/Montarias" title="Montarias">Doma</a> uma criatura específica.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>8.50</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wind-Up_Key" title="Wind-Up Key">Wind-Up Key</a>
+</td>
+<td width="10%"><img alt="Wind-Up Key.gif" src="/images/7/7b/Wind-Up_Key.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small><a href="/wiki/Retros_Treasure" title="Retros Treasure">Retros Treasure</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wind-Up_Loco" title="Wind-Up Loco">Wind-Up Loco</a>
+</td>
+<td width="10%"><img alt="Wind-Up Loco.gif" src="/images/d/de/Wind-Up_Loco.gif" decoding="async" width="32" height="32">
+</td>
+<td width="23%"><small>Nenhum.</small>
+</td>
+<td width="10%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%"><small>2.00</small>
+</td>
+<td width="36%"><small>Ninguém.</small>
+</td></tr></tbody><tfoot></tfoot></table>

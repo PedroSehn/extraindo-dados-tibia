@@ -1,0 +1,172 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Nome</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Lvl</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Voc</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Volume</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Bônus de Skill</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Proteção</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dropa de</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Alicorn_Quiver" title="Alicorn Quiver">Alicorn Quiver</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Alicorn_Quiver.gif" class="image fancybox"><img alt="Alicorn Quiver.gif" src="/images/7/71/Alicorn_Quiver.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%">12
+</td>
+<td width="20%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="20%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>20.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Magma_Bubble" title="Magma Bubble">Magma Bubble</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Blue_Quiver" title="Blue Quiver">Blue Quiver</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Blue_Quiver.gif" class="image fancybox"><img alt="Blue Quiver.gif" src="/images/6/63/Blue_Quiver.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%">6
+</td>
+<td width="20%"><small>Nenhum.</small>
+</td>
+<td width="20%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>17.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Candy-Coated_Quiver" title="Candy-Coated Quiver">Candy-Coated Quiver</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Candy-Coated_Quiver.gif" class="image fancybox"><img alt="Candy-Coated Quiver.gif" src="/images/9/92/Candy-Coated_Quiver.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%">8
+</td>
+<td width="20%"><small>Nenhum.</small>
+</td>
+<td width="20%"><small><a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +2%</small>
+</td>
+<td width="5%"><small>18.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Sugar_Daddy" title="Sugar Daddy">Sugar Daddy</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Eldritch_Quiver" title="Eldritch Quiver">Eldritch Quiver</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Eldritch_Quiver.gif" class="image fancybox"><img alt="Eldritch Quiver.gif" src="/images/9/94/Eldritch_Quiver.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%">8
+</td>
+<td width="20%"><small>Nenhum.</small>
+</td>
+<td width="20%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>22.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/The_Brainstealer" title="The Brainstealer">The Brainstealer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Jungle_Quiver" title="Jungle Quiver">Jungle Quiver</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Jungle_Quiver.gif" class="image fancybox"><img alt="Jungle Quiver.gif" src="/images/c/c9/Jungle_Quiver.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>150</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%">8
+</td>
+<td width="20%"><small>Nenhum.</small>
+</td>
+<td width="20%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>18.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ratmiral_Blackwhiskers" title="Ratmiral Blackwhiskers">Ratmiral Blackwhiskers</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Naga_Quiver" title="Naga Quiver">Naga Quiver</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Naga_Quiver.gif" class="image fancybox"><img alt="Naga Quiver.gif" src="/images/7/78/Naga_Quiver.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%">8
+</td>
+<td width="20%"><small>Nenhum.</small>
+</td>
+<td width="20%"><small><a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +2%</small>
+</td>
+<td width="5%"><small>19.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Timira_the_Many-Headed" title="Timira the Many-Headed">Timira the Many-Headed</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Quiver" title="Quiver">Quiver</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Quiver.gif" class="image fancybox"><img alt="Quiver.gif" src="/images/2/2e/Quiver.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%">6
+</td>
+<td width="20%"><small>Nenhum.</small>
+</td>
+<td width="20%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>17.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Red_Quiver" title="Red Quiver">Red Quiver</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Red_Quiver.gif" class="image fancybox"><img alt="Red Quiver.gif" src="/images/f/f8/Red_Quiver.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%">6
+</td>
+<td width="20%"><small>Nenhum.</small>
+</td>
+<td width="20%"><small>Nenhuma.</small>
+</td>
+<td width="5%"><small>17.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr></tbody><tfoot></tfoot></table>

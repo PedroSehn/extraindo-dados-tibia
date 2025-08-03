@@ -1,0 +1,128 @@
+[
+    {
+        "Nome": "Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/69/Arrow.gif",
+        "Lvl": "0",
+        "Atq": "25",
+        "Dano_Elemental": "",
+        "Peso": "0.70",
+        "Dropa_de": "Dawnfly , Elf , Elf Arcanist , Elf Scout , Emerald Damselfly , Hero , Hunter , Omruc , Poacher , Salamander , Troll Champion , Troll Marauder , Woodling ."
+    },
+    {
+        "Nome": "Burst Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/bd/Burst_Arrow.gif",
+        "Lvl": "0",
+        "Atq": "27 Physical",
+        "Dano_Elemental": "",
+        "Peso": "0.90",
+        "Dropa_de": "Destroyer , Dragon , Elf Scout , Hunter , Omruc , Wyrm ."
+    },
+    {
+        "Nome": "Crystalline Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f4/Crystalline_Arrow.gif",
+        "Lvl": "90",
+        "Atq": "65",
+        "Dano_Elemental": "",
+        "Peso": "0.75",
+        "Dropa_de": "Crystalcrusher , Cave Devourer , Deathling Scout , Deathling Spellsinger , Enraged Crystal Golem , Magma Crawler , Melting Frozen Horror , Stone Devourer , Wiggler ."
+    },
+    {
+        "Nome": "Diamond Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/46/Diamond_Arrow.gif",
+        "Lvl": "150",
+        "Atq": "37",
+        "Dano_Elemental": "",
+        "Peso": "0.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Earth Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/02/Earth_Arrow.gif",
+        "Lvl": "20",
+        "Atq": "14 Physical",
+        "Dano_Elemental": "14 Earth",
+        "Peso": "0.70",
+        "Dropa_de": "Adult Goanna , Cobra Scout , Clay Guardian , Earth Elemental ."
+    },
+    {
+        "Nome": "Envenomed Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/90/Envenomed_Arrow.gif",
+        "Lvl": "70",
+        "Atq": "27 Physical",
+        "Dano_Elemental": "27 Earth",
+        "Peso": "0.70",
+        "Dropa_de": "Adult Goanna , Armadile , Hideous Fungus , Ink Blob , Young Goanna ."
+    },
+    {
+        "Nome": "Flaming Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/da/Flaming_Arrow.gif",
+        "Lvl": "20",
+        "Atq": "14 Physical",
+        "Dano_Elemental": "14 Fire",
+        "Peso": "0.70",
+        "Dropa_de": "Annihilon , Blazing Fire Elemental , Firestarter , Manticore , Ogre Rowdy , Thornfire Wolf ."
+    },
+    {
+        "Nome": "Flash Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8c/Flash_Arrow.gif",
+        "Lvl": "20",
+        "Atq": "14 Physical",
+        "Dano_Elemental": "14 Energy",
+        "Peso": "0.70",
+        "Dropa_de": "Charged Energy Elemental , Energuardian Of Tales , Energy Elemental , High Voltage Elemental , Knowledge Elemental , Massive Energy Elemental ."
+    },
+    {
+        "Nome": "Onyx Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/3f/Onyx_Arrow.gif",
+        "Lvl": "40",
+        "Atq": "38",
+        "Dano_Elemental": "",
+        "Peso": "0.70",
+        "Dropa_de": "Demodras , Falcon Knight , Falcon Paladin , Golgordan , Grand Chaplain Gaunder , Grand Commander Soeren , Juggernaut , Latrivan , Omruc , Plaguesmith ."
+    },
+    {
+        "Nome": "Poison Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/62/Poison_Arrow.gif",
+        "Lvl": "0",
+        "Atq": "23",
+        "Dano_Elemental": "",
+        "Peso": "0.80",
+        "Dropa_de": "Cave Spider , Dawnfly , Dworc Venomsniper , Elf Scout , Exotic Cave Spider , Giant Spider , Hunter , Necromancer , Necromancer Servant , Omruc , Poacher , Troll-Trained Salamander ."
+    },
+    {
+        "Nome": "Shiver Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/16/Shiver_Arrow.gif",
+        "Lvl": "20",
+        "Atq": "14 Physical",
+        "Dano_Elemental": "14 Ice",
+        "Peso": "0.70",
+        "Dropa_de": "Crazed Winter Rearguard , Crystal Wolf , Seacrest Serpent , Slick Water Elemental ."
+    },
+    {
+        "Nome": "Simple Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/2d/Simple_Arrow.gif",
+        "Lvl": "0",
+        "Atq": "20",
+        "Dano_Elemental": "",
+        "Peso": "0.60",
+        "Dropa_de": "Dawnfly , Troll-Trained Salamander ."
+    },
+    {
+        "Nome": "Sniper Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/2e/Sniper_Arrow.gif",
+        "Lvl": "20",
+        "Atq": "28",
+        "Dano_Elemental": "",
+        "Peso": "0.70",
+        "Dropa_de": "Braindeath , Elder Bonelord , Crystal Spider , Gralvalon , Hero , Renegade Knight , Vile Grandmaster ."
+    },
+    {
+        "Nome": "Tarsal Arrow",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/d7/Tarsal_Arrow.gif",
+        "Lvl": "30",
+        "Atq": "33",
+        "Dano_Elemental": "",
+        "Peso": "0.70",
+        "Dropa_de": "Kollos ."
+    }
+]

@@ -1,0 +1,176 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Nome</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Lvl</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Voc</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Arm</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Cargas</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Duração (min)</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Atributos</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Bônus</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Proteção</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dropa de</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Enchanted_Merudri_Brooch" title="Enchanted Merudri Brooch">Enchanted Merudri Brooch</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Enchanted_Merudri_Brooch.gif" class="image fancybox"><img alt="Enchanted Merudri Brooch.gif" src="/images/6/62/Enchanted_Merudri_Brooch.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>220</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>120</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +3, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="10%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +4%, <a href="/wiki/Fire_Damage" title="Fire Damage">Fire</a> +15%</small>
+</td>
+<td width="5%"><small>4.50</small>
+</td>
+<td width="16%"><small><a href="/wiki/Ravenous_Hunger" title="Ravenous Hunger">Ravenous Hunger</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Enchanted_Pendulet" title="Enchanted Pendulet">Enchanted Pendulet</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Enchanted_Pendulet.gif" class="image fancybox"><img alt="Enchanted Pendulet.gif" src="/images/1/1c/Enchanted_Pendulet.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>120</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="10%"><small><a href="/wiki/Energy_Damage" title="Energy Damage">Energy</a> +18%, <a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +5%</small>
+</td>
+<td width="5%"><small>6.50</small>
+</td>
+<td width="16%"><small><a href="/wiki/Faceless_Bane" title="Faceless Bane">Faceless Bane</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Enchanted_Sleep_Shawl" title="Enchanted Sleep Shawl">Enchanted Sleep Shawl</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Enchanted_Sleep_Shawl.gif" class="image"><img alt="Enchanted Sleep Shawl.gif" src="/images/6/66/Enchanted_Sleep_Shawl.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>180</small>
+</td>
+<td width="8%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Distance_Fighting" title="Distance Fighting">Distance Fighting</a> +3</small>
+</td>
+<td width="10%"><small><a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +24%, <a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +7%</small>
+</td>
+<td width="5%"><small>4.30</small>
+</td>
+<td width="16%"><small><a href="/wiki/The_Nightmare_Beast" title="The Nightmare Beast">The Nightmare Beast</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Enchanted_Theurgic_Amulet" title="Enchanted Theurgic Amulet">Enchanted Theurgic Amulet</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Enchanted_Theurgic_Amulet.gif" class="image"><img alt="Enchanted Theurgic Amulet.gif" src="/images/8/8d/Enchanted_Theurgic_Amulet.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>220</small>
+</td>
+<td width="8%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a> and <a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>120</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +3</small>
+</td>
+<td width="10%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +3%, <a href="/wiki/Earth_Damage" title="Earth Damage">Earth</a> +14%</small>
+</td>
+<td width="5%"><small>5.00</small>
+</td>
+<td width="16%"><small><a href="/wiki/Bragrumol" title="Bragrumol">Bragrumol</a>, <a href="/wiki/Mozradek" title="Mozradek">Mozradek</a>, <a href="/wiki/Urmahlullu_the_Weakened" title="Urmahlullu the Weakened">Urmahlullu the Weakened</a>, <a href="/wiki/Xogixath" title="Xogixath">Xogixath</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Enchanted_Turtle_Amulet" title="Enchanted Turtle Amulet">Enchanted Turtle Amulet</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Enchanted_Turtle_Amulet.gif" class="image"><img alt="Enchanted Turtle Amulet.gif" src="/images/e/ef/Enchanted_Turtle_Amulet.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Knight" title="Knight">Knights</a></small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>120</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Sword_Fighting" title="Sword Fighting">Sword Fighting</a> +3, <a href="/wiki/Club_Fighting" title="Club Fighting">Club Fighting</a> +3, <a href="/wiki/Axe_Fighting" title="Axe Fighting">Axe Fighting</a> +3</small>
+</td>
+<td width="10%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +7%, <a href="/wiki/Ice_Damage" title="Ice Damage">Ice</a> +15%</small>
+</td>
+<td width="5%"><small>4.80</small>
+</td>
+<td width="16%"><small><a href="/wiki/Timira_the_Many-Headed" title="Timira the Many-Headed">Timira the Many-Headed</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Enchanted_Werewolf_Amulet" title="Enchanted Werewolf Amulet">Enchanted Werewolf Amulet</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Enchanted_Werewolf_Amulet.gif" class="image"><img alt="Enchanted Werewolf Amulet.gif" src="/images/7/7e/Enchanted_Werewolf_Amulet.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>-</small>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="10%"><small>Fornece uma pequena quantidade de luz.</small>
+</td>
+<td width="10%"><small>Nenhum.</small>
+</td>
+<td width="10%"><small><a href="/wiki/Physical_Damage" title="Physical Damage">Physical</a> +6%</small>
+</td>
+<td width="5%"><small>5.50</small>
+</td>
+<td width="16%"><small>Ninguém.</small>
+</td></tr></tbody><tfoot></tfoot></table>

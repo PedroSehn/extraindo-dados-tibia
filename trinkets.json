@@ -1,0 +1,51 @@
+[
+  {
+    "Nome": "Bone Fiddle",
+    "Imagem_URL": null,
+    "Atributos": "Arm: 0, Life Drain +5%",
+    "Peso": "38.00 oz",
+    "Dropa_de": "Ninguém."
+  },
+  {
+    "Nome": "Conch Shell Horn",
+    "Imagem_URL": null,
+    "Atributos": "Arm: 0, Ice +2%",
+    "Peso": "1.50 oz",
+    "Dropa_de": "Ninguém."
+  },
+  {
+    "Nome": "Lit Torch",
+    "Imagem_URL": null,
+    "Atributos": "Arm: 0, Holy +2%",
+    "Peso": "5.00 oz",
+    "Dropa_de": "Ninguém."
+  },
+  {
+    "Nome": "Moon Mirror",
+    "Imagem_URL": null,
+    "Atributos": "Arm: 0, Death +5%",
+    "Peso": "2.00 oz",
+    "Dropa_de": "Ninguém."
+  },
+  {
+    "Nome": "Scarab Ocarina",
+    "Imagem_URL": null,
+    "Atributos": "Arm: 0, Earth +2%",
+    "Peso": "1.20 oz",
+    "Dropa_de": "Ninguém."
+  },
+  {
+    "Nome": "Starlight Vial",
+    "Imagem_URL": null,
+    "Atributos": "Arm: 0, Mana Drain +5%",
+    "Peso": "2.00 oz",
+    "Dropa_de": "Ninguém."
+  },
+  {
+    "Nome": "Sun Catcher",
+    "Imagem_URL": null,
+    "Atributos": "Arm: 0, Fire +5%",
+    "Peso": "2.00 oz",
+    "Dropa_de": "Ninguém."
+  }
+]

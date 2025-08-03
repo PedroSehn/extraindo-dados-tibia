@@ -1,0 +1,987 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Nome</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Lvl</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Voc</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Mãos</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Atq</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Elemental Bond</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Def</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Mod. de Defesa</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Bônus</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Slots</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Tier</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Dropa de</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Amber_Kusarigama" title="Amber Kusarigama">Amber Kusarigama</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Amber_Kusarigama.gif" class="image fancybox"><img alt="Amber Kusarigama.gif" src="/images/4/4a/Amber_Kusarigama.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>330</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>46</small>
+</td>
+<td width="5%"><small>Physical</small>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>86.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/The_Rootkraken" title="The Rootkraken">The Rootkraken</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bambus_Jo" title="Bambus Jo">Bambus Jo</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bambus_Jo.gif" class="image fancybox"><img alt="Bambus Jo.gif" src="/images/e/e3/Bambus_Jo.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>150</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>42</small>
+</td>
+<td width="5%"><small>Earth</small>
+</td>
+<td width="5%"><small>19</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>38.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ratmiral_Blackwhiskers" title="Ratmiral Blackwhiskers">Ratmiral Blackwhiskers</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cobra_Bo" title="Cobra Bo">Cobra Bo</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cobra_Bo.gif" class="image fancybox"><img alt="Cobra Bo.gif" src="/images/6/62/Cobra_Bo.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>44</small>
+</td>
+<td width="5%"><small>Earth</small>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>56.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Scarlett_Etzel" title="Scarlett Etzel">Scarlett Etzel</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crude_Umbral_Katar" title="Crude Umbral Katar">Crude Umbral Katar</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Crude_Umbral_Katar.gif" class="image fancybox"><img alt="Crude Umbral Katar.gif" src="/images/e/ee/Crude_Umbral_Katar.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>75</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>41</small>
+</td>
+<td width="5%"><small>Physical</small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>79.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Depth_Claws" title="Depth Claws">Depth Claws</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Depth_Claws.gif" class="image fancybox"><img alt="Depth Claws.gif" src="/images/5/56/Depth_Claws.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>135</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>42</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>64.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Ancient_Spawn_of_Morgathla" title="Ancient Spawn of Morgathla">Ancient Spawn of Morgathla</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Drachaku" title="Drachaku">Drachaku</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Drachaku.gif" class="image fancybox"><img alt="Drachaku.gif" src="/images/f/fd/Drachaku.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>90</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>41</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>60.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Soul_of_Dragonking_Zyrtarch" title="Soul of Dragonking Zyrtarch">Soul of Dragonking Zyrtarch</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Draining_Inferniarch_Claws" title="Draining Inferniarch Claws">Draining Inferniarch Claws</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Draining_Inferniarch_Claws.gif" class="image fancybox"><img alt="Draining Inferniarch Claws.gif" src="/images/9/96/Draining_Inferniarch_Claws.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>45</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>21</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>84.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Eldritch_Crescent_Moon_Spade" title="Eldritch Crescent Moon Spade">Eldritch Crescent Moon Spade</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Eldritch_Crescent_Moon_Spade.gif" class="image fancybox"><img alt="Eldritch Crescent Moon Spade.gif" src="/images/6/69/Eldritch_Crescent_Moon_Spade.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>44</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +2, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>88.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/The_Brainstealer" title="The Brainstealer">The Brainstealer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Falcon_Sai" title="Falcon Sai">Falcon Sai</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Falcon_Sai.gif" class="image fancybox"><img alt="Falcon Sai.gif" src="/images/4/4b/Falcon_Sai.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>45</small>
+</td>
+<td width="5%"><small>Physical</small>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>82.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Grand_Master_Oberon" title="Grand Master Oberon">Grand Master Oberon</a>, <a href="/wiki/Grand_Chaplain_Gaunder" title="Grand Chaplain Gaunder">Grand Chaplain Gaunder</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fists_of_Enlightenment" title="Fists of Enlightenment">Fists of Enlightenment</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Fists_of_Enlightenment.gif" class="image fancybox"><img alt="Fists of Enlightenment.gif" src="/images/2/2f/Fists_of_Enlightenment.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>24</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>14</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>18.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gilded_Eldritch_Crescent_Moon_Spade" title="Gilded Eldritch Crescent Moon Spade">Gilded Eldritch Crescent Moon Spade</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Gilded_Eldritch_Crescent_Moon_Spade.gif" class="image fancybox"><img alt="Gilded Eldritch Crescent Moon Spade.gif" src="/images/5/5e/Gilded_Eldritch_Crescent_Moon_Spade.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>44</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>20</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +2, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>86.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/The_Brainstealer" title="The Brainstealer">The Brainstealer</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Grand_Sanguine_Claws" title="Grand Sanguine Claws">Grand Sanguine Claws</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Grand_Sanguine_Claws.gif" class="image fancybox"><img alt="Grand Sanguine Claws.gif" src="/images/3/38/Grand_Sanguine_Claws.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>600</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>47</small>
+</td>
+<td width="5%"><small>Earth</small>
+</td>
+<td width="5%"><small>21</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>69.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Bakragore" title="Bakragore">Bakragore</a> dentro de uma <a href="/wiki/Bag_You_Covet" title="Bag You Covet">Bag You Covet</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Inferniarch_Claws" title="Inferniarch Claws">Inferniarch Claws</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Inferniarch_Claws.gif" class="image fancybox"><img alt="Inferniarch Claws.gif" src="/images/8/8f/Inferniarch_Claws.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>45</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>21</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>84.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Arbaziloth" title="Arbaziloth">Arbaziloth</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Jo_Staff" title="Jo Staff">Jo Staff</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Jo_Staff.gif" class="image fancybox"><img alt="Jo Staff.gif" src="/images/e/ea/Jo_Staff.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>21.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Light_Jo_Staff" title="Light Jo Staff">Light Jo Staff</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Light_Jo_Staff.gif" class="image fancybox"><img alt="Light Jo Staff.gif" src="/images/4/48/Light_Jo_Staff.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>10</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>6</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>17.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lion_Claws" title="Lion Claws">Lion Claws</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Lion_Claws.gif" class="image fancybox"><img alt="Lion Claws.gif" src="/images/d/d4/Lion_Claws.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>270</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>45</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>19</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>78.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Drume" title="Drume">Drume</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Naga_Katar" title="Naga Katar">Naga Katar</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Naga_Katar.gif" class="image fancybox"><img alt="Naga Katar.gif" src="/images/6/6e/Naga_Katar.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>45</small>
+</td>
+<td width="5%"><small>Earth</small>
+</td>
+<td width="5%"><small>21</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +3, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>60.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Timira_the_Many-Headed" title="Timira the Many-Headed">Timira the Many-Headed</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nunchaku" title="Nunchaku">Nunchaku</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Nunchaku.gif" class="image fancybox"><img alt="Nunchaku.gif" src="/images/c/c8/Nunchaku.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>40</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>32</small>
+</td>
+<td width="5%"><small>Earth</small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>25.00</small>
+</td>
+<td width="16%" align="left"><small>Desconhecido.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nunchaku_of_Destruction" title="Nunchaku of Destruction">Nunchaku of Destruction</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Nunchaku_of_Destruction.gif" class="image fancybox"><img alt="Nunchaku of Destruction.gif" src="/images/d/d4/Nunchaku_of_Destruction.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>200</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>42</small>
+</td>
+<td width="5%"><small>Physical</small>
+</td>
+<td width="5%"><small>17</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>70.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nunchaku_of_Enlightenment" title="Nunchaku of Enlightenment">Nunchaku of Enlightenment</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Nunchaku_of_Enlightenment.gif" class="image fancybox"><img alt="Nunchaku of Enlightenment.gif" src="/images/9/95/Nunchaku_of_Enlightenment.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>50</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>34</small>
+</td>
+<td width="5%"><small>Physical</small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>29.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pair_of_Iron_Fists" title="Pair of Iron Fists">Pair of Iron Fists</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Pair_of_Iron_Fists.gif" class="image fancybox"><img alt="Pair of Iron Fists.gif" src="/images/8/8a/Pair_of_Iron_Fists.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>80</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>40</small>
+</td>
+<td width="5%"><small>Physical</small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>45.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Lost_Basher" title="Lost Basher">Lost Basher</a>, <a href="/wiki/Ogre_Ruffian" title="Ogre Ruffian">Ogre Ruffian</a>, <a href="/wiki/Orclops_Doomhauler" title="Orclops Doomhauler">Orclops Doomhauler</a>, <a href="/wiki/Orclops_Ravager" title="Orclops Ravager">Orclops Ravager</a>, <a href="/wiki/Shulgrax" title="Shulgrax">Shulgrax</a>, <a href="/wiki/The_False_God" title="The False God">The False God</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pair_of_Monk_Fists" title="Pair of Monk Fists">Pair of Monk Fists</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Pair_of_Monk_Fists.gif" class="image fancybox"><img alt="Pair of Monk Fists.gif" src="/images/3/3d/Pair_of_Monk_Fists.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>10</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>22</small>
+</td>
+<td width="5%"><small>Physical</small>
+</td>
+<td width="5%"><small>14</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>12.00</small>
+</td>
+<td width="16%" align="left"><small>Desconhecido.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rending_Inferniarch_Claws" title="Rending Inferniarch Claws">Rending Inferniarch Claws</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Rending_Inferniarch_Claws.gif" class="image fancybox"><img alt="Rending Inferniarch Claws.gif" src="/images/5/5e/Rending_Inferniarch_Claws.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>45</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>21</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>84.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sai" title="Sai">Sai</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sai.gif" class="image fancybox"><img alt="Sai.gif" src="/images/d/d7/Sai.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>60</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>38</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>49.00</small>
+</td>
+<td width="16%" align="left"><small>Desconhecido.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sai_of_Enlightenment" title="Sai of Enlightenment">Sai of Enlightenment</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sai_of_Enlightenment.gif" class="image fancybox"><img alt="Sai of Enlightenment.gif" src="/images/5/54/Sai_of_Enlightenment.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>100</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>42</small>
+</td>
+<td width="5%"><small>Earth</small>
+</td>
+<td width="5%"><small>16</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>59.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sanguine_Claws" title="Sanguine Claws">Sanguine Claws</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sanguine_Claws.gif" class="image fancybox"><img alt="Sanguine Claws.gif" src="/images/2/21/Sanguine_Claws.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>600</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>47</small>
+</td>
+<td width="5%"><small>Earth</small>
+</td>
+<td width="5%"><small>21</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +2</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>71.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Simple_Jo_Staff" title="Simple Jo Staff">Simple Jo Staff</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Simple_Jo_Staff.gif" class="image fancybox"><img alt="Simple Jo Staff.gif" src="/images/e/e5/Simple_Jo_Staff.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>12</small>
+</td>
+<td width="5%"><small>Earth</small>
+</td>
+<td width="5%"><small>8</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +1</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>18.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Emerald_Damselfly" title="Emerald Damselfly">Emerald Damselfly</a>, <a href="/wiki/Dawnfly" title="Dawnfly">Dawnfly</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Siphoning_Inferniarch_Claws" title="Siphoning Inferniarch Claws">Siphoning Inferniarch Claws</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Siphoning_Inferniarch_Claws.gif" class="image fancybox"><img alt="Siphoning Inferniarch Claws.gif" src="/images/9/90/Siphoning_Inferniarch_Claws.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>300</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>45</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>21</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>84.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Soulkamas" title="Soulkamas">Soulkamas</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Soulkamas.gif" class="image fancybox"><img alt="Soulkamas.gif" src="/images/9/9a/Soulkamas.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>400</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>46</small>
+</td>
+<td width="5%"><small>Energy</small>
+</td>
+<td width="5%"><small>21</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +4, <a href="/wiki/Magic_Level" title="Magic Level">Magic Level</a> +1</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>84.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Staff" title="Staff">Staff</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Staff.gif" class="image fancybox"><img alt="Staff.gif" src="/images/0/0e/Staff.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="8%"><small>Todas</small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>23</small>
+</td>
+<td width="5%"><small>Earth</small>
+</td>
+<td width="5%"><small>14</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>38.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Barbarian_Brutetamer" title="Barbarian Brutetamer">Barbarian Brutetamer</a>, <a href="/wiki/Foam_Stalker" title="Foam Stalker">Foam Stalker</a>, <a href="/wiki/Monk" title="Monk">Monk</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Traditional_Sai" title="Traditional Sai">Traditional Sai</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Traditional_Sai.gif" class="image fancybox"><img alt="Traditional Sai.gif" src="/images/8/8b/Traditional_Sai.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>30</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>28</small>
+</td>
+<td width="5%"><small>Physical</small>
+</td>
+<td width="5%"><small>15</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small>Nenhum</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>50.00</small>
+</td>
+<td width="16%" align="left"><small><a href="/wiki/Black_Vixen" title="Black Vixen">Black Vixen</a>, <a href="/wiki/Choking_Fear" title="Choking Fear">Choking Fear</a>, <a href="/wiki/Darkfang" title="Darkfang">Darkfang</a>, <a href="/wiki/Deep_Terror" title="Deep Terror">Deep Terror</a>, <a href="/wiki/Ethershreck" title="Ethershreck">Ethershreck</a>, <a href="/wiki/Frazzlemaw" title="Frazzlemaw">Frazzlemaw</a>, <a href="/wiki/Guzzlemaw" title="Guzzlemaw">Guzzlemaw</a>, <a href="/wiki/Hemming" title="Hemming">Hemming</a>, <a href="/wiki/Paiz_the_Pauperizer" title="Paiz the Pauperizer">Paiz the Pauperizer</a>, <a href="/wiki/Plagirath" title="Plagirath">Plagirath</a>, <a href="/wiki/The_Bloodweb" title="The Bloodweb">The Bloodweb</a>, <a href="/wiki/Weakened_Frazzlemaw" title="Weakened Frazzlemaw">Weakened Frazzlemaw</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Umbral_Katar" title="Umbral Katar">Umbral Katar</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Umbral_Katar.gif" class="image fancybox"><img alt="Umbral Katar.gif" src="/images/6/69/Umbral_Katar.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>120</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>42</small>
+</td>
+<td width="5%"><small>Physical</small>
+</td>
+<td width="5%"><small>17</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +2</small>
+</td>
+<td width="5%"><small>1</small>
+</td>
+<td width="5%"><small>3</small>
+</td>
+<td width="5%"><small>74.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Umbral_Master_Katar" title="Umbral Master Katar">Umbral Master Katar</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Umbral_Master_Katar.gif" class="image fancybox"><img alt="Umbral Master Katar.gif" src="/images/d/d9/Umbral_Master_Katar.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%"><small>250</small>
+</td>
+<td width="8%"><small><a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><small>Duas</small>
+</td>
+<td width="5%"><small>43</small>
+</td>
+<td width="5%"><small>Physical</small>
+</td>
+<td width="5%"><small>18</small>
+</td>
+<td width="5%"><small>0</small>
+</td>
+<td width="10%"><small><a href="/wiki/Fist_Fighting" title="Fist Fighting">Fist Fighting</a> +3</small>
+</td>
+<td width="5%"><small>2</small>
+</td>
+<td width="5%"><small>4</small>
+</td>
+<td width="5%"><small>69.00</small>
+</td>
+<td width="16%" align="left"><small>Ninguém.</small>
+</td></tr></tbody><tfoot></tfoot></table>

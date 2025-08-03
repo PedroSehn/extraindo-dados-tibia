@@ -1,0 +1,666 @@
+[
+    {
+        "Nome": "Arena Badge",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/14/Arena_Badge.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Arena Badge (Réplica)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b7/Arena_Badge_%28R%C3%A9plica%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Behemoth Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8e/Behemoth_Trophy.gif",
+        "Atributos": "Pode ser pendurado na parede.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Behemoth , Stonecracker ."
+    },
+    {
+        "Nome": "Birthday Cup",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/57/Birthday_Cup.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "38.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Black Pit Demon",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/73/Black_Pit_Demon.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Blue Pit Demon",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8a/Blue_Pit_Demon.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Blue Shark Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/01/Blue_Shark_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Bolfrim's Golden Bug Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/95/Bolfrim%27s_Golden_Bug_Trophy.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "12.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Bonebeast Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f9/Bonebeast_Trophy.gif",
+        "Atributos": "Pode ser pendurado.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Bonebeast , Ribstride ."
+    },
+    {
+        "Nome": "Bronze Cup (Ascension)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/08/Bronze_Cup_%28Ascension%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Bronze Cup (Honour)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/59/Bronze_Cup_%28Honour%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Bronze Cup (Radiance)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/52/Bronze_Cup_%28Radiance%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Bronze Cup (Triumph)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/2b/Bronze_Cup_%28Triumph%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Bronze Cup (Valour)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/79/Bronze_Cup_%28Valour%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Bronze Cup of Honour",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/26/Bronze_Cup_of_Honour.gif",
+        "Atributos": "Pode ser escrito.",
+        "Agrupável": "",
+        "Peso": "16.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Bronze Trophy of Excellence",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/99/Bronze_Trophy_of_Excellence.gif",
+        "Atributos": "Pode ser escrito",
+        "Agrupável": "",
+        "Peso": "13.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Bronze Warrior Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/0c/Bronze_Warrior_Trophy.gif",
+        "Atributos": "Pode ser escrito.",
+        "Agrupável": "",
+        "Peso": "18.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Brown Pit Demon",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/e4/Brown_Pit_Demon.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Brown Shark Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a7/Brown_Shark_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Champion's Cup",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/d4/Champion%27s_Cup.gif",
+        "Atributos": "Pode ser escrito.",
+        "Agrupável": "",
+        "Peso": "18.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Cyclops Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b2/Cyclops_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Cyclops , Cyclops Drone , Cyclops Smith , The Old Whopper ."
+    },
+    {
+        "Nome": "Deer Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/36/Deer_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes .",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Smuggler , Hunter ."
+    },
+    {
+        "Nome": "Delany's Golden Bug Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/17/Delany%27s_Golden_Bug_Trophy.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "12.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Demon Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/44/Demon_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Angry Demon , Demon , Rage Squid ."
+    },
+    {
+        "Nome": "Disgusting Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/84/Disgusting_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "7.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Dragon Lord Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/36/Dragon_Lord_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Dragon Lord ."
+    },
+    {
+        "Nome": "Dragon Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1f/Dragon_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Dragon ."
+    },
+    {
+        "Nome": "Draken Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/3d/Draken_Trophy.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "6.00",
+        "Dropa_de": "Draken Spellweaver ."
+    },
+    {
+        "Nome": "Elven Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/ed/Elven_Trophy.gif",
+        "Atributos": "Pode ser escrito.",
+        "Agrupável": "",
+        "Peso": "9.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Gilded Birthday Cup",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f9/Gilded_Birthday_Cup.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "38.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Gold Cup (Ascension)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/ce/Gold_Cup_%28Ascension%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Gold Cup (Honour)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a5/Gold_Cup_%28Honour%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Gold Cup (Radiance)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/89/Gold_Cup_%28Radiance%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Gold Cup (Triumph)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/7b/Gold_Cup_%28Triumph%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Gold Cup (Valour)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/be/Gold_Cup_%28Valour%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Golden Fafnar Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b1/Golden_Fafnar_Trophy.gif",
+        "Atributos": "Fornece uma pequena quantidade de luz.",
+        "Agrupável": "",
+        "Peso": "9.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Golden Shark Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/e1/Golden_Shark_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Golden Trophy of Excellence",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/cc/Golden_Trophy_of_Excellence.gif",
+        "Atributos": "Pode ser escrito.",
+        "Agrupável": "",
+        "Peso": "13.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Golden Warrior Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/d2/Golden_Warrior_Trophy.gif",
+        "Atributos": "Pode ser escrito.",
+        "Agrupável": "",
+        "Peso": "19.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Green Pit Demon",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/ee/Green_Pit_Demon.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Hammerhead Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fe/Hammerhead_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Lion Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/12/Lion_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Hunter ."
+    },
+    {
+        "Nome": "Lizard Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/e7/Lizard_Trophy.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "5.50",
+        "Dropa_de": "Lizard Legionnaire ."
+    },
+    {
+        "Nome": "Marlin Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/51/Marlin_Trophy.gif",
+        "Atributos": "Pode ser pendurado.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Minotaur Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/ba/Minotaur_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes .",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Execowtioner , Minotaur Amazon , Minotaur Cult Follower , Minotaur Cult Prophet , Minotaur Cult Zealot , Minotaur Guard , Minotaur Hunter , Minotaur Invader , Moohtant , Mooh'Tah Warrior , Worm Priestess ."
+    },
+    {
+        "Nome": "Orc Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/69/Orc_Trophy.gif",
+        "Atributos": "Pode ser pendurado nas paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Bibby Bloodbath , Orc Warlord ."
+    },
+    {
+        "Nome": "Pantibian Amphora",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/10/Pantibian_Amphora.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "25.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Phoenix Statue",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/6a/Phoenix_Statue.gif",
+        "Atributos": "Fornece uma pequena quantidade de luz vermelha.",
+        "Agrupável": "",
+        "Peso": "20.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Pigeon Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/96/Pigeon_Trophy.gif",
+        "Atributos": "Pode ser pendurado na parede.",
+        "Agrupável": "",
+        "Peso": "4.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Red Pit Demon",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/09/Red_Pit_Demon.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Sea Serpent Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/ae/Sea_Serpent_Trophy.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Leviathan ."
+    },
+    {
+        "Nome": "Shark Jaws",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/2c/Shark_Jaws.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Silver Cup (Ascension)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/9d/Silver_Cup_%28Ascension%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Silver Cup (Honour)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/3e/Silver_Cup_%28Honour%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Silver Cup (Radiance)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/ba/Silver_Cup_%28Radiance%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Silver Cup (Triumph)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a9/Silver_Cup_%28Triumph%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Silver Cup (Valour)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/93/Silver_Cup_%28Valour%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Silver Cup of Honour",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f5/Silver_Cup_of_Honour.gif",
+        "Atributos": "Pode ser escrito.",
+        "Agrupável": "",
+        "Peso": "16.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Silver Fafnar Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/13/Silver_Fafnar_Trophy.gif",
+        "Atributos": "Fornece uma pequena quantidade de luz.",
+        "Agrupável": "",
+        "Peso": "9.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Silver Trophy of Excellence",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/4c/Silver_Trophy_of_Excellence.gif",
+        "Atributos": "Pode ser escrito.",
+        "Agrupável": "",
+        "Peso": "13.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Silver Warrior Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/51/Silver_Warrior_Trophy.gif",
+        "Atributos": "Pode ser escrito.",
+        "Agrupável": "",
+        "Peso": "18.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Siramal's Golden Bug Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/72/Siramal%27s_Golden_Bug_Trophy.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "12.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Snake God Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a0/Snake_God_Trophy.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Souleater Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/ce/Souleater_Trophy.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Souleater ."
+    },
+    {
+        "Nome": "Statue of Abyssador",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/db/Statue_of_Abyssador.gif",
+        "Atributos": "Nenhum",
+        "Agrupável": "",
+        "Peso": "24.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Statue of Deathstrike",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/62/Statue_of_Deathstrike.gif",
+        "Atributos": "Nenhum",
+        "Agrupável": "",
+        "Peso": "21.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Statue of Devovorga",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/36/Statue_of_Devovorga.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "18.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Statue of Gnomevil",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/62/Statue_of_Gnomevil.gif",
+        "Atributos": "Nenhum",
+        "Agrupável": "",
+        "Peso": "22.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Stripped Shark Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/05/Stripped_Shark_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "0",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "The Famous Golden Bug",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/44/The_Famous_Golden_Bug.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "12.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Trophy of Feroxa",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/ab/Trophy_of_Feroxa.gif",
+        "Atributos": "Pode ser pendurado nas paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Trophy of Jaul",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/6c/Trophy_of_Jaul.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Trophy of Obujos",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/82/Trophy_of_Obujos.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Trophy of Tanjis",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/bf/Trophy_of_Tanjis.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Werebadger Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/29/Werebadger_Trophy.gif",
+        "Atributos": "Pode ser pendurado nas paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Sharpclaw , Werebadger ."
+    },
+    {
+        "Nome": "Werebear Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/22/Werebear_Trophy.gif",
+        "Atributos": "Pode ser pendurado nas paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Shadowpelt , Werebear ."
+    },
+    {
+        "Nome": "Wereboar Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1f/Wereboar_Trophy.gif",
+        "Atributos": "Pode ser pendurado nas paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Bloodback , Wereboar ."
+    },
+    {
+        "Nome": "Werecrocodile Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b0/Werecrocodile_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Werecrocodile ."
+    },
+    {
+        "Nome": "Werefox Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/82/Werefox_Trophy.gif",
+        "Atributos": "Pode ser pendurado nas paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Black Vixen , Werefox ."
+    },
+    {
+        "Nome": "Werehyaena Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/dd/Werehyaena_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Katex Blood Tongue , Werehyaena , Werehyaena Shaman ."
+    },
+    {
+        "Nome": "Werepanther Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8c/Werepanther_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Werepanther ."
+    },
+    {
+        "Nome": "Weretiger Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/75/Weretiger_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Weretiger ."
+    },
+    {
+        "Nome": "Wolf Trophy",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/0f/Wolf_Trophy.gif",
+        "Atributos": "Pode ser pendurado em paredes.",
+        "Agrupável": "",
+        "Peso": "5.00",
+        "Dropa_de": "Darkfang , Hunter , War Wolf ."
+    }
+]

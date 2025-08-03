@@ -1,0 +1,1782 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Nome
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Peso (em oz)</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small><a href="/wiki/Regenera%C3%A7%C3%A3o" title="Regeneração">Regeneração</a> (em segs)</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small title="Agrupável">Agrup.</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Dropa de
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Amber_Souvenir" title="Amber Souvenir">Amber Souvenir</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Amber_Souvenir.gif" class="image fancybox"><img alt="Amber Souvenir.gif" src="/images/7/7d/Amber_Souvenir.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.25
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Quara_Looter" title="Quara Looter">Quara Looter</a>, <a href="/wiki/Quara_Raider" title="Quara Raider">Quara Raider</a>, <a href="/wiki/Quara_Plunderer" title="Quara Plunderer">Quara Plunderer</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Anniversary_Cake" title="Anniversary Cake">Anniversary Cake</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Anniversary_Cake.gif" class="image fancybox"><img alt="Anniversary Cake.gif" src="/images/d/db/Anniversary_Cake.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">720
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Aubergine" title="Aubergine">Aubergine</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Aubergine.gif" class="image fancybox"><img alt="Aubergine.gif" src="/images/1/13/Aubergine.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">2.00
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Banana" title="Banana">Banana</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Banana.gif" class="image fancybox"><img alt="Banana.gif" src="/images/4/4f/Banana.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.80
+</td>
+<td width="5%" style="padding-right: 5px;">96
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Cursed_Ape" title="Cursed Ape">Cursed Ape</a>, <a href="/wiki/Hairman_The_Huge" title="Hairman The Huge">Hairman The Huge</a>, <a href="/wiki/Kongra" title="Kongra">Kongra</a>, <a href="/wiki/Merlkin" title="Merlkin">Merlkin</a>, <a href="/wiki/Sibang" title="Sibang">Sibang</a>, <a href="/wiki/Vulcongra" title="Vulcongra">Vulcongra</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Bar_of_Chocolate" title="Bar of Chocolate">Bar of Chocolate</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bar_of_Chocolate.gif" class="image fancybox"><img alt="Bar of Chocolate.gif" src="/images/c/c4/Bar_of_Chocolate.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.10
+</td>
+<td width="5%" style="padding-right: 5px;">60
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Nightmare_Scion" title="Nightmare Scion">Nightmare Scion</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Bass" title="Bass">Bass</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bass.gif" class="image fancybox"><img alt="Bass.gif" src="/images/8/85/Bass.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">12.50
+</td>
+<td width="5%" style="padding-right: 5px;">840
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Beetroot" title="Beetroot">Beetroot</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Beetroot.gif" class="image fancybox"><img alt="Beetroot.gif" src="/images/f/f0/Beetroot.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.30
+</td>
+<td width="5%" style="padding-right: 5px;">60
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Badger" title="Badger">Badger</a>, <a href="/wiki/Sharpclaw" title="Sharpclaw">Sharpclaw</a>, <a href="/wiki/Werebadger" title="Werebadger">Werebadger</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Birthday_Cake" title="Birthday Cake">Birthday Cake</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Birthday_Cake.gif" class="image fancybox"><img alt="Birthday Cake.gif" src="/images/1/1f/Birthday_Cake.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">720
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Birthday_Layer_Cake" title="Birthday Layer Cake">Birthday Layer Cake</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Birthday_Layer_Cake.gif" class="image fancybox"><img alt="Birthday Layer Cake.gif" src="/images/b/b8/Birthday_Layer_Cake.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">720
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">
+</td></tr>
+<tr>
+<td><a href="/wiki/Blue_Gingerbread_Heart" title="Blue Gingerbread Heart">Blue Gingerbread Heart</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Blue_Gingerbread_Heart.gif" class="image fancybox"><img alt="Blue Gingerbread Heart.gif" src="/images/6/69/Blue_Gingerbread_Heart.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Blueberry" title="Blueberry">Blueberry</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Blueberry.gif" class="image fancybox"><img alt="Blueberry.gif" src="/images/1/11/Blueberry.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.20
+</td>
+<td width="5%" style="padding-right: 5px;">12
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Fahim_the_Wise" title="Fahim the Wise">Fahim the Wise</a>, <a href="/wiki/Marid" title="Marid">Marid</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Bottle_of_Champagne" title="Bottle of Champagne">Bottle of Champagne</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bottle_of_Champagne.gif" class="image fancybox"><img alt="Bottle of Champagne.gif" src="/images/d/d7/Bottle_of_Champagne.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Bottle_of_Glooth_Wine" title="Bottle of Glooth Wine">Bottle of Glooth Wine</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bottle_of_Glooth_Wine.gif" class="image fancybox"><img alt="Bottle of Glooth Wine.gif" src="/images/f/f4/Bottle_of_Glooth_Wine.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">4.00
+</td>
+<td width="5%" style="padding-right: 5px;">75
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Bottle_of_Tibian_Wine" title="Bottle of Tibian Wine">Bottle of Tibian Wine</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bottle_of_Tibian_Wine.gif" class="image fancybox"><img alt="Bottle of Tibian Wine.gif" src="/images/9/92/Bottle_of_Tibian_Wine.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Bowl_of_Glooth_Soup" title="Bowl of Glooth Soup">Bowl of Glooth Soup</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bowl_of_Glooth_Soup.gif" class="image fancybox"><img alt="Bowl of Glooth Soup.gif" src="/images/0/0c/Bowl_of_Glooth_Soup.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">85
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Glooth_Anemone" title="Glooth Anemone">Glooth Anemone</a>, <a href="/wiki/Glooth_Fairy" title="Glooth Fairy">Glooth Fairy</a>, <a href="/wiki/Lisa" title="Lisa">Lisa</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Bread" title="Bread">Bread</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bread.gif" class="image fancybox"><img alt="Bread.gif" src="/images/2/22/Bread.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Dark_Monk" title="Dark Monk">Dark Monk</a>, <a href="/wiki/Elf_Arcanist" title="Elf Arcanist">Elf Arcanist</a>, <a href="/wiki/Elf_Overseer" title="Elf Overseer">Elf Overseer</a>, <a href="/wiki/Monk" title="Monk">Monk</a>, <a href="/wiki/Warlock" title="Warlock">Warlock</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Broccoli" title="Broccoli">Broccoli</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Broccoli.gif" class="image fancybox"><img alt="Broccoli.gif" src="/images/5/5f/Broccoli.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">3.00
+</td>
+<td width="5%" style="padding-right: 5px;">96
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Brokul" title="Brokul">Brokul</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Brown_Bread" title="Brown Bread">Brown Bread</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Brown_Bread.gif" class="image fancybox"><img alt="Brown Bread.gif" src="/images/4/47/Brown_Bread.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">4.00
+</td>
+<td width="5%" style="padding-right: 5px;">96
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Amazon" title="Amazon">Amazon</a>, <a href="/wiki/Black_Knight" title="Black Knight">Black Knight</a>, <a href="/wiki/Gang_Member" title="Gang Member">Gang Member</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Brown_Mushroom" title="Brown Mushroom">Brown Mushroom</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Brown_Mushroom.gif" class="image fancybox"><img alt="Brown Mushroom.gif" src="/images/e/ef/Brown_Mushroom.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.20
+</td>
+<td width="5%" style="padding-right: 5px;">264
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Askarak_Demon" title="Askarak Demon">Askarak Demon</a>, <a href="/wiki/Askarak_Lord" title="Askarak Lord">Askarak Lord</a>, <a href="/wiki/Askarak_Prince" title="Askarak Prince">Askarak Prince</a>, <a href="/wiki/Broken_Shaper" title="Broken Shaper">Broken Shaper</a>, <a href="/wiki/Chasm_Spawn" title="Chasm Spawn">Chasm Spawn</a>, <a href="/wiki/Enslaved_Dwarf" title="Enslaved Dwarf">Enslaved Dwarf</a>, <a href="/wiki/Hemming" title="Hemming">Hemming</a>, <a href="/wiki/Honour_Guard" title="Honour Guard">Honour Guard</a>, <a href="/wiki/Jailer" title="Jailer">Jailer</a>, <a href="/wiki/Lost_Basher" title="Lost Basher">Lost Basher</a>, <a href="/wiki/Lost_Berserker" title="Lost Berserker">Lost Berserker</a>, <a href="/wiki/Lost_Exile" title="Lost Exile">Lost Exile</a>, <a href="/wiki/Lost_Husher" title="Lost Husher">Lost Husher</a>, <a href="/wiki/Lost_Thrower" title="Lost Thrower">Lost Thrower</a>, <a href="/wiki/Orc_Cult_Fanatic" title="Orc Cult Fanatic">Orc Cult Fanatic</a>, <a href="/wiki/Orc_Leader" title="Orc Leader">Orc Leader</a>, <a href="/wiki/Renegade_Orc" title="Renegade Orc">Renegade Orc</a>, <a href="/wiki/Retching_Horror" title="Retching Horror">Retching Horror</a>, <a href="/wiki/Rotspit" title="Rotspit">Rotspit</a>, <a href="/wiki/Shaburak_Demon" title="Shaburak Demon">Shaburak Demon</a>, <a href="/wiki/Shaburak_Lord" title="Shaburak Lord">Shaburak Lord</a>, <a href="/wiki/Shaburak_Prince" title="Shaburak Prince">Shaburak Prince</a>, <a href="/wiki/Shadow_Pupil" title="Shadow Pupil">Shadow Pupil</a>, <a href="/wiki/Sharpclaw" title="Sharpclaw">Sharpclaw</a>, <a href="/wiki/Skeleton_Elite_Warrior" title="Skeleton Elite Warrior">Skeleton Elite Warrior</a>, <a href="/wiki/Skeleton_Warrior" title="Skeleton Warrior">Skeleton Warrior</a>, <a href="/wiki/Spitter" title="Spitter">Spitter</a>, <a href="/wiki/Thornback_Tortoise" title="Thornback Tortoise">Thornback Tortoise</a>, <a href="/wiki/Twisted_Shaper" title="Twisted Shaper">Twisted Shaper</a>, <a href="/wiki/Undead_Mine_Worker" title="Undead Mine Worker">Undead Mine Worker</a>, <a href="/wiki/Ushuriel" title="Ushuriel">Ushuriel</a>, <a href="/wiki/Werebadger" title="Werebadger">Werebadger</a>, <a href="/wiki/Wereboar" title="Wereboar">Wereboar</a>, <a href="/wiki/Werewolf" title="Werewolf">Werewolf</a>, <a href="/wiki/Yielothax" title="Yielothax">Yielothax</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Bug_Meat" title="Bug Meat">Bug Meat</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bug_Meat.gif" class="image fancybox"><img alt="Bug Meat.gif" src="/images/e/eb/Bug_Meat.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">11.00
+</td>
+<td width="5%" style="padding-right: 5px;">240
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Ancient_Lion_Knight" title="Ancient Lion Knight">Ancient Lion Knight</a>, <a href="/wiki/Orc_Cult_Inquisitor" title="Orc Cult Inquisitor">Orc Cult Inquisitor</a>, <a href="/wiki/Orclops_Doomhauler" title="Orclops Doomhauler">Orclops Doomhauler</a>, <a href="/wiki/Orclops_Ravager" title="Orclops Ravager">Orclops Ravager</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Bulb_of_Garlic" title="Bulb of Garlic">Bulb of Garlic</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Bulb_of_Garlic.gif" class="image fancybox"><img alt="Bulb of Garlic.gif" src="/images/6/63/Bulb_of_Garlic.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.40
+</td>
+<td width="5%" style="padding-right: 5px;">60
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Animated_Skunk" title="Animated Skunk">Animated Skunk</a>, <a href="/wiki/Skunk" title="Skunk">Skunk</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Cake" title="Cake">Cake</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cake.gif" class="image fancybox"><img alt="Cake.gif" src="/images/7/7d/Cake.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Candy" title="Candy">Candy</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Candy.gif" class="image fancybox"><img alt="Candy.gif" src="/images/a/a7/Candy.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.05
+</td>
+<td width="5%" style="padding-right: 5px;">12
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Candy_Cane" title="Candy Cane">Candy Cane</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Candy_Cane.gif" class="image fancybox"><img alt="Candy Cane.gif" src="/images/0/0d/Candy_Cane.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.50
+</td>
+<td width="5%" style="padding-right: 5px;">24
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">
+</td></tr>
+<tr>
+<td><a href="/wiki/Candy_Floss_(25_Anos)" title="Candy Floss (25 Anos)">Candy Floss (25 Anos)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Candy_Floss_(25_Anos).gif" class="image fancybox"><img alt="Candy Floss (25 Anos).gif" src="/images/1/15/Candy_Floss_%2825_Anos%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.40
+</td>
+<td width="5%" style="padding-right: 5px;">60
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">
+</td></tr>
+<tr>
+<td><a href="/wiki/Candy_Floss_(Orcsoberfest)" title="Candy Floss (Orcsoberfest)">Candy Floss (Orcsoberfest)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Candy_Floss_(Orcsoberfest).gif" class="image fancybox"><img alt="Candy Floss (Orcsoberfest).gif" src="/images/1/1b/Candy_Floss_%28Orcsoberfest%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">2.40
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Carrot" title="Carrot">Carrot</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Carrot.gif" class="image fancybox"><img alt="Carrot.gif" src="/images/b/b5/Carrot.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.60
+</td>
+<td width="5%" style="padding-right: 5px;">60
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Blue_Djinn" title="Blue Djinn">Blue Djinn</a>, <a href="/wiki/Headpecker" title="Headpecker">Headpecker</a>, <a href="/wiki/Minotaur_Mage" title="Minotaur Mage">Minotaur Mage</a>, <a href="/wiki/Minotaur_Occultist" title="Minotaur Occultist">Minotaur Occultist</a>, <a href="/wiki/Pooka" title="Pooka">Pooka</a>, <a href="/wiki/Rabbit" title="Rabbit">Rabbit</a>, <a href="/wiki/Silver_Rabbit" title="Silver Rabbit">Silver Rabbit</a>, <a href="/wiki/Twisted_Pooka" title="Twisted Pooka">Twisted Pooka</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Cauliflower" title="Cauliflower">Cauliflower</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cauliflower.gif" class="image fancybox"><img alt="Cauliflower.gif" src="/images/3/30/Cauliflower.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">6.80
+</td>
+<td width="5%" style="padding-right: 5px;">108
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém
+</td></tr>
+<tr>
+<td><a href="/wiki/Cave_Turnip" title="Cave Turnip">Cave Turnip</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cave_Turnip.gif" class="image fancybox"><img alt="Cave Turnip.gif" src="/images/5/54/Cave_Turnip.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">2.50
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Broken_Shaper" title="Broken Shaper">Broken Shaper</a>, <a href="/wiki/Dark_Faun" title="Dark Faun">Dark Faun</a>, <a href="/wiki/Shaper_Matriarch" title="Shaper Matriarch">Shaper Matriarch</a>, <a href="/wiki/Twisted_Shaper" title="Twisted Shaper">Twisted Shaper</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Cheese" title="Cheese">Cheese</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cheese.gif" class="image fancybox"><img alt="Cheese.gif" src="/images/6/6a/Cheese.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">4.00
+</td>
+<td width="5%" style="padding-right: 5px;">108
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Cave_Rat" title="Cave Rat">Cave Rat</a>, <a href="/wiki/Corym_Charlatan" title="Corym Charlatan">Corym Charlatan</a>, <a href="/wiki/Corym_Skirmisher" title="Corym Skirmisher">Corym Skirmisher</a>, <a href="/wiki/Corym_Vanguard" title="Corym Vanguard">Corym Vanguard</a>, <a href="/wiki/Green_Djinn" title="Green Djinn">Green Djinn</a>, <a href="/wiki/Mutated_Human" title="Mutated Human">Mutated Human</a>,<a href="/wiki/Rat" title="Rat">Rat</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Cheese_Cookie" title="Cheese Cookie">Cheese Cookie</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cheese_Cookie.gif" class="image fancybox"><img alt="Cheese Cookie.gif" src="/images/e/e4/Cheese_Cookie.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.10
+</td>
+<td width="5%" style="padding-right: 5px;">0
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Cherry" title="Cherry">Cherry</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cherry.gif" class="image fancybox"><img alt="Cherry.gif" src="/images/e/ed/Cherry.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.20
+</td>
+<td width="5%" style="padding-right: 5px;">12
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Bug" title="Bug">Bug</a>, <a href="/wiki/Sugar_Mommy" title="Sugar Mommy">Sugar Mommy</a>, <a href="/wiki/Warlock" title="Warlock">Warlock</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Chocolate_Cake" title="Chocolate Cake">Chocolate Cake</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Chocolate_Cake.gif" class="image fancybox"><img alt="Chocolate Cake.gif" src="/images/9/97/Chocolate_Cake.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">132
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Christmas_Cookie_Tray" title="Christmas Cookie Tray">Christmas Cookie Tray</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Christmas_Cookie_Tray.gif" class="image fancybox"><img alt="Christmas Cookie Tray.gif" src="/images/9/9f/Christmas_Cookie_Tray.gif" decoding="async" width="24" height="19"></a>
+</td>
+<td width="5%">6.50
+</td>
+<td width="5%" style="padding-right: 5px;">240
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Coconut" title="Coconut">Coconut</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Coconut.gif" class="image fancybox"><img alt="Coconut.gif" src="/images/f/f3/Coconut.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">4.80
+</td>
+<td width="5%" style="padding-right: 5px;">216
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Sibang" title="Sibang">Sibang</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Coloured_Egg_(Blue)" title="Coloured Egg (Blue)">Coloured Egg (Blue)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Coloured_Egg_(Blue).gif" class="image fancybox"><img alt="Coloured Egg (Blue).gif" src="/images/6/6a/Coloured_Egg_%28Blue%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.30
+</td>
+<td width="5%" style="padding-right: 5px;">72
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Coloured_Egg_(Green)" title="Coloured Egg (Green)">Coloured Egg (Green)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Coloured_Egg_(Green).gif" class="image fancybox"><img alt="Coloured Egg (Green).gif" src="/images/7/76/Coloured_Egg_%28Green%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.30
+</td>
+<td width="5%" style="padding-right: 5px;">72
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Coloured_Egg_(Purple)" title="Coloured Egg (Purple)">Coloured Egg (Purple)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Coloured_Egg_(Purple).gif" class="image fancybox"><img alt="Coloured Egg (Purple).gif" src="/images/6/68/Coloured_Egg_%28Purple%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.30
+</td>
+<td width="5%" style="padding-right: 5px;">72
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Coloured_Egg_(Red)" title="Coloured Egg (Red)">Coloured Egg (Red)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Coloured_Egg_(Red).gif" class="image fancybox"><img alt="Coloured Egg (Red).gif" src="/images/c/c7/Coloured_Egg_%28Red%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.30
+</td>
+<td width="5%" style="padding-right: 5px;">72
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Coloured_Egg_(Yellow)" title="Coloured Egg (Yellow)">Coloured Egg (Yellow)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Coloured_Egg_(Yellow).gif" class="image fancybox"><img alt="Coloured Egg (Yellow).gif" src="/images/9/93/Coloured_Egg_%28Yellow%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.30
+</td>
+<td width="5%" style="padding-right: 5px;">72
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Cookie" title="Cookie">Cookie</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cookie.gif" class="image fancybox"><img alt="Cookie.gif" src="/images/4/42/Cookie.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.10
+</td>
+<td width="5%" style="padding-right: 5px;">24
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Animated_Ogre_Brute" title="Animated Ogre Brute">Animated Ogre Brute</a>, <a href="/wiki/Arctic_Faun" title="Arctic Faun">Arctic Faun</a>, <a href="/wiki/Cave_Rat" title="Cave Rat">Cave Rat</a>, <a href="/wiki/Ekatrix" title="Ekatrix">Ekatrix</a>, <a href="/wiki/Faun" title="Faun">Faun</a>, <a href="/wiki/Goggle_Cake" title="Goggle Cake">Goggle Cake</a>, <a href="/wiki/Grynch_Clan_Goblin" title="Grynch Clan Goblin">Grynch Clan Goblin</a>, <a href="/wiki/Mad_Scientist" title="Mad Scientist">Mad Scientist</a>, <a href="/wiki/Ogre_Brute" title="Ogre Brute">Ogre Brute</a>, <a href="/wiki/Ogre_Savage" title="Ogre Savage">Ogre Savage</a>, <a href="/wiki/Ogre_Shaman" title="Ogre Shaman">Ogre Shaman</a>, <a href="/wiki/Pooka" title="Pooka">Pooka</a>, <a href="/wiki/Twisted_Pooka" title="Twisted Pooka">Twisted Pooka</a>, <a href="/wiki/Witch" title="Witch">Witch</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Corncob" title="Corncob">Corncob</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Corncob.gif" class="image fancybox"><img alt="Corncob.gif" src="/images/9/9b/Corncob.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">3.50
+</td>
+<td width="5%" style="padding-right: 5px;">108
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Barbarian_Brutetamer" title="Barbarian Brutetamer">Barbarian Brutetamer</a>, <a href="/wiki/Carniphila" title="Carniphila">Carniphila</a>, <a href="/wiki/Orc_Shaman" title="Orc Shaman">Orc Shaman</a>, <a href="/wiki/Scar_Tribe_Shaman" title="Scar Tribe Shaman">Scar Tribe Shaman</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cream_Cake" title="Cream Cake">Cream Cake</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cream_Cake.gif" class="image fancybox"><img alt="Cream Cake.gif" src="/images/9/97/Cream_Cake.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Goggle_Cake" title="Goggle Cake">Goggle Cake</a>, <a href="/wiki/Mad_Scientist" title="Mad Scientist">Mad Scientist</a>, <a href="/wiki/Sugar_Mommy" title="Sugar Mommy">Sugar Mommy</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Crocodile_Steak" title="Crocodile Steak">Crocodile Steak</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Crocodile_Steak.gif" class="image fancybox"><img alt="Crocodile Steak.gif" src="/images/e/e9/Crocodile_Steak.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">4.40
+</td>
+<td width="5%" style="padding-right: 5px;">240
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Cucumber" title="Cucumber">Cucumber</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Cucumber.gif" class="image fancybox"><img alt="Cucumber.gif" src="/images/5/51/Cucumber.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">2.00
+</td>
+<td width="5%" style="padding-right: 5px;">84
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Hydra" title="Hydra">Hydra</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Dark_Mushroom" title="Dark Mushroom">Dark Mushroom</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Dark_Mushroom.gif" class="image fancybox"><img alt="Dark Mushroom.gif" src="/images/b/bc/Dark_Mushroom.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.10
+</td>
+<td width="5%" style="padding-right: 5px;">72
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Carniphila" title="Carniphila">Carniphila</a>, <a href="/wiki/Dark_Faun" title="Dark Faun">Dark Faun</a>, <a href="/wiki/Deathbine" title="Deathbine">Deathbine</a>, <a href="/wiki/Deepworm" title="Deepworm">Deepworm</a>, <a href="/wiki/Exotic_Bat" title="Exotic Bat">Exotic Bat</a>, <a href="/wiki/Mad_Mage" title="Mad Mage">Mad Mage</a>, <a href="/wiki/Raging_Mage" title="Raging Mage">Raging Mage</a>, <a href="/wiki/Shaper_Matriarch" title="Shaper Matriarch">Shaper Matriarch</a>, <a href="/wiki/Tiquandas_Revenge" title="Tiquandas Revenge">Tiquandas Revenge</a>, <a href="/wiki/Warlock" title="Warlock">Warlock</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Decorated_Cake" title="Decorated Cake">Decorated Cake</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Decorated_Cake.gif" class="image fancybox"><img alt="Decorated Cake.gif" src="/images/e/ee/Decorated_Cake.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Deepling_Filet" title="Deepling Filet">Deepling Filet</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Deepling_Filet.gif" class="image fancybox"><img alt="Deepling Filet.gif" src="/images/c/c6/Deepling_Filet.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">6.40
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Deathling_Scout" title="Deathling Scout">Deathling Scout</a>, <a href="/wiki/Deathling_Spellsinger" title="Deathling Spellsinger">Deathling Spellsinger</a>, <a href="/wiki/Deepling_Elite" title="Deepling Elite">Deepling Elite</a>, <a href="/wiki/Deepling_Master_Librarian" title="Deepling Master Librarian">Deepling Master Librarian</a>, <a href="/wiki/Deepling_Spellsinger" title="Deepling Spellsinger">Deepling Spellsinger</a>, <a href="/wiki/Deepling_Warrior" title="Deepling Warrior">Deepling Warrior</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Dewberries" title="Dewberries">Dewberries</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Dewberries.gif" class="image fancybox"><img alt="Dewberries.gif" src="/images/8/8e/Dewberries.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.50
+</td>
+<td width="5%" style="padding-right: 5px;">0
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Dragon_Ham" title="Dragon Ham">Dragon Ham</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Dragon_Ham.gif" class="image fancybox"><img alt="Dragon Ham.gif" src="/images/d/d9/Dragon_Ham.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">30.00
+</td>
+<td width="5%" style="padding-right: 5px;">720
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Demodras" title="Demodras">Demodras</a>, <a href="/wiki/Dragon" title="Dragon">Dragon</a>, <a href="/wiki/Dragon_Hatchling" title="Dragon Hatchling">Dragon Hatchling</a>, <a href="/wiki/Dragon_Lord" title="Dragon Lord">Dragon Lord</a>, <a href="/wiki/Dragon_Lord_Hatchling" title="Dragon Lord Hatchling">Dragon Lord Hatchling</a>, <a href="/wiki/Elder_Wyrm" title="Elder Wyrm">Elder Wyrm</a>, <a href="/wiki/Frost_Dragon" title="Frost Dragon">Frost Dragon</a>, <a href="/wiki/Frost_Dragon_Hatchling" title="Frost Dragon Hatchling">Frost Dragon Hatchling</a>, <a href="/wiki/Inkwing" title="Inkwing">Inkwing</a>, <a href="/wiki/Juggernaut" title="Juggernaut">Juggernaut</a>, <a href="/wiki/Sea_Serpent" title="Sea Serpent">Sea Serpent</a>, <a href="/wiki/Seacrest_Serpent" title="Seacrest Serpent">Seacrest Serpent</a>, <a href="/wiki/Wyrm" title="Wyrm">Wyrm</a>, <a href="/wiki/Wyvern" title="Wyvern">Wyvern</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Dragonfruit" title="Dragonfruit">Dragonfruit</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Dragonfruit.gif" class="image fancybox"><img alt="Dragonfruit.gif" src="/images/3/3d/Dragonfruit.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">3.50
+</td>
+<td width="5%" style="padding-right: 5px;">216
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Ectoplasmic_Sushi" title="Ectoplasmic Sushi">Ectoplasmic Sushi</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ectoplasmic_Sushi.gif" class="image fancybox"><img alt="Ectoplasmic Sushi.gif" src="/images/8/8b/Ectoplasmic_Sushi.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">4.00
+</td>
+<td width="5%" style="padding-right: 5px;">660
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Souleater" title="Souleater">Souleater</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Egg" title="Egg">Egg</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Egg.gif" class="image fancybox"><img alt="Egg.gif" src="/images/e/ed/Egg.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.30
+</td>
+<td width="5%" style="padding-right: 5px;">72
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Chicken" title="Chicken">Chicken</a>, <a href="/wiki/Goggle_Cake" title="Goggle Cake">Goggle Cake</a>, <a href="/wiki/Wild_Warrior" title="Wild Warrior">Wild Warrior</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Energy_Bar" title="Energy Bar">Energy Bar</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Energy_Bar.gif" class="image fancybox"><img alt="Energy Bar.gif" src="/images/7/72/Energy_Bar.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">7.50
+</td>
+<td width="5%" style="padding-right: 5px;">300
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Alptramun" title="Alptramun">Alptramun</a>, <a href="/wiki/Brain_Squid" title="Brain Squid">Brain Squid</a>, <a href="/wiki/Breach_Brood" title="Breach Brood">Breach Brood</a>, <a href="/wiki/Burster" title="Burster">Burster</a>, <a href="/wiki/Candy_Horror" title="Candy Horror">Candy Horror</a>, <a href="/wiki/Dread_Intruder" title="Dread Intruder">Dread Intruder</a>, <a href="/wiki/Drume" title="Drume">Drume</a>, <a href="/wiki/Eradicator" title="Eradicator">Eradicator</a>, <a href="/wiki/Essence_Of_Malice" title="Essence Of Malice">Essence Of Malice</a>, <a href="/wiki/Instable_Breach_Brood" title="Instable Breach Brood">Instable Breach Brood</a>, <a href="/wiki/Instable_Sparkion" title="Instable Sparkion">Instable Sparkion</a>, <a href="/wiki/Izcandar_the_Banished" title="Izcandar the Banished">Izcandar the Banished</a>, <a href="/wiki/Malofur_Mangrinder" title="Malofur Mangrinder">Malofur Mangrinder</a>, <a href="/wiki/Maxxenius" title="Maxxenius">Maxxenius</a>, <a href="/wiki/Outburst" title="Outburst">Outburst</a>, <a href="/wiki/Plagueroot" title="Plagueroot">Plagueroot</a>, <a href="/wiki/Ravenous_Hunger" title="Ravenous Hunger">Ravenous Hunger</a>, <a href="/wiki/Realityquake" title="Realityquake">Realityquake</a>, <a href="/wiki/Reality_Reaver" title="Reality Reaver">Reality Reaver</a>, <a href="/wiki/Rupture" title="Rupture">Rupture</a>,<a href="/wiki/Scarlett_Etzel" title="Scarlett Etzel">Scarlett Etzel</a>, <a href="/wiki/Sparkion" title="Sparkion">Sparkion</a>, <a href="/wiki/Stabilizing_Dread_Intruder" title="Stabilizing Dread Intruder">Stabilizing Dread Intruder</a>, <a href="/wiki/Stabilizing_Reality_Reaver" title="Stabilizing Reality Reaver">Stabilizing Reality Reaver</a>, <a href="/wiki/The_False_God" title="The False God">The False God</a>, <a href="/wiki/The_Nightmare_Beast" title="The Nightmare Beast">The Nightmare Beast</a>, <a href="/wiki/The_Scourge_of_Oblivion" title="The Scourge of Oblivion">The Scourge of Oblivion</a>, <a href="/wiki/The_Souldespoiler" title="The Souldespoiler">The Souldespoiler</a>, <a href="/wiki/The_Unarmored_Voidborn" title="The Unarmored Voidborn">The Unarmored Voidborn</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Energy_Drink" title="Energy Drink">Energy Drink</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Energy_Drink.gif" class="image fancybox"><img alt="Energy Drink.gif" src="/images/4/49/Energy_Drink.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">9.00
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Anomaly" title="Anomaly">Anomaly</a>, <a href="/wiki/Brain_Squid" title="Brain Squid">Brain Squid</a>, <a href="/wiki/Breach_Brood" title="Breach Brood">Breach Brood</a>, <a href="/wiki/Burster" title="Burster">Burster</a>, <a href="/wiki/Dread_Intruder" title="Dread Intruder">Dread Intruder</a>, <a href="/wiki/Instable_Breach_Brood" title="Instable Breach Brood">Instable Breach Brood</a>, <a href="/wiki/Instable_Sparkion" title="Instable Sparkion">Instable Sparkion</a>, <a href="/wiki/Outburst" title="Outburst">Outburst</a>, <a href="/wiki/Reality_Reaver" title="Reality Reaver">Reality Reaver</a>, <a href="/wiki/Sparkion" title="Sparkion">Sparkion</a>, <a href="/wiki/Stabilizing_Dread_Intruder" title="Stabilizing Dread Intruder">Stabilizing Dread Intruder</a>, <a href="/wiki/Stabilizing_Reality_Reaver" title="Stabilizing Reality Reaver">Stabilizing Reality Reaver</a>, <a href="/wiki/World_Devourer" title="World Devourer">World Devourer</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Filled_Milk_Churn" title="Filled Milk Churn">Filled Milk Churn</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Filled_Milk_Churn.gif" class="image fancybox"><img alt="Filled Milk Churn.gif" src="/images/a/ae/Filled_Milk_Churn.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">35.00
+</td>
+<td width="5%" style="padding-right: 5px;">240
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Fire_Mushroom" title="Fire Mushroom">Fire Mushroom</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Fire_Mushroom.gif" class="image fancybox"><img alt="Fire Mushroom.gif" src="/images/0/02/Fire_Mushroom.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.10
+</td>
+<td width="5%" style="padding-right: 5px;">432
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Angry_Demon" title="Angry Demon">Angry Demon</a>, <a href="/wiki/Demon" title="Demon">Demon</a>, <a href="/wiki/Demon_Outcast" title="Demon Outcast">Demon Outcast</a>, <a href="/wiki/Grimeleech" title="Grimeleech">Grimeleech</a>, <a href="/wiki/Poisonous_Carnisylvan" title="Poisonous Carnisylvan">Poisonous Carnisylvan</a>, <a href="/wiki/Rage_Squid" title="Rage Squid">Rage Squid</a>, <a href="/wiki/Ungreez" title="Ungreez">Ungreez</a>, <a href="/wiki/Vexclaw" title="Vexclaw">Vexclaw</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Fish" title="Fish">Fish</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Fish.gif" class="image fancybox"><img alt="Fish.gif" src="/images/b/bb/Fish.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.20
+</td>
+<td width="5%" style="padding-right: 5px;">144
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Abyssal_Calamary" title="Abyssal Calamary">Abyssal Calamary</a>, <a href="/wiki/Bibby_Bloodbath" title="Bibby Bloodbath">Bibby Bloodbath</a>, <a href="/wiki/Blood_Crab" title="Blood Crab">Blood Crab</a>, <a href="/wiki/Chakoya_Toolshaper" title="Chakoya Toolshaper">Chakoya Toolshaper</a>, <a href="/wiki/Chakoya_Tribewarden" title="Chakoya Tribewarden">Chakoya Tribewarden</a>, <a href="/wiki/Chakoya_Windcaller" title="Chakoya Windcaller">Chakoya Windcaller</a>, <a href="/wiki/Crab" title="Crab">Crab</a>, <a href="/wiki/Deepling_Brawler" title="Deepling Brawler">Deepling Brawler</a>, <a href="/wiki/Deepling_Master_Librarian" title="Deepling Master Librarian">Deepling Master Librarian</a>, <a href="/wiki/Deepling_Spellsinger" title="Deepling Spellsinger">Deepling Spellsinger</a>, <a href="/wiki/Deepling_Worker" title="Deepling Worker">Deepling Worker</a>, <a href="/wiki/Deepsea_Blood_Crab" title="Deepsea Blood Crab">Deepsea Blood Crab</a>, <a href="/wiki/Dire_Penguin" title="Dire Penguin">Dire Penguin</a>, <a href="/wiki/Filth_Toad" title="Filth Toad">Filth Toad</a>, <a href="/wiki/Frazzlemaw" title="Frazzlemaw">Frazzlemaw</a>, <a href="/wiki/Frost_Troll" title="Frost Troll">Frost Troll</a>, <a href="/wiki/Goblin_Assassin" title="Goblin Assassin">Goblin Assassin</a>, <a href="/wiki/Goblin_Leader" title="Goblin Leader">Goblin Leader</a>, <a href="/wiki/Goblin_Scavenger" title="Goblin Scavenger">Goblin Scavenger</a>, <a href="/wiki/Goblin" title="Goblin">Goblin</a>, <a href="/wiki/Guzzlemaw" title="Guzzlemaw">Guzzlemaw</a>, <a href="/wiki/Marsh_Stalker" title="Marsh Stalker">Marsh Stalker</a>, <a href="/wiki/Massive_Water_Elemental" title="Massive Water Elemental">Massive Water Elemental</a>, <a href="/wiki/Meadow_Strider" title="Meadow Strider">Meadow Strider</a>, <a href="/wiki/Muglex_Clan_Assassin" title="Muglex Clan Assassin">Muglex Clan Assassin</a>, <a href="/wiki/Muglex_Clan_Footman" title="Muglex Clan Footman">Muglex Clan Footman</a>, <a href="/wiki/Muglex_Clan_Scavenger" title="Muglex Clan Scavenger">Muglex Clan Scavenger</a>, <a href="/wiki/Omnivora" title="Omnivora">Omnivora</a>, <a href="/wiki/Orc_Cult_Fanatic" title="Orc Cult Fanatic">Orc Cult Fanatic</a>, <a href="/wiki/Orc_Leader" title="Orc Leader">Orc Leader</a>, <a href="/wiki/Orc_Warlord" title="Orc Warlord">Orc Warlord</a>, <a href="/wiki/Penguin" title="Penguin">Penguin</a>, <a href="/wiki/Quara_Hydromancer_Scout" title="Quara Hydromancer Scout">Quara Hydromancer Scout</a>, <a href="/wiki/Renegade_Orc" title="Renegade Orc">Renegade Orc</a>, <a href="/wiki/Shark" title="Shark">Shark</a>, <a href="/wiki/Swamp_Troll" title="Swamp Troll">Swamp Troll</a>, <a href="/wiki/Thornback_Tortoise" title="Thornback Tortoise">Thornback Tortoise</a>, <a href="/wiki/Toad" title="Toad">Toad</a>, <a href="/wiki/Tortoise" title="Tortoise">Tortoise</a>, <a href="/wiki/Water_Elemental" title="Water Elemental">Water Elemental</a>, <a href="/wiki/Weakened_Frazzlemaw" title="Weakened Frazzlemaw">Weakened Frazzlemaw</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Forbidden_Fruit" title="Forbidden Fruit">Forbidden Fruit</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Forbidden_Fruit.gif" class="image fancybox"><img alt="Forbidden Fruit.gif" src="/images/c/ca/Forbidden_Fruit.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">6.50
+</td>
+<td width="5%" style="padding-right: 5px;">
+</td>
+<td width="5%"><a href="/wiki/Arquivo:N%C3%A3o.jpg" class="image fancybox"><img alt="Não.jpg" src="/images/c/c0/N%C3%A3o.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">não</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/The_Enraged_Thorn_Knight" title="The Enraged Thorn Knight">The Enraged Thorn Knight</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Fresh_Fruit" title="Fresh Fruit">Fresh Fruit</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Fresh_Fruit.gif" class="image fancybox"><img alt="Fresh Fruit.gif" src="/images/5/59/Fresh_Fruit.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.50
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Arctic_Faun" title="Arctic Faun">Arctic Faun</a>, <a href="/wiki/Dark_Faun" title="Dark Faun">Dark Faun</a>, <a href="/wiki/Faun" title="Faun">Faun</a>, <a href="/wiki/Nymph" title="Nymph">Nymph</a>, <a href="/wiki/Pixie" title="Pixie">Pixie</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Gingerbreadman" title="Gingerbreadman">Gingerbreadman</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Gingerbreadman.gif" class="image fancybox"><img alt="Gingerbreadman.gif" src="/images/4/4e/Gingerbreadman.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">240
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">
+</td></tr>
+<tr>
+<td><a href="/wiki/Glooth_Sandwich" title="Glooth Sandwich">Glooth Sandwich</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Glooth_Sandwich.gif" class="image fancybox"><img alt="Glooth Sandwich.gif" src="/images/8/82/Glooth_Sandwich.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">8.00
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Glooth_Bandit" title="Glooth Bandit">Glooth Bandit</a>, <a href="/wiki/Glooth_Brigand" title="Glooth Brigand">Glooth Brigand</a>, <a href="/wiki/Glooth_Golem" title="Glooth Golem">Glooth Golem</a>, <a href="/wiki/Glooth_Fairy" title="Glooth Fairy">Glooth Fairy</a>, <a href="/wiki/Lisa" title="Lisa">Lisa</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Glooth_Steak" title="Glooth Steak">Glooth Steak</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Glooth_Steak.gif" class="image fancybox"><img alt="Glooth Steak.gif" src="/images/7/7a/Glooth_Steak.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">12.00
+</td>
+<td width="5%" style="padding-right: 5px;">300
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Blood_Beast" title="Blood Beast">Blood Beast</a>, <a href="/wiki/Glooth_Bandit" title="Glooth Bandit">Glooth Bandit</a>, <a href="/wiki/Glooth_Brigand" title="Glooth Brigand">Glooth Brigand</a>, <a href="/wiki/Lisa" title="Lisa">Lisa</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Grapes" title="Grapes">Grapes</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Grapes.gif" class="image fancybox"><img alt="Grapes.gif" src="/images/9/90/Grapes.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">2.50
+</td>
+<td width="5%" style="padding-right: 5px;">108
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Arctic_Faun" title="Arctic Faun">Arctic Faun</a>, <a href="/wiki/Elf_Scout" title="Elf Scout">Elf Scout</a>, <a href="/wiki/Faun" title="Faun">Faun</a>, <a href="/wiki/Firestarter" title="Firestarter">Firestarter</a>, <a href="/wiki/Hero" title="Hero">Hero</a>, <a href="/wiki/Renegade_Knight" title="Renegade Knight">Renegade Knight</a>, <a href="/wiki/Vicious_Squire" title="Vicious Squire">Vicious Squire</a>, <a href="/wiki/Vile_Grandmaster" title="Vile Grandmaster">Vile Grandmaster</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Green_Gingerbread_Heart" title="Green Gingerbread Heart">Green Gingerbread Heart</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Green_Gingerbread_Heart.gif" class="image fancybox"><img alt="Green Gingerbread Heart.gif" src="/images/8/8a/Green_Gingerbread_Heart.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">1
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Green_Mushroom" title="Green Mushroom">Green Mushroom</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Green_Mushroom.gif" class="image fancybox"><img alt="Green Mushroom.gif" src="/images/7/7a/Green_Mushroom.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.10
+</td>
+<td width="5%" style="padding-right: 5px;">60
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Albino_Dragon" title="Albino Dragon">Albino Dragon</a>, <a href="/wiki/Bonebeast" title="Bonebeast">Bonebeast</a>, <a href="/wiki/Demodras" title="Demodras">Demodras</a>, <a href="/wiki/Deepworm" title="Deepworm">Deepworm</a>, <a href="/wiki/Dragon_Lord" title="Dragon Lord">Dragon Lord</a>, <a href="/wiki/Dragon_Lord_Hatchling" title="Dragon Lord Hatchling">Dragon Lord Hatchling</a>, <a href="/wiki/Dreadbeast" title="Dreadbeast">Dreadbeast</a>, <a href="/wiki/Exotic_Bat" title="Exotic Bat">Exotic Bat</a>, <a href="/wiki/Frost_Dragon" title="Frost Dragon">Frost Dragon</a>, <a href="/wiki/Glooth_Anemone" title="Glooth Anemone">Glooth Anemone</a>, <a href="/wiki/Golden_Servant" title="Golden Servant">Golden Servant</a>, <a href="/wiki/Golden_Servant_Replica" title="Golden Servant Replica">Golden Servant Replica</a>, <a href="/wiki/Grimeleech" title="Grimeleech">Grimeleech</a>, <a href="/wiki/Ice_Witch" title="Ice Witch">Ice Witch</a>, <a href="/wiki/Mutated_Rat" title="Mutated Rat">Mutated Rat</a>, <a href="/wiki/Necromancer" title="Necromancer">Necromancer</a>, <a href="/wiki/Necropharus" title="Necropharus">Necropharus</a>, <a href="/wiki/Pixie" title="Pixie">Pixie</a>, <a href="/wiki/Ribstride" title="Ribstride">Ribstride</a>, <a href="/wiki/Serpent_Spawn" title="Serpent Spawn">Serpent Spawn</a>, <a href="/wiki/Swan_Maiden" title="Swan Maiden">Swan Maiden</a>, <a href="/wiki/The_Noxious_Spawn" title="The Noxious Spawn">The Noxious Spawn</a>, <a href="/wiki/Wailing_Widow" title="Wailing Widow">Wailing Widow</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Green_Perch" title="Green Perch">Green Perch</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Green_Perch.gif" class="image fancybox"><img alt="Green Perch.gif" src="/images/2/27/Green_Perch.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">8.00
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Chakoya_Toolshaper" title="Chakoya Toolshaper">Chakoya Toolshaper</a>, <a href="/wiki/Chakoya_Tribewarden" title="Chakoya Tribewarden">Chakoya Tribewarden</a>, <a href="/wiki/Chakoya_Windcaller" title="Chakoya Windcaller">Chakoya Windcaller</a>, <a href="/wiki/Dire_Penguin" title="Dire Penguin">Dire Penguin</a>, <a href="/wiki/Massive_Water_Elemental" title="Massive Water Elemental">Massive Water Elemental</a>, <a href="/wiki/Penguin" title="Penguin">Penguin</a>, <a href="/wiki/Water_Elemental" title="Water Elemental">Water Elemental</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Gummy_Rotworm" title="Gummy Rotworm">Gummy Rotworm</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Gummy_Rotworm.gif" class="image fancybox"><img alt="Gummy Rotworm.gif" src="/images/c/c0/Gummy_Rotworm.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.20
+</td>
+<td width="5%" style="padding-right: 5px;">36
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Candy_Horror" title="Candy Horror">Candy Horror</a>, <a href="/wiki/Candy_Floss_Elemental" title="Candy Floss Elemental">Candy Floss Elemental</a>, <a href="/wiki/Goggle_Cake" title="Goggle Cake">Goggle Cake</a>, <a href="/wiki/Nibblemaw" title="Nibblemaw">Nibblemaw</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Ham" title="Ham">Ham</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ham.gif" class="image fancybox"><img alt="Ham.gif" src="/images/e/e8/Ham.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">20.00
+</td>
+<td width="5%" style="padding-right: 5px;">360
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Ancient_Lion_Knight" title="Ancient Lion Knight">Ancient Lion Knight</a>, <a href="/wiki/Animated_Rotworm" title="Animated Rotworm">Animated Rotworm</a>, <a href="/wiki/Animated_Guzzlemaw" title="Animated Guzzlemaw">Animated Guzzlemaw</a>, <a href="/wiki/Barbarian_Bloodwalker" title="Barbarian Bloodwalker">Barbarian Bloodwalker</a>, <a href="/wiki/Bear" title="Bear">Bear</a>, <a href="/wiki/Bullwark" title="Bullwark">Bullwark</a>, <a href="/wiki/Crocodile" title="Crocodile">Crocodile</a>, <a href="/wiki/Dark_Torturer" title="Dark Torturer">Dark Torturer</a>, <a href="/wiki/Deer" title="Deer">Deer</a>, <a href="/wiki/Deepworm" title="Deepworm">Deepworm</a>, <a href="/wiki/Desperate_White_Deer" title="Desperate White Deer">Desperate White Deer</a>, <a href="/wiki/Diremaw" title="Diremaw">Diremaw</a>, <a href="/wiki/Elephant" title="Elephant">Elephant</a>, <a href="/wiki/Enraged_White_Deer" title="Enraged White Deer">Enraged White Deer</a>, <a href="/wiki/Falcon_Knight" title="Falcon Knight">Falcon Knight</a>, <a href="/wiki/Frazzlemaw" title="Frazzlemaw">Frazzlemaw</a>, <a href="/wiki/Frost_Giantess" title="Frost Giantess">Frost Giantess</a>, <a href="/wiki/Gloom_Wolf" title="Gloom Wolf">Gloom Wolf</a>, <a href="/wiki/Grand_Chaplain_Gaunder" title="Grand Chaplain Gaunder">Grand Chaplain Gaunder</a>, <a href="/wiki/Guzzlemaw" title="Guzzlemaw">Guzzlemaw</a>, <a href="/wiki/Hellhound" title="Hellhound">Hellhound</a>, <a href="/wiki/Hydra" title="Hydra">Hydra</a>, <a href="/wiki/Juggernaut" title="Juggernaut">Juggernaut</a>, <a href="/wiki/Killer_Caiman" title="Killer Caiman">Killer Caiman</a>, <a href="/wiki/Lion" title="Lion">Lion</a>, <a href="/wiki/Mammoth" title="Mammoth">Mammoth</a>, <a href="/wiki/Minotaur_Amazon" title="Minotaur Amazon">Minotaur Amazon</a>, <a href="/wiki/Minotaur_Cult_Follower" title="Minotaur Cult Follower">Minotaur Cult Follower</a>, <a href="/wiki/Minotaur_Cult_Prophet" title="Minotaur Cult Prophet">Minotaur Cult Prophet</a>, <a href="/wiki/Misguided_Thief" title="Misguided Thief">Misguided Thief</a>, <a href="/wiki/Nightmare" title="Nightmare">Nightmare</a>, <a href="/wiki/Noble_Lion" title="Noble Lion">Noble Lion</a>, <a href="/wiki/Omnivora" title="Omnivora">Omnivora</a>, <a href="/wiki/Orc_Berserker" title="Orc Berserker">Orc Berserker</a>, <a href="/wiki/Orc_Cult_Inquisitor" title="Orc Cult Inquisitor">Orc Cult Inquisitor</a>, <a href="/wiki/Orc_Cultist" title="Orc Cultist">Orc Cultist</a>, <a href="/wiki/Panda" title="Panda">Panda</a>, <a href="/wiki/Parder" title="Parder">Parder</a>, <a href="/wiki/Polar_Bear" title="Polar Bear">Polar Bear</a>, <a href="/wiki/Preceptor_Lazare" title="Preceptor Lazare">Preceptor Lazare</a>, <a href="/wiki/Roaring_Lion" title="Roaring Lion">Roaring Lion</a>, <a href="/wiki/Rotworm" title="Rotworm">Rotworm</a>, <a href="/wiki/Shadowpelt" title="Shadowpelt">Shadowpelt</a>, <a href="/wiki/Smuggler" title="Smuggler">Smuggler</a>, <a href="/wiki/Terrified_Elephant" title="Terrified Elephant">Terrified Elephant</a>, <a href="/wiki/Thanatursus" title="Thanatursus">Thanatursus</a>, <a href="/wiki/Tiquandas_Revenge" title="Tiquandas Revenge">Tiquandas Revenge</a>, <a href="/wiki/Tormentor" title="Tormentor">Tormentor</a>, <a href="/wiki/Usurper_Warlock" title="Usurper Warlock">Usurper Warlock</a>, <a href="/wiki/War_Wolf" title="War Wolf">War Wolf</a>, <a href="/wiki/Water_Buffalo" title="Water Buffalo">Water Buffalo</a>, <a href="/wiki/Weakened_Frazzlemaw" title="Weakened Frazzlemaw">Weakened Frazzlemaw</a>, <a href="/wiki/Werebear" title="Werebear">Werebear</a>, <a href="/wiki/Werelioness" title="Werelioness">Werelioness</a>, <a href="/wiki/Yeti" title="Yeti">Yeti</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Haunch_of_Boar" title="Haunch of Boar">Haunch of Boar</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Haunch_of_Boar.gif" class="image fancybox"><img alt="Haunch of Boar.gif" src="/images/3/32/Haunch_of_Boar.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">14.00
+</td>
+<td width="5%" style="padding-right: 5px;">240
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Boar" title="Boar">Boar</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Ice_Cream_Cone_(Blue-Barian)" title="Ice Cream Cone (Blue-Barian)">Ice Cream Cone (Blue-Barian)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ice_Cream_Cone_(Blue-Barian).gif" class="image fancybox"><img alt="Ice Cream Cone (Blue-Barian).gif" src="/images/a/a7/Ice_Cream_Cone_%28Blue-Barian%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">24
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Thawing_Dragon_Lord" title="Thawing Dragon Lord">Thawing Dragon Lord</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Ice_Cream_Cone_(Chilly_Cherry)" title="Ice Cream Cone (Chilly Cherry)">Ice Cream Cone (Chilly Cherry)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ice_Cream_Cone_(Chilly_Cherry).gif" class="image fancybox"><img alt="Ice Cream Cone (Chilly Cherry).gif" src="/images/d/db/Ice_Cream_Cone_%28Chilly_Cherry%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">24
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Ice_Cream_Cone_(Crispy_Chocolate_Chips)" title="Ice Cream Cone (Crispy Chocolate Chips)">Ice Cream Cone (Crispy Chocolate Chips)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ice_Cream_Cone_(Crispy_Chocolate_Chips).gif" class="image fancybox"><img alt="Ice Cream Cone (Crispy Chocolate Chips).gif" src="/images/9/99/Ice_Cream_Cone_%28Crispy_Chocolate_Chips%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">24
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Ice_Cream_Cone_(Mellow_Melon)" title="Ice Cream Cone (Mellow Melon)">Ice Cream Cone (Mellow Melon)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ice_Cream_Cone_(Mellow_Melon).gif" class="image fancybox"><img alt="Ice Cream Cone (Mellow Melon).gif" src="/images/4/44/Ice_Cream_Cone_%28Mellow_Melon%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">0
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Ice_Cream_Cone_(Sprinkles)" title="Ice Cream Cone (Sprinkles)">Ice Cream Cone (Sprinkles)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ice_Cream_Cone_(Sprinkles).gif" class="image fancybox"><img alt="Ice Cream Cone (Sprinkles).gif" src="/images/2/23/Ice_Cream_Cone_%28Sprinkles%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.70
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">
+</td></tr>
+<tr>
+<td><a href="/wiki/Ice_Cream_Cone_(Sweet_Strawberry)" title="Ice Cream Cone (Sweet Strawberry)">Ice Cream Cone (Sweet Strawberry)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ice_Cream_Cone_(Sweet_Strawberry).gif" class="image fancybox"><img alt="Ice Cream Cone (Sweet Strawberry).gif" src="/images/a/a0/Ice_Cream_Cone_%28Sweet_Strawberry%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">0
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Ice_Cream_Cone_(Velvet_Vanilla)" title="Ice Cream Cone (Velvet Vanilla)">Ice Cream Cone (Velvet Vanilla)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Ice_Cream_Cone_(Velvet_Vanilla).gif" class="image fancybox"><img alt="Ice Cream Cone (Velvet Vanilla).gif" src="/images/d/da/Ice_Cream_Cone_%28Velvet_Vanilla%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">0
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Insectoid_Egg_(Food)" title="Insectoid Egg (Food)">Insectoid Egg (Food)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Insectoid_Egg_(Food).gif" class="image fancybox"><img alt="Insectoid Egg (Food).gif" src="/images/d/d8/Insectoid_Egg_%28Food%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.20
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Salamander" title="Salamander">Salamander</a>, <a href="/wiki/Troll-Trained_Salamander" title="Troll-Trained Salamander">Troll-Trained Salamander</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Jalape%C3%B1o_Pepper" title="Jalapeño Pepper">Jalapeño Pepper</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Jalape%C3%B1o_Pepper.gif" class="image fancybox"><img alt="Jalapeño Pepper.gif" src="/images/d/d7/Jalape%C3%B1o_Pepper.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.30
+</td>
+<td width="5%" style="padding-right: 5px;">12
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Fury" title="Fury">Fury</a>, <a href="/wiki/Ogre_Rowdy" title="Ogre Rowdy">Ogre Rowdy</a>, <a href="/wiki/Ogre_Savage" title="Ogre Savage">Ogre Savage</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Larvae" title="Larvae">Larvae</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Larvae.gif" class="image fancybox"><img alt="Larvae.gif" src="/images/7/72/Larvae.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">3.50
+</td>
+<td width="5%" style="padding-right: 5px;">168
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Leberkassemmel" title="Leberkassemmel">Leberkassemmel</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Leberkassemmel.gif" class="image fancybox"><img alt="Leberkassemmel.gif" src="/images/5/56/Leberkassemmel.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">4.00
+</td>
+<td width="5%" style="padding-right: 5px;">300
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Roast_Pork" title="Roast Pork">Roast Pork</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lemon" title="Lemon">Lemon</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Lemon.gif" class="image fancybox"><img alt="Lemon.gif" src="/images/c/c2/Lemon.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.20
+</td>
+<td width="5%" style="padding-right: 5px;">12
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Mango" title="Mango">Mango</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Mango.gif" class="image fancybox"><img alt="Mango.gif" src="/images/f/f2/Mango.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.80
+</td>
+<td width="5%" style="padding-right: 5px;">48
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Island_Troll" title="Island Troll">Island Troll</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Marlin" title="Marlin">Marlin</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Marlin.gif" class="image fancybox"><img alt="Marlin.gif" src="/images/9/99/Marlin.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">18.00
+</td>
+<td width="5%" style="padding-right: 5px;">720
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Island_Troll" title="Island Troll">Island Troll</a>, <a href="/wiki/Thul" title="Thul">Thul</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Meat" title="Meat">Meat</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Meat.gif" class="image fancybox"><img alt="Meat.gif" src="/images/5/58/Meat.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">13.00
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Animated_Cyclops" title="Animated Cyclops">Animated Cyclops</a>, <a href="/wiki/Bear" title="Bear">Bear</a>, <a href="/wiki/Behemoth" title="Behemoth">Behemoth</a>, <a href="/wiki/Bibby_Bloodbath" title="Bibby Bloodbath">Bibby Bloodbath</a>, <a href="/wiki/Big_Boss_Trolliver" title="Big Boss Trolliver">Big Boss Trolliver</a>, <a href="/wiki/Black_Sheep" title="Black Sheep">Black Sheep</a>, <a href="/wiki/Bretzecutioner" title="Bretzecutioner">Bretzecutioner</a>, <a href="/wiki/Broken_Shaper" title="Broken Shaper">Broken Shaper</a>, <a href="/wiki/Brutus_Bloodbeard" title="Brutus Bloodbeard">Brutus Bloodbeard</a>, <a href="/wiki/Bullwark" title="Bullwark">Bullwark</a>, <a href="/wiki/Carrion_Worm" title="Carrion Worm">Carrion Worm</a>, <a href="/wiki/Chicken" title="Chicken">Chicken</a>, <a href="/wiki/Cow" title="Cow">Cow</a>, <a href="/wiki/Crazed_Beggar" title="Crazed Beggar">Crazed Beggar</a>, <a href="/wiki/Crystal_Wolf" title="Crystal Wolf">Crystal Wolf</a>, <a href="/wiki/Cult_Believer" title="Cult Believer">Cult Believer</a>, <a href="/wiki/Cult_Scholar" title="Cult Scholar">Cult Scholar</a>, <a href="/wiki/Cyclops" title="Cyclops">Cyclops</a>, <a href="/wiki/Cyclops_Drone" title="Cyclops Drone">Cyclops Drone</a>, <a href="/wiki/Cyclops_Smith" title="Cyclops Smith">Cyclops Smith</a>, <a href="/wiki/Deadeye_Devious" title="Deadeye Devious">Deadeye Devious</a>, <a href="/wiki/Deepworm" title="Deepworm">Deepworm</a>, <a href="/wiki/Deer" title="Deer">Deer</a>, <a href="/wiki/Depowered_Minotaur" title="Depowered Minotaur">Depowered Minotaur</a>, <a href="/wiki/Destroyer" title="Destroyer">Destroyer</a>, <a href="/wiki/Draken_Abomination" title="Draken Abomination">Draken Abomination</a>, <a href="/wiki/Draken_Elite" title="Draken Elite">Draken Elite</a>, <a href="/wiki/Draken_Spellweaver" title="Draken Spellweaver">Draken Spellweaver</a>, <a href="/wiki/Draken_Warmaster" title="Draken Warmaster">Draken Warmaster</a>, <a href="/wiki/Dromedary" title="Dromedary">Dromedary</a>, <a href="/wiki/Dwarf_Miner" title="Dwarf Miner">Dwarf Miner</a>, <a href="/wiki/Elder_Forest_Fury" title="Elder Forest Fury">Elder Forest Fury</a>, <a href="/wiki/Elephant" title="Elephant">Elephant</a>, <a href="/wiki/Execowtioner" title="Execowtioner">Execowtioner</a>, <a href="/wiki/Fleabringer" title="Fleabringer">Fleabringer</a>, <a href="/wiki/Forest_Fury" title="Forest Fury">Forest Fury</a>, <a href="/wiki/Frost_Giant" title="Frost Giant">Frost Giant</a>, <a href="/wiki/Fury" title="Fury">Fury</a>, <a href="/wiki/Ghoulish_Hyaena" title="Ghoulish Hyaena">Ghoulish Hyaena</a>, <a href="/wiki/Gladiator" title="Gladiator">Gladiator</a>, <a href="/wiki/Gloom_Wolf" title="Gloom Wolf">Gloom Wolf</a>, <a href="/wiki/Gnarlhound" title="Gnarlhound">Gnarlhound</a>, <a href="/wiki/Hero" title="Hero">Hero</a>, <a href="/wiki/Hyaena" title="Hyaena">Hyaena</a>, <a href="/wiki/Jungle_Moa" title="Jungle Moa">Jungle Moa</a>, <a href="/wiki/Juvenile_Cyclops" title="Juvenile Cyclops">Juvenile Cyclops</a>, <a href="/wiki/Larva" title="Larva">Larva</a>, <a href="/wiki/Lethal_Lissy" title="Lethal Lissy">Lethal Lissy</a>, <a href="/wiki/Lion" title="Lion">Lion</a>, <a href="/wiki/Makara" title="Makara">Makara</a>, <a href="/wiki/Mammoth" title="Mammoth">Mammoth</a>, <a href="/wiki/Marsh_Stalker" title="Marsh Stalker">Marsh Stalker</a>, <a href="/wiki/Meadow_Strider" title="Meadow Strider">Meadow Strider</a>, <a href="/wiki/Memory_Of_A_Wolf" title="Memory Of A Wolf">Memory Of A Wolf</a>, <a href="/wiki/Minotaur" title="Minotaur">Minotaur</a>, <a href="/wiki/Minotaur_Amazon" title="Minotaur Amazon">Minotaur Amazon</a>, <a href="/wiki/Minotaur_Archer" title="Minotaur Archer">Minotaur Archer</a>, <a href="/wiki/Minotaur_Bruiser" title="Minotaur Bruiser">Minotaur Bruiser</a>, <a href="/wiki/Minotaur_Cult_Follower" title="Minotaur Cult Follower">Minotaur Cult Follower</a>, <a href="/wiki/Minotaur_Cult_Prophet" title="Minotaur Cult Prophet">Minotaur Cult Prophet</a>, <a href="/wiki/Minotaur_Cult_Zealot" title="Minotaur Cult Zealot">Minotaur Cult Zealot</a>, <a href="/wiki/Minotaur_Poacher" title="Minotaur Poacher">Minotaur Poacher</a>, <a href="/wiki/Misguided_Bully" title="Misguided Bully">Misguided Bully</a>, <a href="/wiki/Misguided_Thief" title="Misguided Thief">Misguided Thief</a>, <a href="/wiki/Moohtant_Wallbreaker" title="Moohtant Wallbreaker">Moohtant Wallbreaker</a>, <a href="/wiki/Mountain_Troll" title="Mountain Troll">Mountain Troll</a>, <a href="/wiki/Mutated_Tiger" title="Mutated Tiger">Mutated Tiger</a>, <a href="/wiki/Nightmare_Scion" title="Nightmare Scion">Nightmare Scion</a>, <a href="/wiki/Noble_Lion" title="Noble Lion">Noble Lion</a>, <a href="/wiki/Ogre_Brute" title="Ogre Brute">Ogre Brute</a>, <a href="/wiki/Ogre_Ruffian" title="Ogre Ruffian">Ogre Ruffian</a>, <a href="/wiki/Orc" title="Orc">Orc</a>, <a href="/wiki/Orc_Cult_Minion" title="Orc Cult Minion">Orc Cult Minion</a>, <a href="/wiki/Orc_Marauder" title="Orc Marauder">Orc Marauder</a>, <a href="/wiki/Orc_Rider" title="Orc Rider">Orc Rider</a>, <a href="/wiki/Orc_Spearman" title="Orc Spearman">Orc Spearman</a>, <a href="/wiki/Orc_Warrior" title="Orc Warrior">Orc Warrior</a>, <a href="/wiki/Paiz_the_Pauperizer" title="Paiz the Pauperizer">Paiz the Pauperizer</a>, <a href="/wiki/Panda" title="Panda">Panda</a>, <a href="/wiki/Pig" title="Pig">Pig</a>, <a href="/wiki/Polar_Bear" title="Polar Bear">Polar Bear</a>, <a href="/wiki/Rabbit" title="Rabbit">Rabbit</a>, <a href="/wiki/Renegade_Knight" title="Renegade Knight">Renegade Knight</a>, <a href="/wiki/Roaring_Lion" title="Roaring Lion">Roaring Lion</a>, <a href="/wiki/Rotworm" title="Rotworm">Rotworm</a>, <a href="/wiki/Salamander_Trainer" title="Salamander Trainer">Salamander Trainer</a>, <a href="/wiki/Scar_Tribe_Warrior" title="Scar Tribe Warrior">Scar Tribe Warrior</a>, <a href="/wiki/Scarab" title="Scarab">Scarab</a>, <a href="/wiki/Sheep" title="Sheep">Sheep</a>, <a href="/wiki/Silver_Rabbit" title="Silver Rabbit">Silver Rabbit</a>, <a href="/wiki/Starving_Wolf" title="Starving Wolf">Starving Wolf</a>, <a href="/wiki/Stonecracker" title="Stonecracker">Stonecracker</a>, <a href="/wiki/Terrified_Elephant" title="Terrified Elephant">Terrified Elephant</a>, <a href="/wiki/Terror_Bird" title="Terror Bird">Terror Bird</a>, <a href="/wiki/Thanatursus" title="Thanatursus">Thanatursus</a>, <a href="/wiki/The_Horned_Fox" title="The Horned Fox">The Horned Fox</a>, <a href="/wiki/The_Old_Whopper" title="The Old Whopper">The Old Whopper</a>, <a href="/wiki/Tiger" title="Tiger">Tiger</a>, <a href="/wiki/Tiquandas_Revenge" title="Tiquandas Revenge">Tiquandas Revenge</a>, <a href="/wiki/Thornfire_Wolf" title="Thornfire Wolf">Thornfire Wolf</a>, <a href="/wiki/Troll" title="Troll">Troll</a>, <a href="/wiki/Troll_Champion" title="Troll Champion">Troll Champion</a>, <a href="/wiki/Troll_Guard" title="Troll Guard">Troll Guard</a>, <a href="/wiki/Troll_Marauder" title="Troll Marauder">Troll Marauder</a>, <a href="/wiki/Troll-Trained_Salamander" title="Troll-Trained Salamander">Troll-Trained Salamander</a>, <a href="/wiki/Tunnel_Tyrant" title="Tunnel Tyrant">Tunnel Tyrant</a>, <a href="/wiki/Twisted_Shaper" title="Twisted Shaper">Twisted Shaper</a>, <a href="/wiki/Valkyrie" title="Valkyrie">Valkyrie</a>, <a href="/wiki/Vicious_Squire" title="Vicious Squire">Vicious Squire</a>, <a href="/wiki/Vile_Grandmaster" title="Vile Grandmaster">Vile Grandmaster</a>, <a href="/wiki/Usurper_Archer" title="Usurper Archer">Usurper Archer</a>, <a href="/wiki/Usurper_Knight" title="Usurper Knight">Usurper Knight</a>, <a href="/wiki/War_Wolf" title="War Wolf">War Wolf</a>, <a href="/wiki/Water_Buffalo" title="Water Buffalo">Water Buffalo</a>, <a href="/wiki/Werehyaena" title="Werehyaena">Werehyaena</a>, <a href="/wiki/Werelion" title="Werelion">Werelion</a>, <a href="/wiki/Werelioness" title="Werelioness">Werelioness</a>, <a href="/wiki/Winter_Wolf" title="Winter Wolf">Winter Wolf</a>, <a href="/wiki/Wolf" title="Wolf">Wolf</a>, <a href="/wiki/Yeti" title="Yeti">Yeti</a>, <a href="/wiki/Young_Troll" title="Young Troll">Young Troll</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Melon" title="Melon">Melon</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Melon.gif" class="image fancybox"><img alt="Melon.gif" src="/images/6/67/Melon.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">9.50
+</td>
+<td width="5%" style="padding-right: 5px;">240
+</td>
+<td width="5%"><a href="/wiki/Arquivo:N%C3%A3o.jpg" class="image fancybox"><img alt="Não.jpg" src="/images/c/c0/N%C3%A3o.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">não</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Elf_Arcanist" title="Elf Arcanist">Elf Arcanist</a>, <a href="/wiki/Nibblemaw" title="Nibblemaw">Nibblemaw</a>, <a href="/wiki/Sibang" title="Sibang">Sibang</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Meringue_Cake" title="Meringue Cake">Meringue Cake</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Meringue_Cake.gif" class="image fancybox"><img alt="Meringue Cake.gif" src="/images/d/dd/Meringue_Cake.gif" decoding="async" width="34" height="34"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">480
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Moon_Melon" title="Moon Melon">Moon Melon</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Moon_Melon.gif" class="image fancybox"><img alt="Moon Melon.gif" src="/images/8/85/Moon_Melon.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">9.50
+</td>
+<td width="5%" style="padding-right: 5px;">600
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">
+</td></tr>
+<tr>
+<td><a href="/wiki/Moon-Touched_Dewberries" title="Moon-Touched Dewberries">Moon-Touched Dewberries</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Moon-Touched_Dewberries.gif" class="image fancybox"><img alt="Moon-Touched Dewberries.gif" src="/images/3/3b/Moon-Touched_Dewberries.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">2.50
+</td>
+<td width="5%" style="padding-right: 5px;">0
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Mushroom_Pie" title="Mushroom Pie">Mushroom Pie</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Mushroom_Pie.gif" class="image fancybox"><img alt="Mushroom Pie.gif" src="/images/1/10/Mushroom_Pie.gif" decoding="async" width="30" height="28"></a>
+</td>
+<td width="5%">9.00
+</td>
+<td width="5%" style="padding-right: 5px;">396
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Hideous_Fungus" title="Hideous Fungus">Hideous Fungus</a>, <a href="/wiki/Humongous_Fungus" title="Humongous Fungus">Humongous Fungus</a>, <a href="/wiki/Poisonous_Carnisylvan" title="Poisonous Carnisylvan">Poisonous Carnisylvan</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Northern_Pike" title="Northern Pike">Northern Pike</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Northern_Pike.gif" class="image fancybox"><img alt="Northern Pike.gif" src="/images/8/83/Northern_Pike.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">8.30
+</td>
+<td width="5%" style="padding-right: 5px;">204
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Chakoya_Toolshaper" title="Chakoya Toolshaper">Chakoya Toolshaper</a>, <a href="/wiki/Chakoya_Tribewarden" title="Chakoya Tribewarden">Chakoya Tribewarden</a>, <a href="/wiki/Chakoya_Windcaller" title="Chakoya Windcaller">Chakoya Windcaller</a>, <a href="/wiki/Dire_Penguin" title="Dire Penguin">Dire Penguin</a>, <a href="/wiki/Slippery_Northern_Pike" title="Slippery Northern Pike">Slippery Northern Pike</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Onion" title="Onion">Onion</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Onion.gif" class="image fancybox"><img alt="Onion.gif" src="/images/5/57/Onion.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.40
+</td>
+<td width="5%" style="padding-right: 5px;">60
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Orclops_Doomhauler" title="Orclops Doomhauler">Orclops Doomhauler</a>, <a href="/wiki/Orclops_Ravager" title="Orclops Ravager">Orclops Ravager</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Orange" title="Orange">Orange</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Orange.gif" class="image fancybox"><img alt="Orange.gif" src="/images/4/40/Orange.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.10
+</td>
+<td width="5%" style="padding-right: 5px;">156
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Hunter" title="Hunter">Hunter</a>, <a href="/wiki/Merlkin" title="Merlkin">Merlkin</a>, <a href="/wiki/Sibang" title="Sibang">Sibang</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Orange_Mushroom" title="Orange Mushroom">Orange Mushroom</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Orange_Mushroom.gif" class="image fancybox"><img alt="Orange Mushroom.gif" src="/images/7/7d/Orange_Mushroom.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.30
+</td>
+<td width="5%" style="padding-right: 5px;">360
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Chasm_Spawn" title="Chasm Spawn">Chasm Spawn</a>, <a href="/wiki/Dryad" title="Dryad">Dryad</a>, <a href="/wiki/Haunted_Treeling" title="Haunted Treeling">Haunted Treeling</a>, <a href="/wiki/Pooka" title="Pooka">Pooka</a>, <a href="/wiki/Twisted_Pooka" title="Twisted Pooka">Twisted Pooka</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Party_Cake" title="Party Cake">Party Cake</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Party_Cake.gif" class="image fancybox"><img alt="Party Cake.gif" src="/images/9/93/Party_Cake.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Peanut" title="Peanut">Peanut</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Peanut.gif" class="image fancybox"><img alt="Peanut.gif" src="/images/4/43/Peanut.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.10
+</td>
+<td width="5%" style="padding-right: 5px;">48
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Mutated_Human" title="Mutated Human">Mutated Human</a>, <a href="/wiki/Squirrel" title="Squirrel">Squirrel</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Pear" title="Pear">Pear</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Pear.gif" class="image fancybox"><img alt="Pear.gif" src="/images/e/ea/Pear.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.40
+</td>
+<td width="5%" style="padding-right: 5px;">60
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Dwarf_Geomancer" title="Dwarf Geomancer">Dwarf Geomancer</a>, <a href="/wiki/Efreet" title="Efreet">Efreet</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Peas" title="Peas">Peas</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Peas.gif" class="image fancybox"><img alt="Peas.gif" src="/images/b/b8/Peas.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.80
+</td>
+<td width="5%" style="padding-right: 5px;">24
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém
+</td></tr>
+<tr>
+<td><a href="/wiki/Pineapple" title="Pineapple">Pineapple</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Pineapple.gif" class="image fancybox"><img alt="Pineapple.gif" src="/images/1/1c/Pineapple.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">7.50
+</td>
+<td width="5%" style="padding-right: 5px;">240
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém
+</td></tr>
+<tr>
+<td><a href="/wiki/Plum" title="Plum">Plum</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Plum.gif" class="image fancybox"><img alt="Plum.gif" src="/images/4/48/Plum.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.30
+</td>
+<td width="5%" style="padding-right: 5px;">60
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Elf" title="Elf">Elf</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Potato" title="Potato">Potato</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Potato.gif" class="image fancybox"><img alt="Potato.gif" src="/images/f/fa/Potato.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.70
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Crypt_Defiler" title="Crypt Defiler">Crypt Defiler</a>, <a href="/wiki/Gargoyle" title="Gargoyle">Gargoyle</a>, <a href="/wiki/Grave_Robber" title="Grave Robber">Grave Robber</a>, <a href="/wiki/Megasylvan_Yselda" title="Megasylvan Yselda">Megasylvan Yselda</a>, <a href="/wiki/Nomad" title="Nomad">Nomad</a>, <a href="/wiki/Nomad_(Blue)" title="Nomad (Blue)">Nomad (Blue)</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Prickly_Pear" title="Prickly Pear">Prickly Pear</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Prickly_Pear.gif" class="image fancybox"><img alt="Prickly Pear.gif" src="/images/b/b8/Prickly_Pear.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.25
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Ogre_Shaman" title="Ogre Shaman">Ogre Shaman</a>, <a href="/wiki/Shaper_Matriarch" title="Shaper Matriarch">Shaper Matriarch</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Pumpkin" title="Pumpkin">Pumpkin</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Pumpkin.gif" class="image fancybox"><img alt="Pumpkin.gif" src="/images/c/cc/Pumpkin.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">13.50
+</td>
+<td width="5%" style="padding-right: 5px;">204
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Rainbow_Trout" title="Rainbow Trout">Rainbow Trout</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Rainbow_Trout.gif" class="image fancybox"><img alt="Rainbow Trout.gif" src="/images/5/51/Rainbow_Trout.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">12.00
+</td>
+<td width="5%" style="padding-right: 5px;">300
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Chakoya_Toolshaper" title="Chakoya Toolshaper">Chakoya Toolshaper</a>, <a href="/wiki/Chakoya_Tribewarden" title="Chakoya Tribewarden">Chakoya Tribewarden</a>, <a href="/wiki/Chakoya_Windcaller" title="Chakoya Windcaller">Chakoya Windcaller</a>, <a href="/wiki/Dire_Penguin" title="Dire Penguin">Dire Penguin</a>, <a href="/wiki/Massive_Water_Elemental" title="Massive Water Elemental">Massive Water Elemental</a>, <a href="/wiki/Ocyakao" title="Ocyakao">Ocyakao</a>, <a href="/wiki/Penguin" title="Penguin">Penguin</a>, <a href="/wiki/Water_Elemental" title="Water Elemental">Water Elemental</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Raspberry" title="Raspberry">Raspberry</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Raspberry.gif" class="image fancybox"><img alt="Raspberry.gif" src="/images/b/bc/Raspberry.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.20
+</td>
+<td width="5%" style="padding-right: 5px;">12
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Elder_Forest_Fury" title="Elder Forest Fury">Elder Forest Fury</a>, <a href="/wiki/Infernalist" title="Infernalist">Infernalist</a>, <a href="/wiki/Nibblemaw" title="Nibblemaw">Nibblemaw</a>, <a href="/wiki/Smuggler" title="Smuggler">Smuggler</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Rat_Cheese" title="Rat Cheese">Rat Cheese</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Rat_Cheese.gif" class="image fancybox"><img alt="Rat Cheese.gif" src="/images/a/a9/Rat_Cheese.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">3.00
+</td>
+<td width="5%" style="padding-right: 5px;">145
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Corym_Charlatan" title="Corym Charlatan">Corym Charlatan</a>, <a href="/wiki/Corym_Skirmisher" title="Corym Skirmisher">Corym Skirmisher</a>, <a href="/wiki/Corym_Vanguard" title="Corym Vanguard">Corym Vanguard</a>, <a href="/wiki/Stonerefiner" title="Stonerefiner">Stonerefiner</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Red_Apple" title="Red Apple">Red Apple</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Red_Apple.gif" class="image fancybox"><img alt="Red Apple.gif" src="/images/d/d6/Red_Apple.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.50
+</td>
+<td width="5%" style="padding-right: 5px;">72
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Omruc" title="Omruc">Omruc</a>, <a href="/wiki/Priestess" title="Priestess">Priestess</a>, <a href="/wiki/Valkyrie" title="Valkyrie">Valkyrie</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Red_Gingerbread_Heart" title="Red Gingerbread Heart">Red Gingerbread Heart</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Red_Gingerbread_Heart.gif" class="image fancybox"><img alt="Red Gingerbread Heart.gif" src="/images/c/c7/Red_Gingerbread_Heart.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">1
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Red_Mushroom" title="Red Mushroom">Red Mushroom</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Red_Mushroom.gif" class="image fancybox"><img alt="Red Mushroom.gif" src="/images/9/96/Red_Mushroom.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.50
+</td>
+<td width="5%" style="padding-right: 5px;">48
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Flameborn" title="Flameborn">Flameborn</a>, <a href="/wiki/Hellspawn" title="Hellspawn">Hellspawn</a>, <a href="/wiki/Haunted_Treeling" title="Haunted Treeling">Haunted Treeling</a>, <a href="/wiki/Orc_Cult_Inquisitor" title="Orc Cult Inquisitor">Orc Cult Inquisitor</a>, <a href="/wiki/Orc_Cult_Minion" title="Orc Cult Minion">Orc Cult Minion</a>, <a href="/wiki/Orclops_Doomhauler" title="Orclops Doomhauler">Orclops Doomhauler</a>, <a href="/wiki/Orclops_Ravager" title="Orclops Ravager">Orclops Ravager</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Rice_Ball" title="Rice Ball">Rice Ball</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Rice_Ball.gif" class="image fancybox"><img alt="Rice Ball.gif" src="/images/0/00/Rice_Ball.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.30
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Roasted_Meat" title="Roasted Meat">Roasted Meat</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Roasted_Meat.gif" class="image fancybox"><img alt="Roasted Meat.gif" src="/images/e/ea/Roasted_Meat.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">25.00
+</td>
+<td width="5%" style="padding-right: 5px;">600
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Roll" title="Roll">Roll</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Roll.gif" class="image fancybox"><img alt="Roll.gif" src="/images/8/8f/Roll.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">36
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Hunter" title="Hunter">Hunter</a>, <a href="/wiki/Poacher" title="Poacher">Poacher</a>, <a href="/wiki/Crazed_Beggar" title="Crazed Beggar">Crazed Beggar</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Salmon" title="Salmon">Salmon</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Salmon.gif" class="image fancybox"><img alt="Salmon.gif" src="/images/d/d8/Salmon.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">3.20
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Sandfish" title="Sandfish">Sandfish</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sandfish.gif" class="image fancybox"><img alt="Sandfish.gif" src="/images/d/dd/Sandfish.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">6.60
+</td>
+<td width="5%" style="padding-right: 5px;">660
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Shell" title="Shell">Shell</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Shell.gif" class="image fancybox"><img alt="Shell.gif" src="/images/6/63/Shell.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">48
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Shrimp" title="Shrimp">Shrimp</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Shrimp.gif" class="image fancybox"><img alt="Shrimp.gif" src="/images/8/8c/Shrimp.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.50
+</td>
+<td width="5%" style="padding-right: 5px;">48
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Abyssal_Calamary" title="Abyssal Calamary">Abyssal Calamary</a>, <a href="/wiki/Calamary" title="Calamary">Calamary</a>, <a href="/wiki/Jellyfish" title="Jellyfish">Jellyfish</a>, <a href="/wiki/Quara_Constrictor" title="Quara Constrictor">Quara Constrictor</a>, <a href="/wiki/Quara_Constrictor_Scout" title="Quara Constrictor Scout">Quara Constrictor Scout</a>, <a href="/wiki/Quara_Hydromancer" title="Quara Hydromancer">Quara Hydromancer</a>, <a href="/wiki/Quara_Hydromancer_Scout" title="Quara Hydromancer Scout">Quara Hydromancer Scout</a>, <a href="/wiki/Quara_Mantassin" title="Quara Mantassin">Quara Mantassin</a>, <a href="/wiki/Quara_Pincher" title="Quara Pincher">Quara Pincher</a>, <a href="/wiki/Quara_Predator" title="Quara Predator">Quara Predator</a>, <a href="/wiki/Quara_Predator_Scout" title="Quara Predator Scout">Quara Predator Scout</a>, <a href="/wiki/Renegade_Quara_Constrictor" title="Renegade Quara Constrictor">Renegade Quara Constrictor</a>, <a href="/wiki/Renegade_Quara_Hydromancer" title="Renegade Quara Hydromancer">Renegade Quara Hydromancer</a>, <a href="/wiki/Renegade_Quara_Mantassin" title="Renegade Quara Mantassin">Renegade Quara Mantassin</a>, <a href="/wiki/Renegade_Quara_Pincher" title="Renegade Quara Pincher">Renegade Quara Pincher</a>, <a href="/wiki/Renegade_Quara_Predator" title="Renegade Quara Predator">Renegade Quara Predator</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Small_Bass" title="Small Bass">Small Bass</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Small_Bass.gif" class="image fancybox"><img alt="Small Bass.gif" src="/images/1/18/Small_Bass.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">10.00
+</td>
+<td width="5%" style="padding-right: 5px;">600
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Soft_Cheese" title="Soft Cheese">Soft Cheese</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Soft_Cheese.gif" class="image fancybox"><img alt="Soft Cheese.gif" src="/images/7/7e/Soft_Cheese.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Corym_Charlatan" title="Corym Charlatan">Corym Charlatan</a>, <a href="/wiki/Corym_Skirmisher" title="Corym Skirmisher">Corym Skirmisher</a>, <a href="/wiki/Corym_Vanguard" title="Corym Vanguard">Corym Vanguard</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Some_Mushrooms" title="Some Mushrooms">Some Mushrooms</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Some_Mushrooms.gif" class="image fancybox"><img alt="Some Mushrooms.gif" src="/images/c/c9/Some_Mushrooms.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.10
+</td>
+<td width="5%" style="padding-right: 5px;">36
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Some_Mushrooms_(Brown)" title="Some Mushrooms (Brown)">Some Mushrooms (Brown)</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Some_Mushrooms_(Brown).gif" class="image fancybox"><img alt="Some Mushrooms (Brown).gif" src="/images/f/f4/Some_Mushrooms_%28Brown%29.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.10
+</td>
+<td width="5%" style="padding-right: 5px;">144
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Stockfish" title="Stockfish">Stockfish</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Stockfish.gif" class="image fancybox"><img alt="Stockfish.gif" src="/images/5/51/Stockfish.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">420
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Strawberry" title="Strawberry">Strawberry</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Strawberry.gif" class="image fancybox"><img alt="Strawberry.gif" src="/images/a/a1/Strawberry.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.20
+</td>
+<td width="5%" style="padding-right: 5px;">24
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Candy_Horror" title="Candy Horror">Candy Horror</a>, <a href="/wiki/Gargoyle" title="Gargoyle">Gargoyle</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Sun_Fruit" title="Sun Fruit">Sun Fruit</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sun_Fruit.gif" class="image fancybox"><img alt="Sun Fruit.gif" src="/images/4/47/Sun_Fruit.gif" decoding="async" width="34" height="34"></a>
+</td>
+<td width="5%">2.10
+</td>
+<td width="5%" style="padding-right: 5px;">120
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Crazed_Summer_Rearguard" title="Crazed Summer Rearguard">Crazed Summer Rearguard</a>, <a href="/wiki/Crazed_Summer_Vanguard" title="Crazed Summer Vanguard">Crazed Summer Vanguard</a>, <a href="/wiki/Insane_Siren" title="Insane Siren">Insane Siren</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Taiyaki" title="Taiyaki">Taiyaki</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Taiyaki.gif" class="image fancybox"><img alt="Taiyaki.gif" src="/images/3/3d/Taiyaki.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">8.00
+</td>
+<td width="5%" style="padding-right: 5px;">185
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Nenhum.
+</td></tr>
+<tr>
+<td><a href="/wiki/Terramite_Eggs" title="Terramite Eggs">Terramite Eggs</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Terramite_Eggs.gif" class="image fancybox"><img alt="Terramite Eggs.gif" src="/images/0/0b/Terramite_Eggs.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.20
+</td>
+<td width="5%" style="padding-right: 5px;">36
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Terramite" title="Terramite">Terramite</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/The_Carrot_of_Doom" title="The Carrot of Doom">The Carrot of Doom</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:The_Carrot_of_Doom.gif" class="image fancybox"><img alt="The Carrot of Doom.gif" src="/images/3/38/The_Carrot_of_Doom.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.60
+</td>
+<td width="5%" style="padding-right: 5px;">0
+</td>
+<td width="5%"><a href="/wiki/Arquivo:N%C3%A3o.jpg" class="image fancybox"><img alt="Não.jpg" src="/images/c/c0/N%C3%A3o.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">não</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Tiny_Bass" title="Tiny Bass">Tiny Bass</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Tiny_Bass.gif" class="image fancybox"><img alt="Tiny Bass.gif" src="/images/b/b2/Tiny_Bass.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">300
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr>
+<tr>
+<td><a href="/wiki/Tomato" title="Tomato">Tomato</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Tomato.gif" class="image fancybox"><img alt="Tomato.gif" src="/images/0/06/Tomato.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">1.00
+</td>
+<td width="5%" style="padding-right: 5px;">72
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Bandit" title="Bandit">Bandit</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tortoise_Egg" title="Tortoise Egg">Tortoise Egg</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Tortoise_Egg.gif" class="image fancybox"><img alt="Tortoise Egg.gif" src="/images/b/b4/Tortoise_Egg.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.30
+</td>
+<td width="5%" style="padding-right: 5px;">96
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Tortoise" title="Tortoise">Tortoise</a>, <a href="/wiki/Thornback_Tortoise" title="Thornback Tortoise">Thornback Tortoise</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Valentine%27s_Cake" title="Valentine's Cake">Valentine's Cake</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Valentine%27s_Cake.gif" class="image fancybox"><img alt="Valentine's Cake.gif" src="/images/4/4b/Valentine%27s_Cake.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">144
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">
+</td></tr>
+<tr>
+<td><a href="/wiki/Veal" title="Veal">Veal</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Veal.gif" class="image fancybox"><img alt="Veal.gif" src="/images/6/65/Veal.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">5.00
+</td>
+<td width="5%" style="padding-right: 5px;">360
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Cow" title="Cow">Cow</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Walnut" title="Walnut">Walnut</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Walnut.gif" class="image fancybox"><img alt="Walnut.gif" src="/images/c/cb/Walnut.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.10
+</td>
+<td width="5%" style="padding-right: 5px;">48
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Enraged_Squirrel" title="Enraged Squirrel">Enraged Squirrel</a>, <a href="/wiki/Squirrel" title="Squirrel">Squirrel</a>, <a href="/wiki/Thieving_Squirrel" title="Thieving Squirrel">Thieving Squirrel</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/White_Mushroom" title="White Mushroom">White Mushroom</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:White_Mushroom.gif" class="image fancybox"><img alt="White Mushroom.gif" src="/images/e/ed/White_Mushroom.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.40
+</td>
+<td width="5%" style="padding-right: 5px;">108
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Crazed_Dwarf" title="Crazed Dwarf">Crazed Dwarf</a>, <a href="/wiki/Dryad" title="Dryad">Dryad</a>, <a href="/wiki/Dwarf" title="Dwarf">Dwarf</a>, <a href="/wiki/Dwarf_Geomancer" title="Dwarf Geomancer">Dwarf Geomancer</a>, <a href="/wiki/Dwarf_Guard" title="Dwarf Guard">Dwarf Guard</a>, <a href="/wiki/Dwarf_Soldier" title="Dwarf Soldier">Dwarf Soldier</a>, <a href="/wiki/Haunted_Treeling" title="Haunted Treeling">Haunted Treeling</a>, <a href="/wiki/Jailer" title="Jailer">Jailer</a>, <a href="/wiki/Leaf_Golem" title="Leaf Golem">Leaf Golem</a>, <a href="/wiki/Mad_Scientist" title="Mad Scientist">Mad Scientist</a>, <a href="/wiki/Omnivora" title="Omnivora">Omnivora</a>, <a href="/wiki/Skeleton_Elite_Warrior" title="Skeleton Elite Warrior">Skeleton Elite Warrior</a>, <a href="/wiki/Skeleton_Warrior" title="Skeleton Warrior">Skeleton Warrior</a>, <a href="/wiki/Swampling" title="Swampling">Swampling</a>, <a href="/wiki/Thornback_Tortoise" title="Thornback Tortoise">Thornback Tortoise</a>, <a href="/wiki/Undead_Mine_Worker" title="Undead Mine Worker">Undead Mine Worker</a>, <a href="/wiki/Wiggler" title="Wiggler">Wiggler</a>, <a href="/wiki/Wilting_Leaf_Golem" title="Wilting Leaf Golem">Wilting Leaf Golem</a>, <a href="/wiki/Woodling" title="Woodling">Woodling</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Winterberry_Liquor" title="Winterberry Liquor">Winterberry Liquor</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Winterberry_Liquor.gif" class="image fancybox"><img alt="Winterberry Liquor.gif" src="/images/8/89/Winterberry_Liquor.gif" decoding="async" width="34" height="34"></a>
+</td>
+<td width="5%">1.50
+</td>
+<td width="5%" style="padding-right: 5px;">180
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">
+</td></tr>
+<tr>
+<td><a href="/wiki/Wood_Mushroom" title="Wood Mushroom">Wood Mushroom</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Wood_Mushroom.gif" class="image fancybox"><img alt="Wood Mushroom.gif" src="/images/0/0f/Wood_Mushroom.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.30
+</td>
+<td width="5%" style="padding-right: 5px;">108
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%"><a href="/wiki/Boogy" title="Boogy">Boogy</a>, <a href="/wiki/Chasm_Spawn" title="Chasm Spawn">Chasm Spawn</a>, <a href="/wiki/Deepworm" title="Deepworm">Deepworm</a>, <a href="/wiki/Priestess" title="Priestess">Priestess</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Yummy_Gummy_Worm" title="Yummy Gummy Worm">Yummy Gummy Worm</a>
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Yummy_Gummy_Worm.gif" class="image fancybox"><img alt="Yummy Gummy Worm.gif" src="/images/b/bf/Yummy_Gummy_Worm.gif" decoding="async" width="32" height="32"></a>
+</td>
+<td width="5%">0.20
+</td>
+<td width="5%" style="padding-right: 5px;">88
+</td>
+<td width="5%"><a href="/wiki/Arquivo:Sim.jpg" class="image fancybox"><img alt="Sim.jpg" src="/images/c/ce/Sim.jpg" decoding="async" width="12" height="12"></a><span style="display:none;">sim</span>
+</td>
+<td align="left" width="65%">Ninguém.
+</td></tr></tbody><tfoot></tfoot></table>

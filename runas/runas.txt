@@ -1,0 +1,852 @@
+<table class="sortable jquery-tablesorter" id="tabelaDPL">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">Nome
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente">
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Spell Words</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Voc</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Prem</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Lvl p/ fazer</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Lvl p/ usar</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Magic Level p/ usar</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Mana p/ fazer</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Soul Points</small>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Ordenar por ordem ascendente"><small>Efeito</small>
+</th></tr></thead><tbody>
+<tr>
+<td><a href="/wiki/Animate_Dead_Rune" title="Animate Dead Rune">Animate Dead Rune</a>
+</td>
+<td width="10%"><img alt="Animate Dead Rune.gif" src="/images/5/53/Animate_Dead_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adana mort</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">27
+</td>
+<td width="5%">27
+</td>
+<td width="5%">4
+</td>
+<td width="5%">600
+</td>
+<td width="5%">5
+</td>
+<td width="34%"><small>Ao utilizá-la em um corpo morto, você terá 1 <a href="/wiki/Skeleton" title="Skeleton">skeleton</a> sob seu controle </small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Avalanche_Rune" title="Avalanche Rune">Avalanche Rune</a>
+</td>
+<td width="10%"><img alt="Avalanche Rune.gif" src="/images/0/05/Avalanche_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori mas frigo</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">30
+</td>
+<td width="5%">30
+</td>
+<td width="5%">4
+</td>
+<td width="5%">530
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Freezing_Flash_Icon.gif" class="image fancybox"><img alt="Freezing Flash Icon.gif" src="/images/7/7d/Freezing_Flash_Icon.gif" decoding="async" width="18" height="18"></a>  <a href="/wiki/Ice_Damage" title="Ice Damage">Dano de Gelo</a> em uma área de até 37 Sqms. </small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Chameleon_Rune" title="Chameleon Rune">Chameleon Rune</a>
+</td>
+<td width="10%"><img alt="Chameleon Rune.gif" src="/images/7/7a/Chameleon_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo ina</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">27
+</td>
+<td width="5%">27
+</td>
+<td width="5%">4
+</td>
+<td width="5%">600
+</td>
+<td width="5%">2
+</td>
+<td width="34%"><small>Transforma você no item no qual utilizou a runa por 200 segundos (3 minutos e 20 segundos).</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Convince_Creature_Rune" title="Convince Creature Rune">Convince Creature Rune</a>
+</td>
+<td width="10%"><img alt="Convince Creature Rune.gif" src="/images/9/91/Convince_Creature_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adeta sio</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">16
+</td>
+<td width="5%">16
+</td>
+<td width="5%">5
+</td>
+<td width="5%">200 (Irá gastar mais mana para convencer a criatura)
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small>Convence uma criatura a ajudá-lo. </small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cure_Poison_Rune" title="Cure Poison Rune">Cure Poison Rune</a>
+</td>
+<td width="10%"><img alt="Cure Poison Rune.gif" src="/images/f/f7/Cure_Poison_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adana pox</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">15
+</td>
+<td width="5%">15
+</td>
+<td width="5%">0
+</td>
+<td width="5%">200
+</td>
+<td width="5%">1
+</td>
+<td width="34%"><small>Cura <a href="/wiki/Poison" class="mw-redirect" title="Poison">envenenamento</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Destroy_Field_Rune" title="Destroy Field Rune">Destroy Field Rune</a>
+</td>
+<td width="10%"><img alt="Destroy Field Rune.gif" src="/images/7/7a/Destroy_Field_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adito grav</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>, <a href="/wiki/Paladin" title="Paladin">Paladins</a> e <a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">17
+</td>
+<td width="5%">17
+</td>
+<td width="5%">3
+</td>
+<td width="5%">120
+</td>
+<td width="5%">2
+</td>
+<td width="34%"><small>Destrói campos de <a href="/wiki/Fire_Field" title="Fire Field">fogo</a>, <a href="/wiki/Poison_Field" class="mw-redirect" title="Poison Field">veneno</a> e <a href="/wiki/Energy_Field" title="Energy Field">energia</a>, a qualquer distância, desde que não exista nada bloqueando o caminho.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Disintegrate_Rune" title="Disintegrate Rune">Disintegrate Rune</a>
+</td>
+<td width="10%"><img alt="Disintegrate Rune.gif" src="/images/b/b4/Disintegrate_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adito tera</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>, <a href="/wiki/Paladin" title="Paladin">Paladins</a> e <a href="/wiki/Monk" title="Monk">Monks</a></small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">21
+</td>
+<td width="5%">21
+</td>
+<td width="5%">4
+</td>
+<td width="5%">200
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small>Desintegra objetos e corpos de criaturas que podem ser movimentados.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Energy_Bomb_Rune" title="Energy Bomb Rune">Energy Bomb Rune</a>
+</td>
+<td width="10%"><img alt="Energy Bomb Rune.gif" src="/images/5/55/Energy_Bomb_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo mas vis</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">37
+</td>
+<td width="5%">37
+</td>
+<td width="5%">10
+</td>
+<td width="5%">880
+</td>
+<td width="5%">5
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Electrified_Flash_Icon.gif" class="image fancybox"><img alt="Electrified Flash Icon.gif" src="/images/f/f4/Electrified_Flash_Icon.gif" decoding="async" width="18" height="18"></a> Cria uma barreira 3x3 de <a href="/wiki/Energy_Field" title="Energy Field">Energy Fields</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Energy_Field_Rune" title="Energy Field Rune">Energy Field Rune</a>
+</td>
+<td width="10%"><img alt="Energy Field Rune.gif" src="/images/9/91/Energy_Field_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo grav vis</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">18
+</td>
+<td width="5%">18
+</td>
+<td width="5%">3
+</td>
+<td width="5%">320
+</td>
+<td width="5%">2
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Electrified_Flash_Icon.gif" class="image fancybox"><img alt="Electrified Flash Icon.gif" src="/images/f/f4/Electrified_Flash_Icon.gif" decoding="async" width="18" height="18"></a> Cria um <a href="/wiki/Energy_Field" title="Energy Field">Energy Field</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Energy_Wall_Rune" title="Energy Wall Rune">Energy Wall Rune</a>
+</td>
+<td width="10%"><img alt="Energy Wall Rune.gif" src="/images/1/1e/Energy_Wall_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo mas grav vis</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">41
+</td>
+<td width="5%">41
+</td>
+<td width="5%">9
+</td>
+<td width="5%">1000
+</td>
+<td width="5%">5
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Electrified_Flash_Icon.gif" class="image fancybox"><img alt="Electrified Flash Icon.gif" src="/images/f/f4/Electrified_Flash_Icon.gif" decoding="async" width="18" height="18"></a> Cria uma barreira de 1x7 de <a href="/wiki/Energy_Field" title="Energy Field">Energy Fields</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Explosion_Rune" title="Explosion Rune">Explosion Rune</a>
+</td>
+<td width="10%"><img alt="Explosion Rune.gif" src="/images/c/c6/Explosion_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo mas hur</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">31
+</td>
+<td width="5%">31
+</td>
+<td width="5%">6
+</td>
+<td width="5%">570
+</td>
+<td width="5%">4
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Physical_Damage_Icon.gif" class="image fancybox"><img alt="Physical Damage Icon.gif" src="/images/3/37/Physical_Damage_Icon.gif" decoding="async" width="18" height="18"></a> Dano físico em área em cruz (+).</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fire_Bomb_Rune" title="Fire Bomb Rune">Fire Bomb Rune</a>
+</td>
+<td width="10%"><img alt="Fire Bomb Rune.gif" src="/images/c/c0/Fire_Bomb_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo mas flam</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">27
+</td>
+<td width="5%">27
+</td>
+<td width="5%">5
+</td>
+<td width="5%">600
+</td>
+<td width="5%">4
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Burning_Flash_Icon.gif" class="image fancybox"><img alt="Burning Flash Icon.gif" src="/images/9/95/Burning_Flash_Icon.gif" decoding="async" width="18" height="18"></a> Cria uma barreira 3x3 de <a href="/wiki/Fire_Field" title="Fire Field">Fire Fields</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fire_Field_Rune" title="Fire Field Rune">Fire Field Rune</a>
+</td>
+<td width="10%"><img alt="Fire Field Rune.gif" src="/images/2/23/Fire_Field_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo grav flam</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">15
+</td>
+<td width="5%">15
+</td>
+<td width="5%">1
+</td>
+<td width="5%">240
+</td>
+<td width="5%">1
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Burning_Flash_Icon.gif" class="image fancybox"><img alt="Burning Flash Icon.gif" src="/images/9/95/Burning_Flash_Icon.gif" decoding="async" width="18" height="18"></a> Cria um <a href="/wiki/Fire_Field" title="Fire Field">Fire Field</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fire_Wall_Rune" title="Fire Wall Rune">Fire Wall Rune</a>
+</td>
+<td width="10%"><img alt="Fire Wall Rune.gif" src="/images/9/95/Fire_Wall_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo mas grav flam</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">33
+</td>
+<td width="5%">33
+</td>
+<td width="5%">6
+</td>
+<td width="5%">780
+</td>
+<td width="5%">4
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Burning_Flash_Icon.gif" class="image fancybox"><img alt="Burning Flash Icon.gif" src="/images/9/95/Burning_Flash_Icon.gif" decoding="async" width="18" height="18"></a> Cria uma barreira 1x5 de <a href="/wiki/Fire_Field" title="Fire Field">Fire Fields</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fireball_Rune" title="Fireball Rune">Fireball Rune</a>
+</td>
+<td width="10%"><img alt="Fireball Rune.gif" src="/images/b/b4/Fireball_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori flam</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">27
+</td>
+<td width="5%">27
+</td>
+<td width="5%">4
+</td>
+<td width="5%">460
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Burning_Flash_Icon.gif" class="image fancybox"><img alt="Burning Flash Icon.gif" src="/images/9/95/Burning_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Fire_Damage" title="Fire Damage">Dano fogo</a> em um alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Great_Fireball_Rune" title="Great Fireball Rune">Great Fireball Rune</a>
+</td>
+<td width="10%"><img alt="Great Fireball Rune.gif" src="/images/f/f1/Great_Fireball_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori mas flam</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">30
+</td>
+<td width="5%">30
+</td>
+<td width="5%">4
+</td>
+<td width="5%">530
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Burning_Flash_Icon.gif" class="image fancybox"><img alt="Burning Flash Icon.gif" src="/images/9/95/Burning_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Fire_Damage" title="Fire Damage">Dano fogo</a> em uma área de até 37 Sqms. </small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Heavy_Magic_Missile_Rune" title="Heavy Magic Missile Rune">Heavy Magic Missile Rune</a>
+</td>
+<td width="10%"><img alt="Heavy Magic Missile Rune.gif" src="/images/6/69/Heavy_Magic_Missile_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori vis</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">25
+</td>
+<td width="5%">25
+</td>
+<td width="5%">3
+</td>
+<td width="5%">350
+</td>
+<td width="5%">2
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Electrified_Flash_Icon.gif" class="image fancybox"><img alt="Electrified Flash Icon.gif" src="/images/f/f4/Electrified_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Energy_Damage" title="Energy Damage">Dano de energia</a> em um alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Holy_Missile_Rune" title="Holy Missile Rune">Holy Missile Rune</a>
+</td>
+<td width="10%"><img alt="Holy Missile Rune.gif" src="/images/4/4a/Holy_Missile_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori san</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Paladin" title="Paladin">Paladins</a></small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">27
+</td>
+<td width="5%">27
+</td>
+<td width="5%">4
+</td>
+<td width="5%">300
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Dazzled_Flash_Icon.gif" class="image fancybox"><img alt="Dazzled Flash Icon.gif" src="/images/9/98/Dazzled_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Holy_Damage" title="Holy Damage">Dano Sagrado</a> em um alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Icicle_Rune" title="Icicle Rune">Icicle Rune</a>
+</td>
+<td width="10%"><img alt="Icicle Rune.gif" src="/images/9/92/Icicle_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori frigo</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">28
+</td>
+<td width="5%">28
+</td>
+<td width="5%">4
+</td>
+<td width="5%">460
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Freezing_Flash_Icon.gif" class="image fancybox"><img alt="Freezing Flash Icon.gif" src="/images/7/7d/Freezing_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Ice_Damage" title="Ice Damage">Dano gelo</a> em um alvo. </small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Intense_Healing_Rune" title="Intense Healing Rune">Intense Healing Rune</a>
+</td>
+<td width="10%"><img alt="Intense Healing Rune.gif" src="/images/b/bf/Intense_Healing_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adura gran</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">15
+</td>
+<td width="5%">15
+</td>
+<td width="5%">1
+</td>
+<td width="5%">120.
+</td>
+<td width="5%">2.
+</td>
+<td width="34%"><small><a href="/wiki/Cura" class="mw-redirect" title="Cura">Cura</a> o alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Light_Magic_Missile_Rune" title="Light Magic Missile Rune">Light Magic Missile Rune</a>
+</td>
+<td width="10%"><img alt="Light Magic Missile Rune.gif" src="/images/d/d7/Light_Magic_Missile_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori min vis</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">15
+</td>
+<td width="5%">15
+</td>
+<td width="5%">0
+</td>
+<td width="5%">120
+</td>
+<td width="5%">1
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Electrified_Flash_Icon.gif" class="image fancybox"><img alt="Electrified Flash Icon.gif" src="/images/f/f4/Electrified_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Energy_Damage" title="Energy Damage">Dano de energia</a> em um alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Light_Stone_Shower_Rune" title="Light Stone Shower Rune">Light Stone Shower Rune</a>
+</td>
+<td width="10%"><img alt="Light Stone Shower Rune.gif" src="/images/8/89/Light_Stone_Shower_Rune.gif" decoding="async" width="23" height="17">
+</td>
+<td width="5%"><small><i>adori infir mas tera</i></small>
+</td>
+<td width="5%"><small>--</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">--
+</td>
+<td width="5%">1
+</td>
+<td width="5%">--
+</td>
+<td width="5%">--
+</td>
+<td width="5%">--
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Poisoned_Flash_Icon.gif" class="image fancybox"><img alt="Poisoned Flash Icon.gif" src="/images/0/0d/Poisoned_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Earth_Damage" title="Earth Damage">Dano terra</a> em uma área de 3x3 Sqms.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lightest_Magic_Missile_Rune" title="Lightest Magic Missile Rune">Lightest Magic Missile Rune</a>
+</td>
+<td width="10%"><img alt="Lightest Magic Missile Rune.gif" src="/images/9/98/Lightest_Magic_Missile_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori dis min vis</i></small>
+</td>
+<td width="5%"><small>--</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">--
+</td>
+<td width="5%">1
+</td>
+<td width="5%">0
+</td>
+<td width="5%">5
+</td>
+<td width="5%">0
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Electrified_Flash_Icon.gif" class="image fancybox"><img alt="Electrified Flash Icon.gif" src="/images/f/f4/Electrified_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Energy_Damage" title="Energy Damage">Dano de energia</a> em um alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lightest_Missile_Rune" title="Lightest Missile Rune">Lightest Missile Rune</a>
+</td>
+<td width="10%"><img alt="Lightest Missile Rune.gif" src="/images/6/67/Lightest_Missile_Rune.gif" decoding="async" width="13" height="22">
+</td>
+<td width="5%"><small><i>adori infir vis</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">--
+</td>
+<td width="5%">1
+</td>
+<td width="5%">--
+</td>
+<td width="5%">--
+</td>
+<td width="5%">--
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Electrified_Flash_Icon.gif" class="image fancybox"><img alt="Electrified Flash Icon.gif" src="/images/f/f4/Electrified_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Energy_Damage" title="Energy Damage">Dano de energia</a> em um alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Magic_Wall_Rune" title="Magic Wall Rune">Magic Wall Rune</a>
+</td>
+<td width="10%"><img alt="Magic Wall Rune.gif" src="/images/9/95/Magic_Wall_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo grav tera</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">32
+</td>
+<td width="5%">32
+</td>
+<td width="5%">9
+</td>
+<td width="5%">750
+</td>
+<td width="5%">5
+</td>
+<td width="34%"><small>Cria uma parede mágica de 1 sqm.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Paralyse_Rune" title="Paralyse Rune">Paralyse Rune</a>
+</td>
+<td width="10%"><img alt="Paralyse Rune.gif" src="/images/7/7e/Paralyse_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adana ani</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">54
+</td>
+<td width="5%">54
+</td>
+<td width="5%">18
+</td>
+<td width="5%">1400 (Irá gastar a mesma quantia de mana para paralisar o alvo)
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Slowed_Flash_Icon.gif" class="image fancybox"><img alt="Slowed Flash Icon.gif" src="/images/5/57/Slowed_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Paralisia" title="Paralisia">Paralisa</a> o alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Poison_Bomb_Rune" title="Poison Bomb Rune">Poison Bomb Rune</a>
+</td>
+<td width="10%"><img alt="Poison Bomb Rune.gif" src="/images/2/2f/Poison_Bomb_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo mas pox</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">25
+</td>
+<td width="5%">25
+</td>
+<td width="5%">4
+</td>
+<td width="5%">520
+</td>
+<td width="5%">2
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Poisoned_Flash_Icon.gif" class="image fancybox"><img alt="Poisoned Flash Icon.gif" src="/images/0/0d/Poisoned_Flash_Icon.gif" decoding="async" width="18" height="18"></a> Cria uma barreira 3x3 de <a href="/wiki/Poison_Gas" title="Poison Gas">Poison Gases</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Poison_Field_Rune" title="Poison Field Rune">Poison Field Rune</a>
+</td>
+<td width="10%"><img alt="Poison Field Rune.gif" src="/images/5/59/Poison_Field_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo grav pox</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">14
+</td>
+<td width="5%">14
+</td>
+<td width="5%">0
+</td>
+<td width="5%">200
+</td>
+<td width="5%">1
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Poisoned_Flash_Icon.gif" class="image fancybox"><img alt="Poisoned Flash Icon.gif" src="/images/0/0d/Poisoned_Flash_Icon.gif" decoding="async" width="18" height="18"></a> Cria um <a href="/wiki/Poison_Gas" title="Poison Gas">Poison Gas</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Poison_Wall_Rune" title="Poison Wall Rune">Poison Wall Rune</a>
+</td>
+<td width="10%"><img alt="Poison Wall Rune.gif" src="/images/4/44/Poison_Wall_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo mas grav pox</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">29
+</td>
+<td width="5%">29
+</td>
+<td width="5%">5
+</td>
+<td width="5%">640
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Poisoned_Flash_Icon.gif" class="image fancybox"><img alt="Poisoned Flash Icon.gif" src="/images/0/0d/Poisoned_Flash_Icon.gif" decoding="async" width="18" height="18"></a> Cria uma barreira 1x5 de <a href="/wiki/Poison_Gas" title="Poison Gas">Poison Gases</a>.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Soulfire_Rune" title="Soulfire Rune">Soulfire Rune</a>
+</td>
+<td width="10%"><img alt="Soulfire Rune.gif" src="/images/6/65/Soulfire_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo res flam</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">27
+</td>
+<td width="5%">27
+</td>
+<td width="5%">7
+</td>
+<td width="5%">420
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Burning_Flash_Icon.gif" class="image fancybox"><img alt="Burning Flash Icon.gif" src="/images/9/95/Burning_Flash_Icon.gif" decoding="async" width="18" height="18"></a> Adiciona efeito <a href="/wiki/Burning" title="Burning">Burning</a> ao alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Stalagmite_Rune" title="Stalagmite Rune">Stalagmite Rune</a>
+</td>
+<td width="10%"><img alt="Stalagmite Rune.gif" src="/images/6/60/Stalagmite_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori tera</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a>, <a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a>.</small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">24
+</td>
+<td width="5%">24
+</td>
+<td width="5%">3
+</td>
+<td width="5%">350
+</td>
+<td width="5%">2
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Poisoned_Flash_Icon.gif" class="image fancybox"><img alt="Poisoned Flash Icon.gif" src="/images/0/0d/Poisoned_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Earth_Damage" title="Earth Damage">Dano terra</a> em um alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Stone_Shower_Rune" title="Stone Shower Rune">Stone Shower Rune</a>
+</td>
+<td width="10%"><img alt="Stone Shower Rune.gif" src="/images/e/ea/Stone_Shower_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori mas tera</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">28
+</td>
+<td width="5%">28
+</td>
+<td width="5%">4
+</td>
+<td width="5%">430
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Poisoned_Flash_Icon.gif" class="image fancybox"><img alt="Poisoned Flash Icon.gif" src="/images/0/0d/Poisoned_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Earth_Damage" title="Earth Damage">Dano terra</a> em uma área de até 37 Sqms. </small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sudden_Death_Rune" title="Sudden Death Rune">Sudden Death Rune</a>
+</td>
+<td width="10%"><img alt="Sudden Death Rune.gif" src="/images/c/c2/Sudden_Death_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori gran mort</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcerers</a></small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">45
+</td>
+<td width="5%">45
+</td>
+<td width="5%">15
+</td>
+<td width="5%">985
+</td>
+<td width="5%">5
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Cursed_Flash_Icon.gif" class="image fancybox"><img alt="Cursed Flash Icon.gif" src="/images/e/e6/Cursed_Flash_Icon.gif" decoding="async" width="18" height="18"></a> Dano <a href="/wiki/Death_Damage" title="Death Damage">Death</a> em um alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Thunderstorm_Rune" title="Thunderstorm Rune">Thunderstorm Rune</a>
+</td>
+<td width="10%"><img alt="Thunderstorm Rune.gif" src="/images/a/a4/Thunderstorm_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adori mas vis</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Sorcerer" title="Sorcerer">Sorcereres</a></small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">28
+</td>
+<td width="5%">28
+</td>
+<td width="5%">4
+</td>
+<td width="5%">430
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small><a href="/wiki/Arquivo:Electrified_Flash_Icon.gif" class="image fancybox"><img alt="Electrified Flash Icon.gif" src="/images/f/f4/Electrified_Flash_Icon.gif" decoding="async" width="18" height="18"></a> <a href="/wiki/Energy_Damage" title="Energy Damage">Dano de energia</a> em uma área de até 37 Sqms.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ultimate_Healing_Rune" title="Ultimate Healing Rune">Ultimate Healing Rune</a>
+</td>
+<td width="10%"><img alt="Ultimate Healing Rune.gif" src="/images/e/e7/Ultimate_Healing_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adura vita</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Druids</a></small>
+</td>
+<td width="5%"><img alt="Cross.png" src="/images/4/4e/Cross.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">24
+</td>
+<td width="5%">24
+</td>
+<td width="5%">4
+</td>
+<td width="5%">400
+</td>
+<td width="5%">3
+</td>
+<td width="34%"><small><a href="/wiki/Cura" class="mw-redirect" title="Cura">Cura</a> o alvo.</small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wild_Growth_Rune" title="Wild Growth Rune">Wild Growth Rune</a>
+</td>
+<td width="10%"><img alt="Wild Growth Rune.gif" src="/images/f/f1/Wild_Growth_Rune.gif" decoding="async" width="32" height="32">
+</td>
+<td width="5%"><small><i>adevo grav vita</i></small>
+</td>
+<td width="5%"><small><a href="/wiki/Druid" title="Druid">Elder Druids</a></small>
+</td>
+<td width="5%"><img alt="Tick.png" src="/images/2/29/Tick.png" decoding="async" width="12" height="12">
+</td>
+<td width="5%">27
+</td>
+<td width="5%">27
+</td>
+<td width="5%">8
+</td>
+<td width="5%">600
+</td>
+<td width="5%">5
+</td>
+<td width="34%"><small>Cria uma parede viva de 1 sqm.</small>
+</td></tr></tbody><tfoot></tfoot></table>

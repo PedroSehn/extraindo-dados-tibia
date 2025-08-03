@@ -1,0 +1,506 @@
+[
+    {
+        "Nome": "Antidote Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/54/Antidote_Potion.gif",
+        "Atributos": "Cura poison.",
+        "Agrupável": "",
+        "Peso": "2.65",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Beer",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8b/Beer.gif",
+        "Atributos": "Te deixa bêbado.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Beer Mug",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/cb/Beer_Mug.gif",
+        "Atributos": "Use para beber.",
+        "Agrupável": "",
+        "Peso": "8.00",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Berserk Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/c0/Berserk_Potion.gif",
+        "Atributos": "Dá +5 para todos melee skills e -10 de shielding , por 10 minutos.",
+        "Agrupável": "",
+        "Peso": "2.90",
+        "Dropa_de": "Alptramun , Annihilon , Boogy , Chagorz , Darkfang , Drume , Flameborn , Gorzindel , Hellspawn , Hemming , Izcandar the Banished , Lokathmor , Madareth , Malofur Mangrinder , Maxxenius , Mazzinor , Megasylvan Yselda , Murcion , Ogre Savage , Orc Cult Inquisitor , Orc Cult Minion , Orc Cult Priest , Orc Cultist , Orclops Doomhauler , Orclops Ravager , Overcharged Energy Elemental , Plagueroot , Razzagorn , Scarlett Etzel , Tentugly's Head , The Dread Maiden , The Enraged Thorn Knight , The Monster , The Nightmare Beast , The Time Guardian , War Golem , Werebear , Wereboar , Werewolf , Worker Golem , Timira the Many-Headed ."
+    },
+    {
+        "Nome": "Bestiary Betterment",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/86/Bestiary_Betterment.gif",
+        "Atributos": "Faz com que as mortes para o Bestiário contem duas vezes, por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.10",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Blood",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/92/Blood.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Bullseye Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/99/Bullseye_Potion.gif",
+        "Atributos": "Dá +5 de distance skill e -10 shielding por 10 minutos.",
+        "Agrupável": "",
+        "Peso": "2.90",
+        "Dropa_de": "Alptramun , Crazed Summer Vanguard , Chagorz , Drume , Elder Forest Fury , Ghulosh , Gorzindel , Haunted Treeling , Ichgahal , Izcandar the Banished , Madareth , Mad Mage , Malofur Mangrinder , Maxxenius , Minotaur Amazon , Naga Archer , Plagueroot , Raging Mage , Razzagorn , Scarlett Etzel , Shaburak Demon , Shaburak Lord , Shaburak Prince , Tentugly's Head , The Brainstealer , The Dread Maiden , The Enraged Thorn Knight , The Monster , The Nightmare Beast , The Scourge of Oblivion , Timira the Many-Headed ."
+    },
+    {
+        "Nome": "Charm Upgrade",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/96/Charm_Upgrade.gif",
+        "Atributos": "Aumenta as chances de acionar um charm ofensivo em 5% (exceto Cripple) por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.10",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Coconut Milk",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/e4/Coconut_Milk.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Death Amplification",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/5d/Death_Amplification.gif",
+        "Atributos": "Aumenta o dano, fazendo com que seus ataques e magias tratem as sensibilidades do alvo como se fossem 8% maiores, por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.30",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Death Resilience",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/4e/Death_Resilience.gif",
+        "Atributos": "Aumenta a proteção em 8% por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Earth Amplification",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/7e/Earth_Amplification.gif",
+        "Atributos": "Aumenta o dano, fazendo com que seus ataques e magias tratem as sensibilidades do alvo como se fossem 8% maiores, por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.30",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Earth Resilience",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/50/Earth_Resilience.gif",
+        "Atributos": "Aumenta a proteção em 8% por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Energy Amplification",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/e5/Energy_Amplification.gif",
+        "Atributos": "Aumenta o dano, fazendo com que seus ataques e magias tratem as sensibilidades do alvo como se fossem 8% maiores, por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.30",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Energy Resilience",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/86/Energy_Resilience.gif",
+        "Atributos": "Aumenta a proteção em 8% por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Essence of Dread",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/19/Essence_of_Dread.gif",
+        "Atributos": "Pode ser trocada ( 33635,32344,6:2 aqui ).",
+        "Agrupável": "",
+        "Peso": "0.30",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Essence of Wishful Thinking",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fc/Essence_of_Wishful_Thinking.gif",
+        "Atributos": "Pode ser trocada ( 33635,32344,6:2 aqui ).",
+        "Agrupável": "",
+        "Peso": "0.30",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Fire Amplification",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/80/Fire_Amplification.gif",
+        "Atributos": "Aumenta o dano, fazendo com que seus ataques e magias tratem as sensibilidades do alvo como se fossem 8% maiores, por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.30",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Fire Resilience",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/2/2a/Fire_Resilience.gif",
+        "Atributos": "Aumenta a proteção em 8% por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Flask of Demonic Blood",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8c/Flask_of_Demonic_Blood.gif",
+        "Atributos": "Pode se dar \"use\" neste item.",
+        "Agrupável": "",
+        "Peso": "2.90",
+        "Dropa_de": "Betrayed Wraith , Burning Book , Dark Torturer , Dawnfire Asura , Diabolic Imp , Falcon Knight , Floating Savant , Fury , Grand Chaplain Gaunder , Grim Reaper , Grimeleech , Hand of Cursed Fate , Hellflayer , Hellhound , Juggernaut , Kerberos , Midnight Asura , Nightmare , Preceptor Lazare , Ragiaz , Razzagorn , Shulgrax , Tarbaz , The Blazing Rose , The Diamond Blossom , Tormentor , True Midnight Asura ."
+    },
+    {
+        "Nome": "Flask of Rust Remover",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fc/Flask_of_Rust_Remover.gif",
+        "Atributos": "Pode ser usado para remover a ferrugem de equipamentos.",
+        "Agrupável": "",
+        "Peso": "0.90",
+        "Dropa_de": "Control Tower , Deepling Scout , Rustheap Golem ."
+    },
+    {
+        "Nome": "Fresh Mushroom Beer",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/4c/Fresh_Mushroom_Beer.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém"
+    },
+    {
+        "Nome": "Fruit Juice",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/99/Fruit_Juice.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Great Health Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/91/Great_Health_Potion.gif",
+        "Atributos": "Regenera HP quando usado.",
+        "Agrupável": "",
+        "Peso": "3.10",
+        "Dropa_de": "Annihilon , Arctic Faun , Armadile , Behemoth , Bloodback , Boar Man , Bog Raider , Breach Brood , Bretzecutioner , Broken Shaper , Brutus Bloodbeard , Bullwark , Chopper , Control Tower , Crape Man , Crawler , Crusader , Cult Believer , Cult Enforcer , Cult Scholar , Dark Faun , Dark Torturer , Deadeye Devious , Deathling Scout , Deathling Spellsinger , Death Priest Shargon , Deep Terror , Deepling Elite , Deepling Guard , Deepling Tyrant , Deepling Warrior , Demodras , Destroyer , Draken Warmaster , Enslaved Dwarf , Ethershreck , Execowtioner , Exotic Cave Spider , Falcon Knight , Fazzrah , Flameborn , Frazzlemaw , Fury , Glooth Bandit , Glooth Battery , Glooth Bomb , Glooth Fairy , Golgordan , Grand Canon Dominus , Grand Commander Soeren , Grimeleech , Guzzlemaw , Hellgorak , Hellhound , Hellspawn , Hero , Hideous Fungus , Horestis , Hulking Carnisylvan , Humongous Fungus , Infernalist , Instable Sparkion , Juggernaut , Kroazur , Latrivan , Lisa , Lizard Chosen , Lizard High Guard , Lizard Noble , Lizard Zaogun , Lost Berserker , Lost Soul , Lost Thrower , Madareth , Magma Crawler , Mahrdis , Massive Water Elemental , Midnight Asura , Mindmasher , Minotaur Amazon , Minotaur Cult Follower , Minotaur Cult Prophet , Minotaur Cult Zealot , Moohtant Wallbreaker , Morguthis , Orc Cult Fanatic , Omruc , Overcharged Energy Elemental , Paiz the Pauperizer , Pirat Cutthroat , Plaguesmith , Quara Pincher , Quara Predator , Ragiaz , Raging Mage , Ratmiral Blackwhiskers , Reality Reaver , Renegade Knight , Renegade Quara Hydromancer , Renegade Quara Pincher , Renegade Quara Predator , Retching Horror , Ron The Ripper , Shadowpelt , Silencer , Spitter , Shadowstalker , Sparkion , Stabilizing Reality Reaver , Thalas , The Old Widow , The Ravager , Tremor Worm , True Midnight Asura , Twisted Shaper , Two-Headed Turtle , Undead Elite Gladiator , Undead Dragon , Ungreez , Ushuriel , Vicious Squire , Vile Grandmaster , Walker , Warlock , Weakened Frazzlemaw , Werebear , Worker Golem , Zanakeph , Zugurosh ."
+    },
+    {
+        "Nome": "Great Mana Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/5b/Great_Mana_Potion.gif",
+        "Atributos": "Regenera mana quando usado.",
+        "Agrupável": "",
+        "Peso": "3.10",
+        "Dropa_de": "Ancient Spawn of Morgathla , Angry Demon , Animated Guzzlemaw , Annihilon , Anomaly , Arbaziloth , Armadile , Ashmunrah , Betrayed Wraith , Black Vixen , Blightwalker , Breach Brood , Bretzecutioner , Bullwark , Choking Fear , Chopper , Cliff Strider , Control Tower , Crawler , Dark Carnisylvan , Dark Torturer , Dawnfire Asura , Deathling Scout , Deathling Spellsinger , Death Priest Shargon , Deepling Elite , Deepling Guard , Deepling Tyrant , Deepling Warrior , Demon , Demon Outcast , Dipthrah , Draken Abomination , Draken Elite , Draken Spellweaver , Dread Intruder , Enslaved Dwarf , Eradicator , Essence Of Malice , Ethershreck , Execowtioner , Exotic Bat , Falcon Knight , Feversleep , Fleshslicer , Frazzlemaw , Ghastly Dragon , Ghost Of A Planegazer , Glooth Bandit , Glooth Bomb , Glooth Brigand , Glooth Fairy , Glooth Golem , Goggle Cake , Gorgo , Grim Reaper , Grimeleech , Guzzlemaw , Hand of Cursed Fate , Hellflayer , Hellgorak , Hellhound , Hideous Fungus , Hive Overseer , Horestis , Humongous Fungus , Infernalist , Instable Breach Brood , Instable Sparkion , Ironblight , Juggernaut , Kerberos , Kollos , Lady Tenebris , Lava Golem , Lisa , Lizard Dragon Priest , Lizard Magistratus , Lloyd , Lokathmor , Lost Basher , Lost Berserker , Lost Exile , Lost Husher , Lost Soul , Lost Thrower , Madareth , Magma Crawler , Massive Energy Elemental , Massive Water Elemental , Maw , Mazoran , Medusa , Melting Frozen Horror , Minotaur Amazon , Minotaur Cult Prophet , Mindmasher , Moohtant , Moohtant Wallbreaker , Nymph , Orewalker , Outburst , Paiz the Pauperizer , Phantasm , Pirat Bombardier , Pixie , Plagirath , Preceptor Lazare , Prince Drazzak , Quara Hydromancer , Rage Squid , Ragiaz , Raging Mage , Rahemos , Ratmiral Blackwhiskers , Ravenous Hunger , Razzagorn , Reality Reaver , Realityquake , Reflection Of A Mage , Renegade Quara Constrictor , Renegade Quara Hydromancer , Renegade Quara Pincher , Retching Horror , Rhindeer , Rotspit , Rupture , Soul of Dragonking Zyrtarch , Sparkion , Stabilizing Reality Reaver , Sea Serpent , Serpent Spawn , Shadowstalker , Sharpclaw , Shulgrax , Shiversleep , Souleater , Spectre , Spidris Elite , Spidris , Spitter , Stabilizing Dread Intruder , Stone Devourer , Swan Maiden , Tarbaz , Terofar , Terrorsleep , The Baron from Below , The Count Of The Core , The Duke Of The Depths , The Enraged Thorn Knight , The Last Lore Keeper , The Lord of the Lice , The Noxious Spawn , The Ravager , The Rootkraken , The Sandking , The Shatterer , The Souldespoiler , The Source Of Corruption , The Time Guardian , The Unarmored Voidborn , Thul , Tremor Worm , Undead Dragon , Ungreez , Ushuriel , Usurper Knight , Vashresamun , Vexclaw , War Golem , Warlock , Weakened Frazzlemaw , Weeper , Werebadger , Werebear , Werefox , Werehyaena Shaman , Worker Golem , World Devourer , Zamulosh , Zanakeph , Zavarash , Zugurosh ."
+    },
+    {
+        "Nome": "Great Spirit Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/08/Great_Spirit_Potion.gif",
+        "Atributos": "Regenera vida e mana quando usado.",
+        "Agrupável": "",
+        "Peso": "3.10",
+        "Dropa_de": "Ancient Spawn of Morgathla , Angry Demon , Annihilon , Anomaly , Arachnophobica , Arbaziloth , Bashmu , Black Vixen , Bog Raider , Breach Brood , Bretzecutioner , Bullwark , Burster , Burster Spectre , Cave Chimera , Choking Fear , Crazed Winter Rearguard , Demon , Draken Abomination , Emerald Tortoise , Eradicator , Essence Of Malice , Ethershreck , Falcon Paladin , Ghastly Dragon , Ghulosh , Glooth Bandit , Glooth Brigand , Glooth Bomb , Glooth Fairy , Gorzindel , Grimeleech , Harpy , Hatebreeder , Hellflayer , Hellgorak , Hellhound , Instable Sparkion , Juvenile Bashmu , Lady Tenebris , Liodile , Lisa , Lokathmor , Madareth , Malvaroth , Mazoran , Melting Frozen Horror , Monk's Apparition , Outburst , Paiz the Pauperizer , Plagirath , Poisonous Carnisylvan , Prince Drazzak , Rage Squid , Ragiaz , Ravenous Hunger , Razzagorn , Reality Reaver , Realityquake , Ripper Spectre , Rupture , Shrieking Cry-Stal , Shulgrax , Soul of Dragonking Zyrtarch , Sparkion , Spirit Overlord , Stabilizing Dread Intruder , Tarbaz , Terofar , Thanatursus , The Baron from Below , The Count Of The Core , The Diamond Blossom , The Duke Of The Depths , The Enraged Thorn Knight , The False God , The Flaming Orchid , The Last Lore Keeper , The Lord of the Lice , The Sandking , The Shatterer , The Souldespoiler , The Source Of Corruption , The Time Guardian , The Unarmored Voidborn , Undertaker , Ushuriel , Vexclaw , Walker , Worker Golem , World Devourer , Zamulosh , Zanakeph , Zavarash , Zugurosh ."
+    },
+    {
+        "Nome": "Health Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/e2/Health_Potion.gif",
+        "Atributos": "Regenera HP quando usado.",
+        "Agrupável": "",
+        "Peso": "2.70",
+        "Dropa_de": "Barbarian Bloodwalker , Barbarian Headsplitter , Barbarian Skullhunter , Bibby Bloodbath , Bonebeast , Cyclops , Cursed Ape , Dawnfly , Dark Apprentice , Dark Magician , Death Priest , Demon Skeleton , Dragon Hatchling , Dwarf Guard , Dworc Voodoomaster , Elf Arcanist , Elf Overseer , Emerald Damselfly , Frost Dragon Hatchling , Frost Giant , Frost Giantess , Ghoulish Hyaena , Golden Servant , Golden Servant Replica , Grave Guard , Haunted Treeling , Insectoid Scout , Insectoid Worker , Iron Servant , Kongra , Lizard Sentinel , Lizard Templar , Mad Scientist , Minotaur Guard , Mutated Rat , Orc Leader , Orc Warlord , Renegade Orc , Salamander , Terror Bird , The Snapper , Thornback Tortoise , Troll-Trained Salamander , Undead Gladiator , Valkyrie , Wailing Widow ."
+    },
+    {
+        "Nome": "Holy Amplification",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/79/Holy_Amplification.gif",
+        "Atributos": "Aumenta o dano, fazendo com que seus ataques e magias tratem as sensibilidades do alvo como se fossem 8% maiores, por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.30",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Holy Resilience",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/e/ea/Holy_Resilience.gif",
+        "Atributos": "Aumenta a proteção em 8% por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Ice Amplification",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/0/0b/Ice_Amplification.gif",
+        "Atributos": "Aumenta o dano, fazendo com que seus ataques e magias tratem as sensibilidades do alvo como se fossem 8% maiores, por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.30",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Ice Resilience",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/63/Ice_Resilience.gif",
+        "Atributos": "Aumenta a proteção em 8% por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Kooldown-Aid",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/8/8c/Kooldown-Aid.gif",
+        "Atributos": "Reseta temporariamente o cooldown de todas as magias, uma única vez. (não reduz o cooldown da Gift of Life)",
+        "Agrupável": "",
+        "Peso": "2.10",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Lemonade",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/32/Lemonade.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Lifefluid",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b3/Lifefluid.gif",
+        "Atributos": "Recupera HP .",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Magic Shield Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/3b/Magic_Shield_Potion.gif",
+        "Atributos": "Ativa ou renova o Magic Shield de seu usuário ao ser consumido.",
+        "Agrupável": "",
+        "Peso": "3.20",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Mana Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/43/Mana_Potion.gif",
+        "Atributos": "Regenera mana quando usado.",
+        "Agrupável": "",
+        "Peso": "2.70",
+        "Dropa_de": "Armadile , Barbarian Brutetamer , Bibby Bloodbath , Blue Djinn , Bonelord , Crystal Spider , Dawnfly , Dark Apprentice , Dark Magician , Dark Monk , Death Priest , Demon Skeleton , Dragon Lord Hatchling , Elf Overseer , Emerald Damselfly , Energy Elemental , Frost Giantess , Golden Servant , Golden Servant Replica , Grave Guard , Green Djinn , Hideous Fungus , High Voltage Elemental , Humongous Fungus , Knowledge Elemental , Lava Golem , Lizard Snakecharmer , Mad Scientist , Merlkin , Minotaur Mage , Orewalker , Priestess , Stone Devourer , Wailing Widow , Werebadger , Werefox , Zombie ."
+    },
+    {
+        "Nome": "Manafluid",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/bd/Manafluid.gif",
+        "Atributos": "Restaura de 50 a 150 de mana por vial .",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Mastermind Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/ad/Mastermind_Potion.gif",
+        "Atributos": "Concede Magic Level +3 por 10 minutos.",
+        "Agrupável": "",
+        "Peso": "2.90",
+        "Dropa_de": "Alptramun , Ancient Spawn of Morgathla , Annihilon , Askarak Demon , Askarak Lord , Askarak Prince , Chagorz , Diamond Servant , Diamond Servant Replica , Drume , Ghulosh , Gorzindel , Goshnar's Malice , Ichgahal , Izcandar the Banished , King Zelos , Lady Tenebris , Lloyd , Lokathmor , Mad Scientist , Madareth , Malofur Mangrinder , Maxxenius , Mazzinor , Murcion , Plagueroot , Ratmiral Blackwhiskers , Razzagorn , Scarlett Etzel , Spitter , Srezz Yellow Eyes , The Baron from Below , The Brainstealer , The Count Of The Core , The Duke Of The Depths , The Monster , The Nightmare Beast , The Pale Worm , The Sandking , The Time Guardian , Yielothax , Timira the Many-Headed , Vemiath ."
+    },
+    {
+        "Nome": "Mead",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/c/c1/Mead.gif",
+        "Atributos": "Te deixa bêbado.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Milk",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/4/43/Milk.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Muck Remover",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/fa/Muck_Remover.gif",
+        "Atributos": "Remove muco.",
+        "Agrupável": "",
+        "Peso": "0.90",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Mud",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/9/97/Mud.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Oil",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/d7/Oil.gif",
+        "Atributos": "Você pode usar para recarregar lamps .",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Physical Amplification",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/1d/Physical_Amplification.gif",
+        "Atributos": "Aumenta o dano, fazendo com que seus ataques e magias tratem as sensibilidades do alvo como se fossem 8% maiores, por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.30",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Physical Resilience",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/56/Physical_Resilience.gif",
+        "Atributos": "Aumenta a proteção Física em 8% por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.50",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Rum",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/a6/Rum.gif",
+        "Atributos": "Te deixa bêbado .",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Slime (Líquido)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/10/Slime_%28L%C3%ADquido%29.gif",
+        "Atributos": "Envenena quem beber.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Small Health Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/56/Small_Health_Potion.gif",
+        "Atributos": "Recupera HP quando usado.",
+        "Agrupável": "",
+        "Peso": "2.65",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Stale Mushroom Beer",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/31/Stale_Mushroom_Beer.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.00",
+        "Dropa_de": "Ninguém"
+    },
+    {
+        "Nome": "Stamina Extension",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/a/ad/Stamina_Extension.gif",
+        "Atributos": "Enche uma hora de stamina, mas não ultrapassa o limite máximo.",
+        "Agrupável": "",
+        "Peso": "2.10",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Strike Enhancement",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/d/d5/Strike_Enhancement.gif",
+        "Atributos": "Aumenta a chance de causar dano crítico em 5% por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.10",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Strong Health Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/78/Strong_Health_Potion.gif",
+        "Atributos": "Regenera HP quando usado.",
+        "Agrupável": "",
+        "Peso": "2.90",
+        "Dropa_de": "Albino Dragon , Ancient Scarab , Animated Ogre Brute , Animated Ogre Savage , Arctic Faun , Armadile , Arthei , Askarak Demon , Askarak Lord , Askarak Prince , Blood Beast , Boogy , Boreth , Brimstone Bug , Cave Spider , Cyclops Drone , Cyclops Smith , Dark Faun , Dark Magician , Diamond Servant , Diamond Servant Replica , Dragon Lord , Dragon , Draptor , Elder Wyrm , Enraged Crystal Golem , Fazzrah , Fleshcrawler , Glooth Anemone , Giant Spider , Gravedigger , Haunted Treeling , Humongous Fungus , Ice Golem , Inkwing , Iks Aucar , Kroazur , Lava Golem , Lersatio , Lizard High Guard , Lizard Legionnaire , Lizard Noble , Lizard Zaogun , Lost Exile , Lost Husher , Mad Mage , Marziel , Metal Gargoyle , Minotaur Hunter , Misguided Shadow , Misguided Thief , Mooh'Tah Warrior , Mutated Tiger , Naga Warrior , Nightfiend , Ogre Brute , Ogre Savage , Orc Cult Inquisitor , Orc Cultist , Orc Cult Minion , Orc Cult Priest , Orclops Doomhauler , Orclops Ravager , Orewalker , Parder , Pirate Buccaneer , Pirate Corsair , Pooka , Raxias , Rot Elemental , Rustheap Golem , Sea Serpent , Seacrest Serpent , Shaburak Demon , Shaburak Lord , Shaburak Prince , Shardhead , Stampor , Stone Devourer , Sulphur Scuttler , The Horned Fox , Tromphonyte , Twisted Pooka , Vampire Bride , Vampire Viscount , Vampire , Vulcongra , Water Elemental , Wereboar , Werewolf , Wiggler , Wyrm , Wyvern , Yielothax , Young Sea Serpent ."
+    },
+    {
+        "Nome": "Strong Mana Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/3/3c/Strong_Mana_Potion.gif",
+        "Atributos": "Regenera mana quando usado.",
+        "Agrupável": "",
+        "Peso": "2.90",
+        "Dropa_de": "Animated Ogre Shaman , Arbaziloth , Armadile , Askarak Demon , Askarak Lord , Askarak Prince , Banshee , Brimstone Bug , Blood Hand , Blood Priest , Carnivostrich , Crystal Spider , Dark Magician , Depowered Minotaur , Diamond Servant Replica , Draken Abomination , Draptor , Diamond Servant , Earth Elemental , Efreet , Elder Bonelord , Elder Wyrm , Elf Arcanist , Energy Elemental , Enlightened of the Cult , Enraged Crystal Golem , Fahim the Wise , Foam Stalker , Ghost Of A Planegazer , Glooth Anemone , Gravedigger , High Voltage Elemental , Hydra , Humongous Fungus , Ice Golem , Ice Witch , Inkwing , Iks Ahpututu , Iks Pututu , Jungle Moa , Leviathan , Lich , Lava Golem , Lizard Dragon Priest , Lizard Magistratus , Mad Mage , Marid , Massive Energy Elemental , Merikh the Slaughterer , Metal Gargoyle , Minotaur Cult Prophet , Minotaur Cult Zealot , Minotaur Hunter , Misguided Thief , Mooh'Tah Warrior , Necromancer , Nightfiend , Nightstalker , Nymph , Ogre Shaman , Orewalker , Pixie , Rot Elemental , Rustheap Golem , Sea Serpent , Seacrest Serpent , Shaburak Demon , Shaburak Lord , Shaburak Prince , Shadow Pupil , Shaper Matriarch , Stampor , Stone Devourer , Sulphur Scuttler , Swan Maiden , The Bloodweb , The Many , Tromphonyte , Two-Headed Turtle , Vampire Bride , Vampire Viscount , Vulcongra , Water Elemental , Werebadger , Werefox , Worm Priestess , Wiggler , Wyrm , Yielothax , Young Sea Serpent ."
+    },
+    {
+        "Nome": "Supreme Health Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/5/55/Supreme_Health_Potion.gif",
+        "Atributos": "Regenera HP quando usado.",
+        "Agrupável": "",
+        "Peso": "3.50",
+        "Dropa_de": "Alptramun , Arbaziloth , Chagorz , Drume , Ghulosh , Gorzindel , Goshnar's Malice , Izcandar the Banished , Malofur Mangrinder , Maxxenius , Mazzinor , Megasylvan Yselda , Murcion , Plagueroot , Scarlett Etzel , The Brainstealer , The Dread Maiden , The Last Lore Keeper , The Nightmare Beast , The Pale Worm ."
+    },
+    {
+        "Nome": "Tea",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/65/Tea.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Transcendence Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f1/Transcendence_Potion.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "2.90",
+        "Dropa_de": "Chagorz , Count Vlarkorth , Drume , Earl Osam , Ghulosh , Goshnar's Greed , Goshnar's Malice , Ichgahal , Magma Bubble , Maxxenius , Megasylvan Yselda , Murcion , Ratmiral Blackwhiskers , Scarlett Etzel , Tentugly's Head , The Brainstealer , The Dread Maiden , The Fear Feaster , The Monster , The Nightmare Beast , The Pale Worm , Timira the Many-Headed , Vemiath , Zushuka (Mortal) ."
+    },
+    {
+        "Nome": "Ultimate Health Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/7b/Ultimate_Health_Potion.gif",
+        "Atributos": "Regenera HP quando usado.",
+        "Agrupável": "",
+        "Peso": "3.10",
+        "Dropa_de": "Ancient Spawn of Morgathla , Angry Demon , Annihilon , Anomaly , Arbaziloth , Betrayed Wraith , Blightwalker , Bloodback , Bog Raider , Cave Chimera , Choking Fear , Cliff Strider , Crazed Winter Rearguard , Crazed Winter Vanguard , Darkfang , Demon , Demon Outcast , Draken Abomination , Draken Elite , Draken Warmaster , Dread Intruder , Energetic Book , Energuardian Of Tales , Eradicator , Essence Of Malice , Ethershreck , Feversleep , Flameborn , Fleshslicer , Ghastly Dragon , Girtablilu Warrior , Gorgo , Glooth Anemone , Glooth Bandit , Glooth Bomb , Glooth Brigand , Glooth Golem , Gorzindel , Grim Reaper , Hand of Cursed Fate , Hatebreeder , Hellflayer , Hellgorak , Hellhound , Hellspawn , Hemming , Hive Overseer , Hulking Prehemoth , Icecold Book , Insane Siren , Ironblight , Juvenile Bashmu , Katex Blood Tongue , Knowledge Elemental , Kollos , Kusuma , Lava Golem , Lizard Gate Guardian , Lloyd , Lokathmor , Lost Basher , Madareth , Maw , Mazoran , Medusa , Melting Frozen Horror , Nighthunter , Noxious Ripptor , Orewalker , Outburst , Phantasm , Plagirath , Prince Drazzak , Rage Squid , Ragiaz , Ravenous Hunger , Razzagorn , Realityquake , Rupture , Shadowpelt , Shiversleep , Shulgrax , Sopping Corpus , Souleater , Soul of Dragonking Zyrtarch , Spidris Elite , Spidris , Squid Warden , Srezz Yellow Eyes , Stabilizing Dread Intruder , Stone Devourer , Tarbaz , Tentugly's Head , Terrorsleep , Terofar , Thanatursus , The Baron from Below , The Count Of The Core , The Duke Of The Depths , The Enraged Thorn Knight , The False God , The Flaming Orchid , The Last Lore Keeper , The Lord of the Lice , The Monster , The Rootkraken , The Sandking , The Shatterer , The Souldespoiler , The Source Of Corruption , The Time Guardian , The Unarmored Voidborn , Tremor Worm , Undead Elite Gladiator , Ushuriel , Utua Stone Sting , Vexclaw , Usurper Archer , War Golem , Weeper , Werebear , Wereboar , Werewolf , World Devourer , Yirkas Blue Scales , Zamulosh , Zavarash , Zugurosh , Timira the Many-Headed ."
+    },
+    {
+        "Nome": "Ultimate Mana Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/b/b8/Ultimate_Mana_Potion.gif",
+        "Atributos": "Regenera mana quando usado.",
+        "Agrupável": "",
+        "Peso": "3.10",
+        "Dropa_de": "Alptramun , Arbaziloth , Black Vixen , Brain Squid , Chagorz , Drume , Energetic Book , Energuardian Of Tales , Ghulosh , Gorerilla , Gorzindel , Goshnar's Malice , Icecold Book , Ichgahal , Izcandar the Banished , Knowledge Elemental , Lokathmor , Malofur Mangrinder , Mantosaurus , Maxxenius , Mazzinor , Megasylvan Yselda , Menacing Carnivor , Murcion , Plagueroot , Ratmiral Blackwhiskers , Scarlett Etzel , Sopping Corpus , Sharpclaw , Squid Warden , Sulphider , Tentugly's Head , The Brainstealer , The Dread Maiden , The Monster , The Nightmare Beast , The Scourge of Oblivion , Timira the Many-Headed ."
+    },
+    {
+        "Nome": "Ultimate Spirit Potion",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/f/f0/Ultimate_Spirit_Potion.gif",
+        "Atributos": "Regenera vida e mana quando usado.",
+        "Agrupável": "",
+        "Peso": "3.10",
+        "Dropa_de": "Alptramun , Arbaziloth , Black Vixen , Chagorz , Drume , Ghulosh , Gorzindel , Ichgahal , Izcandar the Banished , King Zelos , Malofur Mangrinder , Maxxenius , Mazzinor , Megasylvan Yselda , Morshabaal , Murcion , Plagueroot , Scarlett Etzel , Tentugly's Head , The Abomination , The Brainstealer , The Dread Maiden , The Monster , The Nightmare Beast , The Rootkraken , The Scourge of Oblivion , The Unwelcome , Vemiath ."
+    },
+    {
+        "Nome": "Urine",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/60/Bottle_with_Rat_Urine.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Water (Líquido)",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/6/6a/Water_%28L%C3%ADquido%29.gif",
+        "Atributos": "Nenhum.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Wealth Duplex",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/7/77/Wealth_Duplex.gif",
+        "Atributos": "Dobra o loot de todos os monstros normais mortos, por uma hora.",
+        "Agrupável": "",
+        "Peso": "2.10",
+        "Dropa_de": "Ninguém."
+    },
+    {
+        "Nome": "Wine",
+        "Imagem_URL": "https://www.tibiawiki.com.br/images/1/15/Wine.gif",
+        "Atributos": "Te deixa bêbado.",
+        "Agrupável": "",
+        "Peso": "1.80",
+        "Dropa_de": "Ninguém."
+    }
+]
