@@ -1,0 +1,903 @@
+<div class="TableContainer">
+  <div class="CaptionContainer">
+    <div class="CaptionInnerContainer">
+      <span class="CaptionEdgeLeftTop" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+      <span class="CaptionEdgeRightTop" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+      <span class="CaptionBorderTop" style="background-image:url(templates/myaac/images/global/content/table-headline-border.gif);"></span>
+      <span class="CaptionBorderBottom" style="background-image:url(templates/myaac/images/global/content/table-headline-border.gif);"></span>
+      <span class="CaptionEdgeLeftBottom" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+      <span class="CaptionVerticalLeft" style="background-image:url(templates/myaac/images/global/content/box-frame-vertical.gif);"></span>
+      <div class="Text" style="min-height: 17px">
+        <div style="float: left">Morgul's Room </div>
+      </div>
+      <span class="CaptionVerticalRight" style="background-image:url(templates/myaac/images/global/content/box-frame-vertical.gif);"></span>
+      <span class="CaptionBorderBottom" style="background-image:url(templates/myaac/images/global/content/table-headline-border.gif);"></span>
+      <span class="CaptionEdgeLeftBottom"></span>
+      <span class="CaptionEdgeRightBottom" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+    </div>
+  </div>
+  <div id="Task3CollapseToggleButton" class="BigToggleButton" onclick="CollapseTable('Task3CollapseContainer'); $('#labelshow').html($('#labelshow').html() == 'show' ? 'hide' : 'show');" "="" onmouseout=" $('#HelperDivContainer').hide();">
+    <div id="Indicator_Task3CollapseContainer" class="CircleSymbolPlus" style="position: absolute; height: 18px; width: 18px; top: -8px; right: -8px; z-index: 99; cursor: pointer; background-image: url(&quot;templates/myaac/images/global/content/circle-symbol-plus.gif&quot;);"></div>
+    <i class="fa fa-info-circle" aria-hidden="true"></i> Click here to <span id="labelshow">show</span>
+    <b>additional information</b>.
+  </div>
+  <div id="Task3CollapseContainer" style="display: none;">
+    <table class="Table3" cellspacing="0" cellpadding="0" align="">
+      <tbody>
+        <tr>
+          <td>
+            <div class="InnerTableContainer">
+              <table style="width:100%;">
+                <tbody>
+                  <tr>
+                    <td>
+                      <div class="TableShadowContainerRightTop">
+                        <div class="TableShadowRightTop" style="background-image:url(templates/myaac/images/global/content/table-shadow-rt.gif);"></div>
+                      </div>
+                      <div class="TableContentContainer">
+                        <table class="TableContent TableStripped " width="100%">
+                          <tbody></tbody>
+                        </table>
+                        <table class="TableContent" style="border:1px solid #faf0d7;" width="100%" cellspacing="1" cellpadding="4" border="1">
+                          <tbody>
+                            <tr bgcolor="#2C3E50">
+                              <td class="white" width="5%" align="center">
+                                <b>
+                                  <small>#</small>
+                                </b>
+                              </td>
+                              <td class="white" width="10%" align="center">
+                                <b>
+                                  <small>Task Name</small>
+                                </b>
+                              </td>
+                              <td class="white" width="10%" align="center">
+                                <b>
+                                  <small>Amount</small>
+                                </b>
+                              </td>
+                              <td class="white" width="45%" align="center">
+                                <b>
+                                  <small>Creatures</small>
+                                </b>
+                              </td>
+                              <td class="white" width="30%" align="center">
+                                <b>
+                                  <small>Rewards</small>
+                                </b>
+                              </td>
+                            </tr> 
+							 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>41</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Iksupan</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Iksupan.gif" alt="Iksupan">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  6000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Iks Yapunac, Mitmah Scout, Mitmah Seer</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Music Box<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 15x Gold Tokens<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>42</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Carnivor</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Carnivor.gif" alt="Carnivor">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  10000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Lumbering Carnivor, Spiky Carnivor, Menacing Carnivor</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 10x Prey Cards<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 20x Silver Tokens<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>43</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Grim Reaper</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Grim_Reaper.gif" alt="Grim Reaper">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  3000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Hellspawn, Grim Reaper</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 8.000.000 EXP X <i>sua Rate</i><br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 6.000.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>44</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Candia</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Candia.gif" alt="Candia">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  5000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Candy Horror, Nibblemaw, Honey Elemental, Angry Sugar Fairy, Candy Floss Elemental, Goggle Cake</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 3.000.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 2.000.000 Gold Coins<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>45</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Lycanthrope</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Lycanthrope.gif" alt="Lycanthrope">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  6000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Werelion, Werelioness</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 2x Mystic Bag<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 2x Exalted Core<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>46</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">The Void</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/The_Void.gif" alt="The Void">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  10000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Breach Brood, Dread Intruder, Sparkion</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 9.000.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 2.000.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 7.000.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>47</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Asura</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Asura.gif" alt="Asura">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  7000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Dawnfire Asura, Midnight Asura, Frost Flower Asura</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Exercise Weapon (21.600 Charges)<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 2.500.000 Gold Coins<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>48</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Spectre</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Spectre.gif" alt="Spectre">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  12000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Gazer Spectre, Burster Spectre, Ripper Spectre</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 10.000.000 EXP X <i>sua Rate</i><br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 8.000.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>49</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Catacombs</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Catacombs.gif" alt="Catacombs">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  15000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Destroyer, Dark Torturer, Demon, Grim Reaper, Hellhound, Hellspawn, Juggernaut</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 10x Prey Cards<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 15 Gold Tokens<br><font color="#e74c3c"><b>• </b></font> 20 Silver Tokens<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>50</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Roshamuul</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Roshamuul.gif" alt="Roshamuul">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  8000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Guzzlemaw, Frazzlemaw, Silencer, Choking Fear, Retching Horror</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 300x Cluster Of Solace<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 100x Cluster Of Solace<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>51</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Warzone 1 2 3</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Warzone_1_2_3.gif" alt="Warzone 1 2 3">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  10000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Hideous Fungus, Humongous Fungus, Humorless Fungus, Stone Devourer, Weeper, Magma Crawler, Lost Berserker, Lava Golem, Cliff Strider, Ironblight, Orewalker</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 50x Major Crystalline Token<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 20x Major Crystalline Token<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>52</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Weretiger</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Weretiger.gif" alt="Weretiger">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  6000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Weretiger, White Weretiger, Cunning Werepanther</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 4.000.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 3.000.000 Gold Coins<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>53</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Werecrocodile</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Werecrocodile.gif" alt="Werecrocodile">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  6000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Werecrocodile, Feral Werecrocodile, Werepanther</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 2x Roulette Coin<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 10.000.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>54</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Winter &amp; Summer</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Winter_&amp;_Summer.gif" alt="Winter &amp; Summer">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  5000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Crazed Summer Rearguard, Crazed Summer Vanguard, Crazed Winter Rearguard, Crazed Winter Vanguard, Insane Siren, Soul-broken Harbinger</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 12.000.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 5.000.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 10.000.000 EXP X <i>sua Rate</i><br><font color="#e74c3c"><b>• </b></font> 2.000.000 Gold Coins<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>55</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Deathling</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Deathling.gif" alt="Deathling">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  4000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Deathling Scout, Deathling Spellsinger</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Exercise Weapon (25.200 Charges)<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 3.000.000 Gold Coins<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>56</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Great Pearl</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Great_Pearl.gif" alt="Great Pearl">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  8000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Foam Stalker, Two-headed Turtle</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 2x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Fire Amplification<br><font color="#27ae60"><b>• </b></font> 1x Ice Amplification<br><font color="#27ae60"><b>• </b></font> 1x Energy Amplification<br><font color="#27ae60"><b>• </b></font> 1x Earth Amplification<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> Random Item: Bestiary Betterment, Strike Enhancement, Stamina Extension							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>57</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Moon Goddess</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Moon_Goddess.gif" alt="Moon Goddess">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  10000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Makara, Naga Archer, Naga Warrior</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 2x Task Coin, Random Item: Red Tome, Purple Tome, Blue Tome, Green Tome, Grey Tome
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> Random Item: Lemon Cupcake, Strawberry Cupcake, Blueberry Cupcake							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>58</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Forest of Life</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Forest_of_Life.gif" alt="Forest of Life">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  8000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Dark Carnisylvan, Hulking Carnisylvan, Poisonous Carnisylvan</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 2x Task Coin<br><font color="#27ae60"><b>• </b></font> 3x Mystic Bag<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 4.000.000 Gold Coins<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>59</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Kilmaresh Deeper</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Kilmaresh_Deeper.gif" alt="Kilmaresh Deeper">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  10000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Burning Gladiator, Black Sphinx Acolyte, Priestess Of The Wild Sun</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 2x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Stamina Extension<br><font color="#27ae60"><b>• </b></font> 1x Strike Enhancement<br><font color="#27ae60"><b>• </b></font> 1x Wealth Duplex<br><font color="#27ae60"><b>• </b></font> 1x Bestiary Betterment<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 3.000.000 Gold Coins<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>60</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Issavi</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Issavi.gif" alt="Issavi">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  7000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Sphinx, Manticore, Lamassu, Feral Sphinx, Crypt Warden</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 2x Task Coin<br><font color="#27ae60"><b>• </b></font> 10.000.000 EXP X <i>sua Rate</i><br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 8.000.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														                          </tbody>
+                        </table>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

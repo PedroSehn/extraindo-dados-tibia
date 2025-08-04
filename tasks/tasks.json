@@ -1,0 +1,1487 @@
+[
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 1,
+    "task_name": "Goblin",
+    "amount": 100,
+    "creatures": "Goblin",
+    "rewards": {
+      "primary": [
+        "5.000 EXP X",
+        "10.000 Gold Coins"
+      ],
+      "secondary": [
+        "4.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 2,
+    "task_name": "Troll",
+    "amount": 100,
+    "creatures": "Troll, Swamp Troll, Frost Troll, Island Troll",
+    "rewards": {
+      "primary": [
+        "7.000 EXP X",
+        "10.000 Gold Coins"
+      ],
+      "secondary": [
+        "5.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 3,
+    "task_name": "Rotworm",
+    "amount": 200,
+    "creatures": "Rotworm, Carrion Worm",
+    "rewards": {
+      "primary": [
+        "10.000 EXP X",
+        "20.000 Gold Coins"
+      ],
+      "secondary": [
+        "10.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 4,
+    "task_name": "Minotaur",
+    "amount": 200,
+    "creatures": "Minotaur, Minotaur Archer, Minotaur Guard, Minotaur Mage",
+    "rewards": {
+      "primary": [
+        "15.000 EXP X"
+      ],
+      "secondary": [
+        "11.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 5,
+    "task_name": "Dwarf",
+    "amount": 300,
+    "creatures": "Dwarf, Dwarf Soldier, Dwarf Guard, Dwarf Geomancer",
+    "rewards": {
+      "primary": [
+        "1x Exercise Weapon (3.600 Charges)"
+      ],
+      "secondary": [
+        "13.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 6,
+    "task_name": "Dworcs",
+    "amount": 300,
+    "creatures": "Dworc Venomsniper, Dworc Voodoomaster, Dworc Fleshhunter",
+    "rewards": {
+      "primary": [
+        "50.000 Gold Coins"
+      ],
+      "secondary": [
+        "20.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 7,
+    "task_name": "Elf",
+    "amount": 400,
+    "creatures": "Elf, Elf Scout, Elf Arcanist",
+    "rewards": {
+      "primary": [
+        "25.000 EXP X",
+        "40.000 Gold Coins"
+      ],
+      "secondary": [
+        "17.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 8,
+    "task_name": "Dark Cathedral",
+    "amount": 400,
+    "creatures": "Dark Apprentice, Dark Magician, Dark Monk, Assassin",
+    "rewards": {
+      "primary": [
+        "25.000 EXP X",
+        "50.000 Gold Coins"
+      ],
+      "secondary": [
+        "20.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 9,
+    "task_name": "Tombs",
+    "amount": 800,
+    "creatures": "Ghost, Mummy, Ghoul, Demon Skeleton, Skeleton, Crypt Shambler",
+    "rewards": {
+      "primary": [
+        "5x Prey Cards"
+      ],
+      "secondary": [
+        "30.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 10,
+    "task_name": "Scarab",
+    "amount": 600,
+    "creatures": "Scarab",
+    "rewards": {
+      "primary": [
+        "30.000 EXP X",
+        "50.000 Gold Coins"
+      ],
+      "secondary": [
+        "22.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 11,
+    "task_name": "Cyclops",
+    "amount": 500,
+    "creatures": "Cyclops, Cyclops Smith, Cyclops Drone",
+    "rewards": {
+      "primary": [
+        "35.000 EXP X",
+        "60.000 Gold Coins"
+      ],
+      "secondary": [
+        "25.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 12,
+    "task_name": "Mutated Humans",
+    "amount": 600,
+    "creatures": "Mutated Human",
+    "rewards": {
+      "primary": [
+        "50.000 EXP X"
+      ],
+      "secondary": [
+        "40.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 13,
+    "task_name": "Coryms",
+    "amount": 400,
+    "creatures": "Corym Charlatan, Corym Skirmisher, Corym Vanguard",
+    "rewards": {
+      "primary": [
+        "70.000 EXP X",
+        "60.000 Gold Coins"
+      ],
+      "secondary": [
+        "50.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 14,
+    "task_name": "Banuta Surface",
+    "amount": 500,
+    "creatures": "Kongra, Sibang, Merklin",
+    "rewards": {
+      "primary": [
+        "100.000 Gold Coins"
+      ],
+      "secondary": [
+        "70.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 15,
+    "task_name": "Pirates",
+    "amount": 700,
+    "creatures": "Pirate Marauder, Pirate Cutthroat, Pirate Corsair, Pirate Buccaneer",
+    "rewards": {
+      "primary": [
+        "1x Exercise Weapon (7.200 Charges)"
+      ],
+      "secondary": [
+        "Random Item: Brutus Bloodbeard's Hat, The Lethal Lissy's Shirt, Ron The Ripper's Sabre, Deadeye Devious' Eye Patch"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 16,
+    "task_name": "Barbarians",
+    "amount": 700,
+    "creatures": "Barbarian Bloodwalker, Barbarian Brutetamer, Barbarian Headsplitter, Barbarian Skullhunter",
+    "rewards": {
+      "primary": [
+        "200.000 EXP X",
+        "5x Shard"
+      ],
+      "secondary": [
+        "100.000 EXP X",
+        "1x Shard"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 17,
+    "task_name": "Djinn",
+    "amount": 700,
+    "creatures": "Marid, Efreet, Green Djinn, Blue Djinn",
+    "rewards": {
+      "primary": [
+        "250.000 EXP X"
+      ],
+      "secondary": [
+        "150.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 18,
+    "task_name": "Stonerefiner",
+    "amount": 500,
+    "creatures": "Stonerefiner",
+    "rewards": {
+      "primary": [
+        "300.000 EXP X",
+        "150.000 Gold Coins"
+      ],
+      "secondary": [
+        "200.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 19,
+    "task_name": "Dragon",
+    "amount": 800,
+    "creatures": "Dragon, Dragon Hatchling",
+    "rewards": {
+      "primary": [
+        "400.000 EXP X"
+      ],
+      "secondary": [
+        "300.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Lothlorien's Room",
+    "task_number": 20,
+    "task_name": "Oramond",
+    "amount": 1000,
+    "creatures": "Minotaur Hunter, Mooh Tah Warrior, Minotaur Amazon, Worm Priestess, Execowtioner, Moohtant",
+    "rewards": {
+      "primary": [
+        "800.000 EXP X",
+        "1x Exercise Weapon (10.800 Charges)"
+      ],
+      "secondary": [
+        "1.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 21,
+    "task_name": "Quara",
+    "amount": 1000,
+    "creatures": "Quara Mantassin Scout, Quara Constrictor Scout, Quara Pincher Scout, Quara Predator Scout, Quara Hydromancer Scout",
+    "rewards": {
+      "primary": [
+        "1.000.000 EXP X",
+        "200.000 Gold Coins"
+      ],
+      "secondary": [
+        "700.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 22,
+    "task_name": "Ancient Scarab",
+    "amount": 1000,
+    "creatures": "Ancient Scarab",
+    "rewards": {
+      "primary": [
+        "5x Prey Cards"
+      ],
+      "secondary": [
+        "200.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 23,
+    "task_name": "Giant Spider",
+    "amount": 2000,
+    "creatures": "Wailing Widow, Brimstone Bug, Giant Spider",
+    "rewards": {
+      "primary": [
+        "1.300.000 EXP X"
+      ],
+      "secondary": [
+        "1.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 24,
+    "task_name": "Wyrm",
+    "amount": 2000,
+    "creatures": "Wyrm, Elder Wyrm",
+    "rewards": {
+      "primary": [
+        "1.500.000 EXP X",
+        "300.000 Gold Coins"
+      ],
+      "secondary": [
+        "1.200.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 25,
+    "task_name": "Cult",
+    "amount": 3000,
+    "creatures": "Cult Believer, Vicious Squire, Cult Enforcer, Renegade Knight, Vile Grandmaster, Cult Scholar, Hero",
+    "rewards": {
+      "primary": [
+        "2.000.000 EXP X",
+        "500.000 Gold Coins"
+      ],
+      "secondary": [
+        "1.500.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 26,
+    "task_name": "Deepling",
+    "amount": 2500,
+    "creatures": "Deepling Spellsinger, Deepling Scout, Deepling Warrior, Deepling Guard",
+    "rewards": {
+      "primary": [
+        "1x Zaoan Chess Box"
+      ],
+      "secondary": [
+        "300.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 27,
+    "task_name": "Wereboar",
+    "amount": 2000,
+    "creatures": "Werefox, Werebadger, Wereboar, Werebear, Werewolf",
+    "rewards": {
+      "primary": [
+        "2.500.000 EXP X",
+        "500.000 Gold Coins"
+      ],
+      "secondary": [
+        "2.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 28,
+    "task_name": "Minotaur Cult",
+    "amount": 3000,
+    "creatures": "Minotaur Cult Follower, Minotaur Cult Prophet, Minotaur Cult Zealot",
+    "rewards": {
+      "primary": [
+        "1x Exercise Weapon (14.400 Charges)"
+      ],
+      "secondary": [
+        "400.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 29,
+    "task_name": "Feyrist Nightmare",
+    "amount": 3000,
+    "creatures": "Weakened Frazzlemaw, Enfeebled Silencer",
+    "rewards": {
+      "primary": [
+        "3.000.000 EXP X",
+        "500.000 Gold Coins"
+      ],
+      "secondary": [
+        "2.500.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 30,
+    "task_name": "Glooth",
+    "amount": 4000,
+    "creatures": "Glooth Bandit, Glooth Brigand",
+    "rewards": {
+      "primary": [
+        "20x Gold Token",
+        "20x Silver Token"
+      ],
+      "secondary": [
+        "7x Gold Token",
+        "7x Silver Token"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 31,
+    "task_name": "Exotic Cave",
+    "amount": 3000,
+    "creatures": "Exotic Spider, Exotic Bat",
+    "rewards": {
+      "primary": [
+        "1x Roulette Coin"
+      ],
+      "secondary": [
+        "500.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 32,
+    "task_name": "Pirat",
+    "amount": 3000,
+    "creatures": "Pirat Bombardier, Pirat Cutthroat, Pirat Mate, Pirat Scoundrel",
+    "rewards": {
+      "primary": [
+        "3.500.000 EXP X",
+        "500.000 Gold Coins"
+      ],
+      "secondary": [
+        "3.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 33,
+    "task_name": "Werehyaena",
+    "amount": 2000,
+    "creatures": "Werehyaena, Werehyaena Shaman",
+    "rewards": {
+      "primary": [
+        "1x Mystic Bag"
+      ],
+      "secondary": [
+        "3.500.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 34,
+    "task_name": "Dragon Lord",
+    "amount": 2000,
+    "creatures": "Dragon Lord, Dragon Lord Hatchling",
+    "rewards": {
+      "primary": [
+        "1x Dragon Claw"
+      ],
+      "secondary": [
+        "600.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 35,
+    "task_name": "Frost Dragon",
+    "amount": 3000,
+    "creatures": "Frost Dragon, Frost Dragon Hatchling",
+    "rewards": {
+      "primary": [
+        "5.000.000 EXP X"
+      ],
+      "secondary": [
+        "4.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 36,
+    "task_name": "Banuta Deeper",
+    "amount": 4000,
+    "creatures": "Medusa, Serpent Spawn, Hydra, Eternal Guardian",
+    "rewards": {
+      "primary": [
+        "2x Common Mount Box"
+      ],
+      "secondary": [
+        "800.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 37,
+    "task_name": "Nightmare",
+    "amount": 2000,
+    "creatures": "Nightmare, Nightmare Scion",
+    "rewards": {
+      "primary": [
+        "1x Exercise Weapon (18.000 Charges)"
+      ],
+      "secondary": [
+        "1.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 38,
+    "task_name": "Draken",
+    "amount": 5000,
+    "creatures": "Draken Abomination, Draken Elite, Draken Spellweaver, Draken Warmaster, Lizard Legionnaire, Lizard Magistratus, Lizard Noble, Lizard Chosen, Lizard Dragon Priest, Lizard High Guard",
+    "rewards": {
+      "primary": [
+        "6.000.000 EXP X",
+        "1.000.000 Gold Coins"
+      ],
+      "secondary": [
+        "4.500.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 39,
+    "task_name": "The Hive",
+    "amount": 5000,
+    "creatures": "Waspoid, Crawler, Spitter, Kollos, Spidris, Spidris Elite, Hive Overseer",
+    "rewards": {
+      "primary": [
+        "7.000.000 EXP X",
+        "1.500.000 Gold Coins"
+      ],
+      "secondary": [
+        "5.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Executioner's Room",
+    "task_number": 40,
+    "task_name": "MOTA",
+    "amount": 3000,
+    "creatures": "Fury, Floating Savant",
+    "rewards": {
+      "primary": [
+        "1x Mini Obelisk"
+      ],
+      "secondary": [
+        "1.500.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 41,
+    "task_name": "Iksupan",
+    "amount": 6000,
+    "creatures": "Iks Yapunac, Mitmah Scout, Mitmah Seer",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "1x Music Box"
+      ],
+      "secondary": [
+        "15x Gold Tokens"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 42,
+    "task_name": "Carnivor",
+    "amount": 10000,
+    "creatures": "Lumbering Carnivor, Spiky Carnivor, Menacing Carnivor",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "10x Prey Cards"
+      ],
+      "secondary": [
+        "20x Silver Tokens"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 43,
+    "task_name": "Grim Reaper",
+    "amount": 3000,
+    "creatures": "Hellspawn, Grim Reaper",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "8.000.000 EXP X"
+      ],
+      "secondary": [
+        "6.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 44,
+    "task_name": "Candia",
+    "amount": 5000,
+    "creatures": "Candy Horror, Nibblemaw, Honey Elemental, Angry Sugar Fairy, Candy Floss Elemental, Goggle Cake",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "3.000.000 Gold Coins"
+      ],
+      "secondary": [
+        "2.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 45,
+    "task_name": "Lycanthrope",
+    "amount": 6000,
+    "creatures": "Werelion, Werelioness",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "2x Mystic Bag"
+      ],
+      "secondary": [
+        "2x Exalted Core"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 46,
+    "task_name": "The Void",
+    "amount": 10000,
+    "creatures": "Breach Brood, Dread Intruder, Sparkion",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "9.000.000 EXP X",
+        "2.000.000 Gold Coins"
+      ],
+      "secondary": [
+        "7.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 47,
+    "task_name": "Asura",
+    "amount": 7000,
+    "creatures": "Dawnfire Asura, Midnight Asura, Frost Flower Asura",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "1x Exercise Weapon (21.600 Charges)"
+      ],
+      "secondary": [
+        "2.500.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 48,
+    "task_name": "Spectre",
+    "amount": 12000,
+    "creatures": "Gazer Spectre, Burster Spectre, Ripper Spectre",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "10.000.000 EXP X"
+      ],
+      "secondary": [
+        "8.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 49,
+    "task_name": "Catacombs",
+    "amount": 15000,
+    "creatures": "Destroyer, Dark Torturer, Demon, Grim Reaper, Hellhound, Hellspawn, Juggernaut",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "10x Prey Cards"
+      ],
+      "secondary": [
+        "15 Gold Tokens",
+        "20 Silver Tokens"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 50,
+    "task_name": "Roshamuul",
+    "amount": 8000,
+    "creatures": "Guzzlemaw, Frazzlemaw, Silencer, Choking Fear, Retching Horror",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "300x Cluster Of Solace"
+      ],
+      "secondary": [
+        "100x Cluster Of Solace"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 51,
+    "task_name": "Warzone 1 2 3",
+    "amount": 10000,
+    "creatures": "Hideous Fungus, Humongous Fungus, Humorless Fungus, Stone Devourer, Weeper, Magma Crawler, Lost Berserker, Lava Golem, Cliff Strider, Ironblight, Orewalker",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "50x Major Crystalline Token"
+      ],
+      "secondary": [
+        "20x Major Crystalline Token"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 52,
+    "task_name": "Weretiger",
+    "amount": 6000,
+    "creatures": "Weretiger, White Weretiger, Cunning Werepanther",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "4.000.000 Gold Coins"
+      ],
+      "secondary": [
+        "3.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 53,
+    "task_name": "Werecrocodile",
+    "amount": 6000,
+    "creatures": "Werecrocodile, Feral Werecrocodile, Werepanther",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "2x Roulette Coin"
+      ],
+      "secondary": [
+        "10.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 54,
+    "task_name": "Winter & Summer",
+    "amount": 5000,
+    "creatures": "Crazed Summer Rearguard, Crazed Summer Vanguard, Crazed Winter Rearguard, Crazed Winter Vanguard, Insane Siren, Soul-broken Harbinger",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "12.000.000 EXP X",
+        "5.000.000 Gold Coins"
+      ],
+      "secondary": [
+        "10.000.000 EXP X",
+        "2.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 55,
+    "task_name": "Deathling",
+    "amount": 4000,
+    "creatures": "Deathling Scout, Deathling Spellsinger",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "1x Exercise Weapon (25.200 Charges)"
+      ],
+      "secondary": [
+        "3.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 56,
+    "task_name": "Great Pearl",
+    "amount": 8000,
+    "creatures": "Foam Stalker, Two-headed Turtle",
+    "rewards": {
+      "primary": [
+        "2x Task Coin",
+        "1x Fire Amplification",
+        "1x Ice Amplification",
+        "1x Energy Amplification",
+        "1x Earth Amplification"
+      ],
+      "secondary": [
+        "Random Item: Bestiary Betterment, Strike Enhancement, Stamina Extension"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 57,
+    "task_name": "Moon Goddess",
+    "amount": 10000,
+    "creatures": "Makara, Naga Archer, Naga Warrior",
+    "rewards": {
+      "primary": [
+        "2x Task Coin, Random Item: Red Tome, Purple Tome, Blue Tome, Green Tome, Grey Tome"
+      ],
+      "secondary": [
+        "Random Item: Lemon Cupcake, Strawberry Cupcake, Blueberry Cupcake"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 58,
+    "task_name": "Forest of Life",
+    "amount": 8000,
+    "creatures": "Dark Carnisylvan, Hulking Carnisylvan, Poisonous Carnisylvan",
+    "rewards": {
+      "primary": [
+        "2x Task Coin",
+        "3x Mystic Bag"
+      ],
+      "secondary": [
+        "4.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 59,
+    "task_name": "Kilmaresh Deeper",
+    "amount": 10000,
+    "creatures": "Burning Gladiator, Black Sphinx Acolyte, Priestess Of The Wild Sun",
+    "rewards": {
+      "primary": [
+        "2x Task Coin",
+        "1x Stamina Extension",
+        "1x Strike Enhancement",
+        "1x Wealth Duplex",
+        "1x Bestiary Betterment"
+      ],
+      "secondary": [
+        "3.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Morgul's Room",
+    "task_number": 60,
+    "task_name": "Issavi",
+    "amount": 7000,
+    "creatures": "Sphinx, Manticore, Lamassu, Feral Sphinx, Crypt Warden",
+    "rewards": {
+      "primary": [
+        "2x Task Coin",
+        "10.000.000 EXP X"
+      ],
+      "secondary": [
+        "8.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 61,
+    "task_name": "Warzone 4 5 6",
+    "amount": 14000,
+    "creatures": "Chasm Spawn, Drillworm, Cave Devourer, Tunnel Tyrant, Deepworm, Diremaw",
+    "rewards": {
+      "primary": [
+        "5x Task Coin",
+        "12.000.000 EXP X"
+      ],
+      "secondary": [
+        "12.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 62,
+    "task_name": "Falcon Bastion",
+    "amount": 16000,
+    "creatures": "Falcon Knight, Falcon Paladin",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "1x Oberon Chest"
+      ],
+      "secondary": [
+        "Random Item: Lemon Cupcake, Strawberry Cupcake, Blueberry Cupcake,"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 63,
+    "task_name": "Kilmaresh Mountains",
+    "amount": 14000,
+    "creatures": "Ogre Rowdy, Ogre Ruffian, Ogre Sage",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "15.000.000 EXP X"
+      ],
+      "secondary": [
+        "13.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 64,
+    "task_name": "Goanna",
+    "amount": 15000,
+    "creatures": "Young Goanna, Adult Goanna",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "15x Prey Cards"
+      ],
+      "secondary": [
+        "15.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 65,
+    "task_name": "Prison",
+    "amount": 17000,
+    "creatures": "Demon Outcast, Blightwalker, Plaguesmith, Dark Torturer, Hellhound, Juggernaut",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "8.000.000 Gold Coins"
+      ],
+      "secondary": [
+        "6.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 66,
+    "task_name": "Cobra Bastion",
+    "amount": 18000,
+    "creatures": "Cobra Assassin, Cobra Scout, Cobra Vizier",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "1x Scarlett Chest"
+      ],
+      "secondary": [
+        "15.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 67,
+    "task_name": "Bulltaur Lair",
+    "amount": 20000,
+    "creatures": "Bulltaur Alchemist, Bulltaur Brute, Bulltaur Forgepriest",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "15.000.000 EXP X",
+        "6.000.000 Gold Coins"
+      ],
+      "secondary": [
+        "12.000.000 EXP X",
+        "2.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 68,
+    "task_name": "Lost Soul",
+    "amount": 18000,
+    "creatures": "Flimsy Lost Soul, Mean Lost Soul, Freakish Lost Soul",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "1x Exercise Weapon (32.400 Charges)"
+      ],
+      "secondary": [
+        "7.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 69,
+    "task_name": "Deep Desert",
+    "amount": 20000,
+    "creatures": "Skeleton Elite Warrior, Undead Elite Gladiator",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "10.000.000 Gold Coins"
+      ],
+      "secondary": [
+        "7.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 70,
+    "task_name": "Nimmersatt's",
+    "amount": 20000,
+    "creatures": "Dragolisk, Mega Dragon, Wardragon",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "17.000.000 EXP X",
+        "7.000.000 Gold Coins"
+      ],
+      "secondary": [
+        "15.000.000 EXP X",
+        "3.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 71,
+    "task_name": "Salt Cave",
+    "amount": 20000,
+    "creatures": "Bashmu, Juvenile Bashmu",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "2x Mini Obelisk"
+      ],
+      "secondary": [
+        "1x Golden Prison Key"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 72,
+    "task_name": "Ruins of Nuur",
+    "amount": 22000,
+    "creatures": "Girtablilu Warrior, Venerable Girtablilu",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "3x Soul Core Bag",
+        "5.000.000 Gold Coins"
+      ],
+      "secondary": [
+        "8.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 73,
+    "task_name": "Ingol",
+    "amount": 23000,
+    "creatures": "Boar Man, Carnivostrich, Crape Man, Harpy, Liodile, Rhindeer",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "3x Roulette Coin"
+      ],
+      "secondary": [
+        "10.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 74,
+    "task_name": "Ferumbras Seal",
+    "amount": 20000,
+    "creatures": "Vexclaw, Grimeleech, Hellflayer",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "20.000.000 EXP X",
+        "1x Boots Of Homecoming"
+      ],
+      "secondary": [
+        "17.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 75,
+    "task_name": "Warzone 7 8 9",
+    "amount": 16000,
+    "creatures": "Afflicted Strider, Blemished Spawn, Eyeless Devourer, Lavafungus, Lavaworm, Streaked Devourer, Cave Chimera, Tremendous Tyrant, Varnished Diremaw",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "1x Fiery Horseshoe"
+      ],
+      "secondary": [
+        "50x Gold Token",
+        "50x Silver Token"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 76,
+    "task_name": "Podzilla Stalk",
+    "amount": 21000,
+    "creatures": "Rootthing Amber Shaper, Rootthing Nutshell, Rootthing Bug Tracker",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "2x Stone Of Temporary Ascension"
+      ],
+      "secondary": [
+        "18.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 77,
+    "task_name": "True Asura",
+    "amount": 23000,
+    "creatures": "True Dawnfire Asura, True Midnight Asura, True Frost Flower Asura",
+    "rewards": {
+      "primary": [
+        "1x Task Coin",
+        "1x Exercise Weapon (43.200 Charges)"
+      ],
+      "secondary": [
+        "10.000.000 Gold Coins"
+      ]
+    }
+  },
+  {
+    "room_name": "Corrupted's Room",
+    "task_number": 78,
+    "task_name": "Podzilla Bottom",
+    "amount": 21000,
+    "creatures": "Quara Looter, Quara Plunderer, Quara Raider",
+    "rewards": {
+      "primary": [
+        "5x Task Coin"
+      ],
+      "secondary": [
+        "20.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 79,
+    "task_name": "Earth Library",
+    "amount": 10000,
+    "creatures": "Cursed Book, Ink Blob",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "25.000.000 EXP X"
+      ],
+      "secondary": [
+        "20.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 80,
+    "task_name": "Ice Library",
+    "amount": 25000,
+    "creatures": "Icecold Book, Squid Warden, Animated Feather",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "25.000.000 EXP X"
+      ],
+      "secondary": [
+        "20.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 81,
+    "task_name": "Fire Library",
+    "amount": 25000,
+    "creatures": "Burning Book, Rage Squid, Guardian Of Tales",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "25.000.000 EXP X"
+      ],
+      "secondary": [
+        "20.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 82,
+    "task_name": "Energy Library",
+    "amount": 25000,
+    "creatures": "Energetic Book, Brain Squid, Energuardian Of Tales",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "1x Library Ticket"
+      ],
+      "secondary": [
+        "20.000.000 EXP X"
+      ]
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 83,
+    "task_name": "Furious Crater",
+    "amount": 35000,
+    "creatures": "Vibrant Phantom, Courage Leech, Cloak Of Terror",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "1x Bag You Desire",
+        "1x Mini Obelisk"
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 84,
+    "task_name": "Mirrored Nightmare",
+    "amount": 35000,
+    "creatures": "Many Faces, Druid's Apparition, Knight's Apparition, Paladin's Apparition, Sorcerer's Apparition, Distorted Phantom",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "1x Bag You Desire",
+        "1x Mini Obelisk"
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 85,
+    "task_name": "Rotten Wasteland",
+    "amount": 35000,
+    "creatures": "Branchy Crawler, Rotten Golem, Mould Phantom",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "1x Bag You Desire",
+        "1x Mini Obelisk"
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 86,
+    "task_name": "Claustrophobic Inferno",
+    "amount": 35000,
+    "creatures": "Brachiodemon, Infernal Demon, Infernal Phantom",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "1x Bag You Desire",
+        "1x Mini Obelisk"
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 87,
+    "task_name": "Ebb and Flow",
+    "amount": 35000,
+    "creatures": "Bony Sea Devil, Turbulent Elemental, Capricious Phantom",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "1x Bag You Desire",
+        "1x Mini Obelisk"
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 88,
+    "task_name": "Crystal Enigma",
+    "amount": 50000,
+    "creatures": "Emerald Tortoise, Gore Horn, Gorerilla, Hulking Prehemoth, Sabretooth",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "1x Primal Bag",
+        "1x Stone Of Temporary Ascension"
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 89,
+    "task_name": "Sparkling Pools",
+    "amount": 50000,
+    "creatures": "Headpecker, Mantosaurus, Mercurial Menace, Noxious Ripptor, Shrieking Cry-stal",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "1x Primal Bag",
+        "1x Stone Of Temporary Ascension"
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 90,
+    "task_name": "Monster Graveyard",
+    "amount": 50000,
+    "creatures": "Sulphider, Sulphur Spouter, Nighthunter, Stalking Stalk, Undertaker",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "1x Primal Bag",
+        "1x Stone Of Temporary Ascension"
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 91,
+    "task_name": "Putrefactory",
+    "amount": 60000,
+    "creatures": "Meandering Mushroom, Oozing Carcass, Rotten Man-maggot, Sopping Carcass, Bloodjaw",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "5x Tainted Heart"
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 92,
+    "task_name": "Gloom Pillars",
+    "amount": 60000,
+    "creatures": "Converter, Darklight Construct, Darklight Emitter, Wandering Pillar, Bloodjaw",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "1x Exercise Weapon (46.800 Charges)"
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 93,
+    "task_name": "Jaded Roots",
+    "amount": 60000,
+    "creatures": "Bloated Man-maggot, Mycobiontic Beetle, Oozing Corpus, Sopping Corpus, Bloodjaw",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "5x Roulette Coin"
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "room_name": "N'Zoth's Room",
+    "task_number": 94,
+    "task_name": "Darklight Core",
+    "amount": 60000,
+    "creatures": "Darklight Matter, Darklight Source, Darklight Striker, Walking Pillar, Bloodjaw",
+    "rewards": {
+      "primary": [
+        "3x Task Coin",
+        "5x Darklight Heart"
+      ],
+      "secondary": []
+    }
+  }
+]

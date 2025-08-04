@@ -1,0 +1,739 @@
+<div class="TableContainer">
+  <div class="CaptionContainer">
+    <div class="CaptionInnerContainer">
+      <span class="CaptionEdgeLeftTop" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+      <span class="CaptionEdgeRightTop" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+      <span class="CaptionBorderTop" style="background-image:url(templates/myaac/images/global/content/table-headline-border.gif);"></span>
+      <span class="CaptionBorderBottom" style="background-image:url(templates/myaac/images/global/content/table-headline-border.gif);"></span>
+      <span class="CaptionEdgeLeftBottom" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+      <span class="CaptionVerticalLeft" style="background-image:url(templates/myaac/images/global/content/box-frame-vertical.gif);"></span>
+      <div class="Text" style="min-height: 17px">
+        <div style="float: left">N'Zoth's Room </div>
+      </div>
+      <span class="CaptionVerticalRight" style="background-image:url(templates/myaac/images/global/content/box-frame-vertical.gif);"></span>
+      <span class="CaptionBorderBottom" style="background-image:url(templates/myaac/images/global/content/table-headline-border.gif);"></span>
+      <span class="CaptionEdgeLeftBottom"></span>
+      <span class="CaptionEdgeRightBottom" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+    </div>
+  </div>
+  <div id="Task5CollapseToggleButton" class="BigToggleButton" onclick="CollapseTable('Task5CollapseContainer'); $('#labelshow').html($('#labelshow').html() == 'show' ? 'hide' : 'show');" "="" onmouseout=" $('#HelperDivContainer').hide();">
+    <div id="Indicator_Task5CollapseContainer" class="CircleSymbolPlus" style="position: absolute; height: 18px; width: 18px; top: -8px; right: -8px; z-index: 99; cursor: pointer; background-image: url(&quot;templates/myaac/images/global/content/circle-symbol-plus.gif&quot;);"></div>
+    <i class="fa fa-info-circle" aria-hidden="true"></i> Click here to <span id="labelshow">show</span>
+    <b>additional information</b>.
+  </div>
+  <div id="Task5CollapseContainer" style="display: none;">
+    <table class="Table3" cellspacing="0" cellpadding="0" align="">
+      <tbody>
+        <tr>
+          <td>
+            <div class="InnerTableContainer">
+              <table style="width:100%;">
+                <tbody>
+                  <tr>
+                    <td>
+                      <div class="TableShadowContainerRightTop">
+                        <div class="TableShadowRightTop" style="background-image:url(templates/myaac/images/global/content/table-shadow-rt.gif);"></div>
+                      </div>
+                      <div class="TableContentContainer">
+                        <table class="TableContent TableStripped " width="100%">
+                          <tbody></tbody>
+                        </table>
+                        <table class="TableContent" style="border:1px solid #faf0d7;" width="100%" cellspacing="1" cellpadding="4" border="1">
+                          <tbody>
+                            <tr bgcolor="#2C3E50">
+                              <td class="white" width="5%" align="center">
+                                <b>
+                                  <small>#</small>
+                                </b>
+                              </td>
+                              <td class="white" width="10%" align="center">
+                                <b>
+                                  <small>Task Name</small>
+                                </b>
+                              </td>
+                              <td class="white" width="10%" align="center">
+                                <b>
+                                  <small>Amount</small>
+                                </b>
+                              </td>
+                              <td class="white" width="45%" align="center">
+                                <b>
+                                  <small>Creatures</small>
+                                </b>
+                              </td>
+                              <td class="white" width="30%" align="center">
+                                <b>
+                                  <small>Rewards</small>
+                                </b>
+                              </td>
+                            </tr> 
+							 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>79</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Earth Library</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Earth_Library.gif" alt="Earth Library">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  10000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Cursed Book, Ink Blob</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 25.000.000 EXP X <i>sua Rate</i><br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 20.000.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>80</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Ice Library</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Ice_Library.gif" alt="Ice Library">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  25000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Icecold Book, Squid Warden, Animated Feather</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 25.000.000 EXP X <i>sua Rate</i><br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 20.000.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>81</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Fire Library</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Fire_Library.gif" alt="Fire Library">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  25000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Burning Book, Rage Squid, Guardian Of Tales</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 25.000.000 EXP X <i>sua Rate</i><br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 20.000.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>82</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Energy Library</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Energy_Library.gif" alt="Energy Library">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  25000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Energetic Book, Brain Squid, Energuardian Of Tales</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Library Ticket<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 20.000.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>83</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Furious Crater</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Furious_Crater.gif" alt="Furious Crater">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  35000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Vibrant Phantom, Courage Leech, Cloak Of Terror</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Bag You Desire<br><font color="#27ae60"><b>• </b></font> 1x Mini Obelisk<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>84</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Mirrored Nightmare</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Mirrored_Nightmare.gif" alt="Mirrored Nightmare">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  35000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Many Faces, Druid's Apparition, Knight's Apparition, Paladin's Apparition, Sorcerer's Apparition, Distorted Phantom</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Bag You Desire<br><font color="#27ae60"><b>• </b></font> 1x Mini Obelisk<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>85</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Rotten Wasteland</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Rotten_Wasteland.gif" alt="Rotten Wasteland">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  35000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Branchy Crawler, Rotten Golem, Mould Phantom</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Bag You Desire<br><font color="#27ae60"><b>• </b></font> 1x Mini Obelisk<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>86</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Claustrophobic Inferno</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Claustrophobic_Inferno.gif" alt="Claustrophobic Inferno">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  35000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Brachiodemon, Infernal Demon, Infernal Phantom</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Bag You Desire<br><font color="#27ae60"><b>• </b></font> 1x Mini Obelisk<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>87</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Ebb and Flow</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Ebb_and_Flow.gif" alt="Ebb and Flow">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  35000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Bony Sea Devil, Turbulent Elemental, Capricious Phantom</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Bag You Desire<br><font color="#27ae60"><b>• </b></font> 1x Mini Obelisk<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>88</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Crystal Enigma</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Crystal_Enigma.gif" alt="Crystal Enigma">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  50000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Emerald Tortoise, Gore Horn, Gorerilla, Hulking Prehemoth, Sabretooth</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Primal Bag<br><font color="#27ae60"><b>• </b></font> 1x Stone Of Temporary Ascension<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>89</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Sparkling Pools</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Sparkling_Pools.gif" alt="Sparkling Pools">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  50000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Headpecker, Mantosaurus, Mercurial Menace, Noxious Ripptor, Shrieking Cry-stal</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Primal Bag<br><font color="#27ae60"><b>• </b></font> 1x Stone Of Temporary Ascension<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>90</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Monster Graveyard</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Monster_Graveyard.gif" alt="Monster Graveyard">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  50000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Sulphider, Sulphur Spouter, Nighthunter, Stalking Stalk, Undertaker</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Primal Bag<br><font color="#27ae60"><b>• </b></font> 1x Stone Of Temporary Ascension<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>91</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Putrefactory</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Putrefactory.gif" alt="Putrefactory">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  60000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Meandering Mushroom, Oozing Carcass, Rotten Man-maggot, Sopping Carcass, Bloodjaw</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 5x Tainted Heart<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>92</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Gloom Pillars</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Gloom_Pillars.gif" alt="Gloom Pillars">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  60000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Converter, Darklight Construct, Darklight Emitter, Wandering Pillar, Bloodjaw</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 1x Exercise Weapon (46.800 Charges)<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>93</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Jaded Roots</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Jaded_Roots.gif" alt="Jaded Roots">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  60000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Bloated Man-maggot, Mycobiontic Beetle, Oozing Corpus, Sopping Corpus, Bloodjaw</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 5x Roulette Coin<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>94</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Darklight Core</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Darklight_Core.gif" alt="Darklight Core">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  60000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Darklight Matter, Darklight Source, Darklight Striker, Walking Pillar, Bloodjaw</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 3x Task Coin<br><font color="#27ae60"><b>• </b></font> 5x Darklight Heart<br>
+                                  <br>
+								  							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														                          </tbody>
+                        </table>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

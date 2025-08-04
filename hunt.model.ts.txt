@@ -1,0 +1,133 @@
+// Tipos auxiliares para melhor organização e segurança de tipos
+
+/**
+ * Define as métricas de ganho por hora na hunt.
+ */
+interface MetricasPorHora {
+  experiencia_bruta: number;
+  lucro: number;
+}
+
+/**
+ * Define um requisito de acesso para a hunt.
+ */
+interface Requisito {
+  nome: string;
+  descricao: string;
+}
+
+/**
+ * Define um imbuement recomendado.
+ */
+interface Imbuement {
+  nome: string;
+  quantidade: number;
+}
+
+/**
+ * Define as vocações disponíveis no jogo.
+ * Usar um tipo de união de strings garante que apenas essas chaves possam ser usadas.
+ */
+type Vocacao = 'knight' | 'paladin' | 'sorcerer' | 'druid' | 'monk';
+
+/**
+ * Contém todos os detalhes específicos para uma única vocação dentro da hunt.
+ */
+interface DetalhesVocacao {
+  recomendado: boolean;
+  imbuements: Imbuement[];
+  suprimentos: string[];
+}
+
+/**
+ * A interface principal que define a estrutura completa de um objeto "Hunt".
+ */
+export interface Hunt {
+  /** Identificador único para a hunt (ex: "candia_mines_-2_rp") */
+  id: string;
+
+  /** Nome de exibição da hunt */
+  nome: string;
+
+  /** Nível mínimo recomendado para caçar no local */
+  nivel_recomendado: number;
+
+  /** Link completo para um vídeo no YouTube, ou nulo se não houver */
+  video_youtube: string | null;
+
+  /** Objeto contendo as métricas de ganho por hora */
+  metricas_por_hora: MetricasPorHora;
+
+  /** Lista de identificadores únicos das criaturas encontradas */
+  criaturas: string[];
+
+  /** Lista de quests ou itens necessários para acessar a hunt */
+  requisitos_de_acesso: Requisito[];
+
+  /** Lista com os nomes dos itens de loot mais valiosos */
+  loot_valioso: string[];
+
+  /** * Objeto que agrupa todas as informações específicas de cada vocação.
+   * Usa o tipo Record para garantir que todas as vocações definidas em 'Vocacao'
+   * estejam presentes.
+   */
+  detalhes_por_vocacao: Record<Vocacao, DetalhesVocacao>;
+}
+
+// Exemplo de uso:
+const candiaMinesHunt: Hunt = {
+  id: "candia_mines_-2_rp",
+  nome: "Candia Mines -2 RP",
+  nivel_recomendado: 300,
+  video_youtube: "https://www.youtube.com/watch?v=exemplo12345",
+  metricas_por_hora: {
+    experiencia_bruta: 3000000,
+    lucro: 150000
+  },
+  criaturas: [
+    "candy_horror",
+    "honey_elemental",
+    "nibblemaw"
+  ],
+  requisitos_de_acesso: [
+    {
+      nome: "Green Gem",
+      descricao: "Acesso a Candia"
+    }
+  ],
+  loot_valioso: [
+    "Nome do Trinket (Anel Azul)",
+    "Silver Wing",
+    "Purple Crystal"
+  ],
+  detalhes_por_vocacao: {
+    knight: {
+      recomendado: false,
+      imbuements: [],
+      suprimentos: []
+    },
+    paladin: {
+      recomendado: true,
+      imbuements: [
+        { nome: "Life Leech", quantidade: 1 },
+        { nome: "Mana Leech", quantidade: 2 }
+      ],
+      suprimentos: ["Great Spirit Potion", "Ultimate Health Potion"]
+    },
+    sorcerer: {
+      recomendado: false,
+      imbuements: [],
+      suprimentos: []
+    },
+    druid: {
+      recomendado: false,
+      imbuements: [],
+      suprimentos: []
+    },
+    monk: {
+      recomendado: false,
+      imbuements: [],
+      suprimentos: []
+    }
+  }
+};

@@ -1,0 +1,903 @@
+<div class="TableContainer">
+  <div class="CaptionContainer">
+    <div class="CaptionInnerContainer">
+      <span class="CaptionEdgeLeftTop" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+      <span class="CaptionEdgeRightTop" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+      <span class="CaptionBorderTop" style="background-image:url(templates/myaac/images/global/content/table-headline-border.gif);"></span>
+      <span class="CaptionBorderBottom" style="background-image:url(templates/myaac/images/global/content/table-headline-border.gif);"></span>
+      <span class="CaptionEdgeLeftBottom" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+      <span class="CaptionVerticalLeft" style="background-image:url(templates/myaac/images/global/content/box-frame-vertical.gif);"></span>
+      <div class="Text" style="min-height: 17px">
+        <div style="float: left">Lothlorien's Room </div>
+      </div>
+      <span class="CaptionVerticalRight" style="background-image:url(templates/myaac/images/global/content/box-frame-vertical.gif);"></span>
+      <span class="CaptionBorderBottom" style="background-image:url(templates/myaac/images/global/content/table-headline-border.gif);"></span>
+      <span class="CaptionEdgeLeftBottom"></span>
+      <span class="CaptionEdgeRightBottom" style="background-image:url(templates/myaac/images/global/content/box-frame-edge.gif);"></span>
+    </div>
+  </div>
+  <div id="Task1CollapseToggleButton" class="BigToggleButton" onclick="CollapseTable('Task1CollapseContainer'); $('#labelshow').html($('#labelshow').html() == 'show' ? 'hide' : 'show');" "="" onmouseout=" $('#HelperDivContainer').hide();">
+    <div id="Indicator_Task1CollapseContainer" class="CircleSymbolPlus" style="position: absolute; height: 18px; width: 18px; top: -8px; right: -8px; z-index: 99; cursor: pointer; background-image: url(&quot;templates/myaac/images/global/content/circle-symbol-plus.gif&quot;);"></div>
+    <i class="fa fa-info-circle" aria-hidden="true"></i> Click here to <span id="labelshow">show</span>
+    <b>additional information</b>.
+  </div>
+  <div id="Task1CollapseContainer" style="display: none;">
+    <table class="Table3" cellspacing="0" cellpadding="0" align="">
+      <tbody>
+        <tr>
+          <td>
+            <div class="InnerTableContainer">
+              <table style="width:100%;">
+                <tbody>
+                  <tr>
+                    <td>
+                      <div class="TableShadowContainerRightTop">
+                        <div class="TableShadowRightTop" style="background-image:url(templates/myaac/images/global/content/table-shadow-rt.gif);"></div>
+                      </div>
+                      <div class="TableContentContainer">
+                        <table class="TableContent TableStripped " width="100%">
+                          <tbody></tbody>
+                        </table>
+                        <table class="TableContent" style="border:1px solid #faf0d7;" width="100%" cellspacing="1" cellpadding="4" border="1">
+                          <tbody>
+                            <tr bgcolor="#2C3E50">
+                              <td class="white" width="5%" align="center">
+                                <b>
+                                  <small>#</small>
+                                </b>
+                              </td>
+                              <td class="white" width="10%" align="center">
+                                <b>
+                                  <small>Task Name</small>
+                                </b>
+                              </td>
+                              <td class="white" width="10%" align="center">
+                                <b>
+                                  <small>Amount</small>
+                                </b>
+                              </td>
+                              <td class="white" width="45%" align="center">
+                                <b>
+                                  <small>Creatures</small>
+                                </b>
+                              </td>
+                              <td class="white" width="30%" align="center">
+                                <b>
+                                  <small>Rewards</small>
+                                </b>
+                              </td>
+                            </tr> 
+							 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>1</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Goblin</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Goblin.gif" alt="Goblin">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  100
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Goblin</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 5.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 10.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 4.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>2</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Troll</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Troll.gif" alt="Troll">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  100
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Troll, Swamp Troll, Frost Troll, Island Troll</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 7.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 10.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 5.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>3</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Rotworm</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Rotworm.gif" alt="Rotworm">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  200
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Rotworm, Carrion Worm</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 10.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 20.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 10.000 Gold Coins<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>4</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Minotaur</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Minotaur.gif" alt="Minotaur">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  200
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Minotaur, Minotaur Archer, Minotaur Guard, Minotaur Mage</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 15.000 EXP X <i>sua Rate</i><br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 11.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>5</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Dwarf</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Dwarf.gif" alt="Dwarf">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  300
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Dwarf, Dwarf Soldier, Dwarf Guard, Dwarf Geomancer</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Exercise Weapon (3.600 Charges)<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 13.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>6</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Dworcs</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Dworcs.gif" alt="Dworcs">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  300
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Dworc Venomsniper, Dworc Voodoomaster, Dworc Fleshhunter</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 50.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 20.000 Gold Coins<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>7</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Elf</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Elf.gif" alt="Elf">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  400
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Elf, Elf Scout, Elf Arcanist</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 25.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 40.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 17.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>8</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Dark Cathedral</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Dark_Cathedral.gif" alt="Dark Cathedral">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  400
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Dark Apprentice, Dark Magician, Dark Monk, Assassin</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 25.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 50.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 20.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>9</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Tombs</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Tombs.gif" alt="Tombs">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  800
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Ghost, Mummy, Ghoul, Demon Skeleton, Skeleton, Crypt Shambler</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 5x Prey Cards<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 30.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>10</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Scarab</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Scarab.gif" alt="Scarab">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  600
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Scarab</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 30.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 50.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 22.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>11</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Cyclops</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Cyclops.gif" alt="Cyclops">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  500
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Cyclops, Cyclops Smith, Cyclops Drone</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 35.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 60.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 25.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>12</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Mutated Humans</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Mutated_Humans.gif" alt="Mutated Humans">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  600
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Mutated Human</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 50.000 EXP X <i>sua Rate</i><br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 40.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>13</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Coryms</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Coryms.gif" alt="Coryms">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  400
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Corym Charlatan, Corym Skirmisher, Corym Vanguard</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 70.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 60.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 50.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>14</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Banuta Surface</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Banuta_Surface.gif" alt="Banuta Surface">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  500
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Kongra, Sibang, Merklin</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 100.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 70.000 Gold Coins<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>15</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Pirates</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Pirates.gif" alt="Pirates">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  700
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Pirate Marauder, Pirate Cutthroat, Pirate Corsair, Pirate Buccaneer</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 1x Exercise Weapon (7.200 Charges)<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> Random Item: Brutus Bloodbeard's Hat, The Lethal Lissy's Shirt, Ron The Ripper's Sabre, Deadeye Devious' Eye Patch							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>16</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Barbarians</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Barbarians.gif" alt="Barbarians">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  700
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Barbarian Bloodwalker, Barbarian Brutetamer, Barbarian Headsplitter, Barbarian Skullhunter</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 200.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 5x Shard<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 100.000 EXP X <i>sua Rate</i><br><font color="#e74c3c"><b>• </b></font> 1x Shard<br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>17</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Djinn</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Djinn.gif" alt="Djinn">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  700
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Marid, Efreet, Green Djinn, Blue Djinn</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 250.000 EXP X <i>sua Rate</i><br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 150.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>18</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Stonerefiner</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Stonerefiner.gif" alt="Stonerefiner">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  500
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Stonerefiner</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 300.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 150.000 Gold Coins<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 200.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#D4C0A1">
+                              <td>
+                                <center>19</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Dragon</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Dragon.gif" alt="Dragon">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  800
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Dragon, Dragon Hatchling</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 400.000 EXP X <i>sua Rate</i><br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 300.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														 
+							 <tr bgcolor="#F1E0C6">
+                              <td>
+                                <center>20</center>
+                              </td>
+                              <td>
+                                <center>
+                                  <small>
+                                    <b>
+                                      <font color="#2C3E50">Oramond</font>
+                                    </b>
+                                  </small>
+                                  <br>
+                                  <img src="./images/monsters/Oramond.gif" alt="Oramond">
+                                </center>
+                              </td>
+                              <td>
+                                <center>
+									<b>
+                                      <font color="#2C3E50">
+									  1000
+                                      </font>
+									</b>
+								</center>
+                              </td>
+                              <td>
+                                <center><small>Minotaur Hunter, Mooh Tah Warrior, Minotaur Amazon, Worm Priestess, Execowtioner, Moohtant</small></center>
+                              </td>
+                              <td>
+							  <center>
+                                <small>
+								<br>	
+								  <font color="#27ae60"><b>• </b></font> 800.000 EXP X <i>sua Rate</i><br><font color="#27ae60"><b>• </b></font> 1x Exercise Weapon (10.800 Charges)<br>
+                                  <br>
+								  <font color="#e74c3c"><b>• </b></font> 1.000.000 EXP X <i>sua Rate</i><br>							  
+								  <br>
+                                  <br>
+                                </small>
+								</center>
+                              </td>
+                            </tr> 
+														                          </tbody>
+                        </table>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
